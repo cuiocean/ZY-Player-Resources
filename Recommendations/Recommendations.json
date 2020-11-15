@@ -1,5 +1,108 @@
 [
   {
+    "key": "mahuazy",
+    "ids": 29806,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "https://www.mhapi123.com/inc/api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "最后的棒棒",
+    "detail": {
+      "last": "2020-04-12 15:43:02",
+      "id": 29806,
+      "tid": 20,
+      "name": "最后的棒棒",
+      "type": "记录片",
+      "pic": "https://mahuapic.com/upload/vod/2020-04-12/15866774000.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2016,
+      "state": 0,
+      "note": "完结",
+      "actor": "何苦",
+      "director": "何苦",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://mahua-kb.com/20200412/vpFPIG1f/index.m3u8#第02集$https://mahua-kb.com/20200412/K0b5AvUp/index.m3u8#第03集$https://mahua-kb.com/20200412/tgpvWhFj/index.m3u8#第04集$https://mahua-kb.com/20200412/9mc4bPsO/index.m3u8#第05集$https://mahua-kb.com/20200412/gs0qmble/index.m3u8#第06集$https://mahua-kb.com/20200412/l2eDtPPY/index.m3u8#第07集$https://mahua-kb.com/20200412/7LrOTyqT/index.m3u8#第08集$https://mahua-kb.com/20200412/rnLFz9kO/index.m3u8#第09集$https://mahua-kb.com/20200412/nOTSjrba/index.m3u8#第10集$https://mahua-kb.com/20200412/qrfl8OzL/index.m3u8#第11集$https://mahua-kb.com/20200412/Y4sTsCWm/index.m3u8#第12集$https://mahua-kb.com/20200412/w5L2lXpy/index.m3u8#第13集$https://mahua-kb.com/20200412/Up2AGSWE/index.m3u8",
+          "_flag": "mahua"
+        }
+      },
+      "des": "改革开放之初，山城重庆特殊的地理环境孕育了一个特殊的行业——山城棒棒军。爬坡上坎，负重前行的三十多年，数十万棒棒大军不仅挑走了汗水浸泡的年华，也挑走了属于自己的年代。癸巳岁末，几个佝偻背影即将道别正在消逝的行业，一名退役中校扛起一根棒棒开始了自己的追寻——辉煌与尴尬，艰韧和无奈，他们的人生无须评说，他们的故事值得铭记。",
+      "m3u8List": [
+        "第01集$https://mahua-kb.com/20200412/vpFPIG1f/index.m3u8",
+        "第02集$https://mahua-kb.com/20200412/K0b5AvUp/index.m3u8",
+        "第03集$https://mahua-kb.com/20200412/tgpvWhFj/index.m3u8",
+        "第04集$https://mahua-kb.com/20200412/9mc4bPsO/index.m3u8",
+        "第05集$https://mahua-kb.com/20200412/gs0qmble/index.m3u8",
+        "第06集$https://mahua-kb.com/20200412/l2eDtPPY/index.m3u8",
+        "第07集$https://mahua-kb.com/20200412/7LrOTyqT/index.m3u8",
+        "第08集$https://mahua-kb.com/20200412/rnLFz9kO/index.m3u8",
+        "第09集$https://mahua-kb.com/20200412/nOTSjrba/index.m3u8",
+        "第10集$https://mahua-kb.com/20200412/qrfl8OzL/index.m3u8",
+        "第11集$https://mahua-kb.com/20200412/Y4sTsCWm/index.m3u8",
+        "第12集$https://mahua-kb.com/20200412/w5L2lXpy/index.m3u8",
+        "第13集$https://mahua-kb.com/20200412/Up2AGSWE/index.m3u8"
+      ],
+      "rate": "9.6"
+    },
+    "rate": "9.6",
+    "id": 252
+  },
+  {
+    "key": "mahuazy",
+    "ids": 50694,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "https://www.mhapi123.com/inc/api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "以你的心诠释我的爱",
+    "detail": {
+      "last": "2020-11-13 09:34:47",
+      "id": 50694,
+      "tid": 17,
+      "name": "以你的心诠释我的爱",
+      "type": "泰剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-10-23/16034119330.jpg",
+      "lang": "泰语",
+      "area": "泰国",
+      "year": 2020,
+      "state": 0,
+      "note": "更新至04集",
+      "actor": "克里特·安努艾德奇康,普提蓬·阿萨拉塔纳功",
+      "director": "纳卢拜·库诺",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://b.mhqiyi.com/20201022/K4gdEqpu/index.m3u8#第02集$https://b.mhqiyi.com/20201029/h3maf38g/index.m3u8#第03集$https://e.mahua-kb.com/20201105/HVK7wMlM/index.m3u8#第04集$https://b.mhqiyi.com/20201112/pOl6JaA7/index.m3u8",
+          "_flag": "mahua"
+        }
+      },
+      "des": "这部电视剧是BKPP project的一部分",
+      "m3u8List": [
+        "第01集$https://b.mhqiyi.com/20201022/K4gdEqpu/index.m3u8",
+        "第02集$https://b.mhqiyi.com/20201029/h3maf38g/index.m3u8",
+        "第03集$https://e.mahua-kb.com/20201105/HVK7wMlM/index.m3u8",
+        "第04集$https://b.mhqiyi.com/20201112/pOl6JaA7/index.m3u8"
+      ],
+      "rate": "9.5"
+    },
+    "rate": "9.5",
+    "id": 251,
+    "index": 2
+  },
+  {
+    "id": 250,
     "key": "niuniucj",
     "ids": 20044,
     "site": {
@@ -12,6 +115,7 @@
       "isActive": 1
     },
     "name": "此画怎讲",
+    "rate": "8.1",
     "detail": {
       "last": "2020-09-23 23:23:36",
       "id": 20044,
@@ -72,11 +176,10 @@
         "第30集$https://s6.niuniu-baidu.com/2020/09/23/37H4vtEiTXcjSzoa/index.m3u8"
       ],
       "rate": "8.1"
-    },
-    "rate": "8.1",
-    "id": 250
+    }
   },
   {
+    "id": 249,
     "key": "niuniucj",
     "ids": 4255,
     "site": {
@@ -89,6 +192,7 @@
       "isActive": 1
     },
     "name": "紧急呼救第一季",
+    "rate": "8.6",
     "detail": {
       "last": "2019-10-10 19:19:15",
       "id": 4255,
@@ -129,11 +233,10 @@
         "第10集$https://s1.niuniu-baidu.com/20191010/XZjWRMxLgh8nyFlT/index.m3u8"
       ],
       "rate": "8.6"
-    },
-    "rate": "8.6",
-    "id": 249
+    }
   },
   {
+    "id": 248,
     "key": "niuniucj",
     "ids": 20632,
     "site": {
@@ -146,6 +249,7 @@
       "isActive": 1
     },
     "name": "小小世界",
+    "rate": "9.4",
     "detail": {
       "last": "2020-10-03 12:00:49",
       "id": 20632,
@@ -182,9 +286,7 @@
         "第06集$https://s6.niuniu-baidu.com/2020/10/03/U0JFALI1lHOjWCfw/index.m3u8"
       ],
       "rate": "9.4"
-    },
-    "rate": "9.4",
-    "id": 248
+    }
   },
   {
     "id": 247,
@@ -9238,6 +9340,7 @@
     }
   },
   {
+    "id": 22,
     "key": "mahuazy",
     "ids": 20868,
     "site": {
@@ -9250,6 +9353,7 @@
       "group": "默认"
     },
     "name": "铁血战士(1987)",
+    "rate": "7.7",
     "detail": {
       "last": "2019-11-23 10:59:36",
       "id": 20868,
@@ -9275,9 +9379,7 @@
         "HD$https://mhbobo.com/20191121/vyWmCGRH/index.m3u8"
       ],
       "rate": "7.7"
-    },
-    "rate": "7.7",
-    "id": 22
+    }
   },
   {
     "id": 21,
