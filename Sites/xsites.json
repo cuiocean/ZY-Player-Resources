@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "key": "xhgcjym",
+    "name": "小黄瓜资源",
+    "api": "http://cj.xhgcjym.com/inc/api.php",
+    "download": "http://cj.xhgcjym.com/inc/apidown.php",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 2,
+    "key": "jiali",
+    "name": "佳丽 TV",
+    "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 3,
+    "key": "8090zy",
+    "name": "8090资源网",
+    "api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 4,
+    "key": "rerezy",
+    "name": "热热资源",
+    "api": "http://api.rereapi.com/inc/api.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 5,
+    "key": "agzy",
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 6,
+    "key": "lajiaozy",
+    "name": "辣椒资源",
+    "api": "http://api.11bat.com/mac10.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 7,
+    "key": "dadizy",
+    "name": "大地资源",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "1WeZ6q",
+    "id": 8,
+    "name": "83特殊.xxoo",
+    "api": "https://www.xxohub3.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 9,
+    "key": "ixxzya",
+    "name": "IXX 资源",
+    "api": "http://api.iixxzyapi.com/inc/api.php",
+    "download": "http://api.iixxzyapi.com/inc/apidown.php",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 10,
+    "key": "khzy",
+    "name": "快活资源站",
+    "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "Tuyoxk",
+    "id": 11,
+    "name": "90特殊.三合资源",
+    "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "WC3h0o",
+    "id": 12,
+    "name": "93特殊.玉米资源",
+    "api": "http://api.cj644.com/inc/zyapimac.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "dydyOa",
+    "id": 13,
+    "name": "91特殊.大炮资源",
+    "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 14,
+    "key": "NhTLgM",
+    "name": "76特殊.色色",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 15,
+    "key": "LYCe0z",
+    "name": "78特殊.乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 16,
+    "key": "Iy0Jlq",
+    "name": "79特殊.苍天",
+    "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "77raVf",
+    "id": 17,
+    "name": "80特殊.云霸资源",
+    "api": "http://cj.1234567bt.com/inc/ldg_sea.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "4btciy",
+    "id": 18,
+    "name": "84特殊.鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "qz492Y",
+    "id": 19,
+    "name": "86特殊.七七资源",
+    "api": "https://www.77zyw.xyz/inc/api.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "vJQZTA",
+    "id": 20,
+    "name": "92特殊.独家资源",
+    "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "FyxUS8",
+    "id": 22,
+    "name": "95特殊.35资源",
+    "api": "http://cj.35zycj.com/inc/zyapimac.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "RRvupO",
+    "id": 23,
+    "name": "96特殊.av88资源",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 24,
+    "key": "77ziyuan",
+    "name": "77资源",
+    "api": "https://www.77zyw.xyz/inc/seacmsapi.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  }
+]
