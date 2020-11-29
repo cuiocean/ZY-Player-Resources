@@ -1,5 +1,157 @@
 [
   {
+    "key": "1886zy",
+    "ids": 16944,
+    "site": {
+      "id": 2,
+      "key": "1886zy",
+      "name": "1886 资源",
+      "api": "http://cj.1886zy.co/inc/api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "柯明斯基理论",
+    "detail": {
+      "last": "2018-11-23 18:13:07",
+      "id": 16944,
+      "tid": 15,
+      "name": "柯明斯基理论",
+      "type": "欧美剧",
+      "pic": "http://pic.yc370.com/upload/vod/2019-01-19/15479133688.jpg",
+      "lang": "",
+      "area": "美国",
+      "year": 2018,
+      "state": 8,
+      "note": "08",
+      "actor": "迈克尔·道格拉斯,艾伦·阿金,莎拉·贝克,南希·特拉维斯",
+      "director": "安迪·坦纳特,查克·罗瑞,唐纳德·佩特瑞,贝丝·麦卡锡-米勒",
+      "dl": {
+        "dd": [
+          {
+            "_t": "08$https://zuikzy.51moca.com/share/XoIqsGnIP7IED2LS#07$https://zkcdn.yiya520.com/share/kJOL42dTmm6VJkqK#06$https://zkcdn.yiya520.com/share/f8gxIqAchIPyxlAg#05$https://zkcdn.yiya520.com/share/mTG5GkXpB7yro1sQ#04$https://zkcdn.yiya520.com/share/HjQAbC0lzzHAusIw#03$https://zkcdn.yiya520.com/share/qlN7TvZUDDueiefE#02$https://zkcdn.yiya520.com/share/2P9HAA5H1KvkMgm2#01$https://zkcdn.yiya520.com/share/KUD3QMMS4UGnNA3Y",
+            "_flag": "zkyun"
+          },
+          {
+            "_t": "08$https://zuikzy.51moca.com/2018/11/23/XoIqsGnIP7IED2LS/playlist.m3u8#07$https://zkcdn.yiya520.com/2018/11/21/kJOL42dTmm6VJkqK/playlist.m3u8#06$https://zkcdn.yiya520.com/2018/11/21/f8gxIqAchIPyxlAg/playlist.m3u8#05$https://zkcdn.yiya520.com/2018/11/21/mTG5GkXpB7yro1sQ/playlist.m3u8#04$https://zkcdn.yiya520.com/2018/11/19/HjQAbC0lzzHAusIw/playlist.m3u8#03$https://zkcdn.yiya520.com/2018/11/19/qlN7TvZUDDueiefE/playlist.m3u8#02$https://zkcdn.yiya520.com/2018/11/18/2P9HAA5H1KvkMgm2/playlist.m3u8#01$https://zkcdn.yiya520.com/2018/11/18/KUD3QMMS4UGnNA3Y/playlist.m3u8",
+            "_flag": "zkm3u8"
+          }
+        ]
+      },
+      "des": "迈克尔·道格拉斯、艾伦·阿金有望加盟Netflix喜剧剧集《柯明斯基理论》(The Kominsky Method，暂译)！该剧由《生活大爆炸》联合编剧查克·罗瑞担任制片。道格拉斯剧中饰演曾经红极一时的明星，现下却只能靠教授表演课程为生，阿金饰演他的老友。道格拉斯上次出演电视剧集还是上世纪70年代的《旧金山风物记》，而阿金上一部荧屏作品则是2001年的犯罪剧集《百厦街》。",
+      "m3u8List": [
+        "08$https://zuikzy.51moca.com/2018/11/23/XoIqsGnIP7IED2LS/playlist.m3u8",
+        "07$https://zkcdn.yiya520.com/2018/11/21/kJOL42dTmm6VJkqK/playlist.m3u8",
+        "06$https://zkcdn.yiya520.com/2018/11/21/f8gxIqAchIPyxlAg/playlist.m3u8",
+        "05$https://zkcdn.yiya520.com/2018/11/21/mTG5GkXpB7yro1sQ/playlist.m3u8",
+        "04$https://zkcdn.yiya520.com/2018/11/19/HjQAbC0lzzHAusIw/playlist.m3u8",
+        "03$https://zkcdn.yiya520.com/2018/11/19/qlN7TvZUDDueiefE/playlist.m3u8",
+        "02$https://zkcdn.yiya520.com/2018/11/18/2P9HAA5H1KvkMgm2/playlist.m3u8",
+        "01$https://zkcdn.yiya520.com/2018/11/18/KUD3QMMS4UGnNA3Y/playlist.m3u8"
+      ],
+      "rate": "9.2"
+    },
+    "rate": "9.2",
+    "id": 255
+  },
+  {
+    "key": "mahuazy",
+    "ids": 21869,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "海上钢琴师",
+    "detail": {
+      "last": "2019-12-26 17:45:44",
+      "id": 21869,
+      "tid": 10,
+      "name": "海上钢琴师",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-12-26/201912261577353503.png",
+      "lang": "英语",
+      "area": "其它",
+      "year": 2019,
+      "state": 0,
+      "note": "HD",
+      "actor": "蒂姆·罗斯",
+      "director": "朱塞佩·托纳多雷",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://mhkuaibo.com/20191226/4s3AkbXZ/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "<span style=\"color: rgb(51, 51, 51); font-family: Tahoma, Helvetica, Arial, 微软雅黑, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb(248, 248, 248);\">1900年，Virginian号豪华邮轮上，一个孤儿被遗弃在头等舱，由船上的水手抚养长大，取名1900。1900慢慢长大，显示出了无师自通的非凡钢琴天赋，在船上的乐队表演钢琴，每个听过他演奏的人，都被深深打动。爵士乐鼻祖杰尼听说了1900的高超技艺，专门上船和他比赛，最后自叹弗如，黯然离去。可惜，这一切的事情都发生在海上，1900从来不愿踏上陆地，直到有一天，他爱上了一个女孩，情愫在琴键上流淌。他会不会为了爱情，踏上陆地开始新的生活，用他的琴声惊艳世界？他将怎样谱写自己非凡的人生。</span><br />",
+      "m3u8List": [
+        "HD$https://mhkuaibo.com/20191226/4s3AkbXZ/index.m3u8$mahua"
+      ],
+      "rate": "9.3"
+    },
+    "rate": "9.3",
+    "id": 254
+  },
+  {
+    "key": "mahuazy",
+    "ids": 22567,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "王冠第一季",
+    "detail": {
+      "last": "2019-12-19 11:41:40",
+      "id": 22567,
+      "tid": 15,
+      "name": "王冠第一季",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2019-12-19/15767269760.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2016,
+      "state": 0,
+      "note": "完结",
+      "actor": "克莱尔·芙伊,马特·史密斯,约翰·利思戈,凡妮莎·柯比",
+      "director": "本·卡隆,史蒂芬·戴德利,菲利普·马丁,朱里安·杰拉德",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://mhyunbo.com/20191218/5vUSpghQ/index.m3u8$mahua#第02集$https://mhyunbo.com/20191218/jC9O5JXb/index.m3u8$mahua#第03集$https://mhyunbo.com/20191218/yHN6zIDc/index.m3u8$mahua#第04集$https://mhyunbo.com/20191218/q47c0tVo/index.m3u8$mahua#第05集$https://mhyunbo.com/20191218/PBckT1Qt/index.m3u8$mahua#第06集$https://mhyunbo.com/20191218/BSy4h1fR/index.m3u8$mahua#第07集$https://mhyunbo.com/20191218/gn2peH5k/index.m3u8$mahua#第08集$https://mhyunbo.com/20191218/2UNcvDq5/index.m3u8$mahua#第09集$https://mhyunbo.com/20191218/ROV7hhdI/index.m3u8$mahua#第10集$https://mhyunbo.com/20191218/VnSKiBc4/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "马特·史密斯和约翰·利斯高加盟Netflix剧集《王冠》(The Crown，暂译)，二人分别饰演菲利普亲王和丘吉尔。剧集剧本由《女王》编剧彼得·摩根创作，首播集由《时时刻刻》导演史蒂芬·戴德利执导，讲述伊丽莎白二世与丘吉尔在二战后，重塑英伦的故事。之前确定由克莱尔·福伊出演伊丽莎白二世。",
+      "m3u8List": [
+        "第01集$https://mhyunbo.com/20191218/5vUSpghQ/index.m3u8$mahua",
+        "第02集$https://mhyunbo.com/20191218/jC9O5JXb/index.m3u8$mahua",
+        "第03集$https://mhyunbo.com/20191218/yHN6zIDc/index.m3u8$mahua",
+        "第04集$https://mhyunbo.com/20191218/q47c0tVo/index.m3u8$mahua",
+        "第05集$https://mhyunbo.com/20191218/PBckT1Qt/index.m3u8$mahua",
+        "第06集$https://mhyunbo.com/20191218/BSy4h1fR/index.m3u8$mahua",
+        "第07集$https://mhyunbo.com/20191218/gn2peH5k/index.m3u8$mahua",
+        "第08集$https://mhyunbo.com/20191218/2UNcvDq5/index.m3u8$mahua",
+        "第09集$https://mhyunbo.com/20191218/ROV7hhdI/index.m3u8$mahua",
+        "第10集$https://mhyunbo.com/20191218/VnSKiBc4/index.m3u8$mahua"
+      ],
+      "rate": "9.2"
+    },
+    "rate": "9.2",
+    "id": 253
+  },
+  {
+    "id": 252,
     "key": "mahuazy",
     "ids": 29806,
     "site": {
@@ -13,6 +165,7 @@
       "status": "可用"
     },
     "name": "最后的棒棒",
+    "rate": "9.6",
     "detail": {
       "last": "2020-04-12 15:43:02",
       "id": 29806,
@@ -50,11 +203,10 @@
         "第13集$https://mahua-kb.com/20200412/Up2AGSWE/index.m3u8"
       ],
       "rate": "9.6"
-    },
-    "rate": "9.6",
-    "id": 252
+    }
   },
   {
+    "id": 251,
     "key": "mahuazy",
     "ids": 50694,
     "site": {
@@ -68,6 +220,8 @@
       "status": "可用"
     },
     "name": "以你的心诠释我的爱",
+    "index": 2,
+    "rate": "9.5",
     "detail": {
       "last": "2020-11-13 09:34:47",
       "id": 50694,
@@ -96,10 +250,7 @@
         "第04集$https://b.mhqiyi.com/20201112/pOl6JaA7/index.m3u8"
       ],
       "rate": "9.5"
-    },
-    "rate": "9.5",
-    "id": 251,
-    "index": 2
+    }
   },
   {
     "id": 250,
