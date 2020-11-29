@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "key": "mahuazy",
+    "name": "麻花资源",
+    "api": "http://www.mhapi123.com/inc/ldg_api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 2,
+    "key": "1886zy",
+    "name": "1886 资源",
+    "api": "http://cj.1886zy.co/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "wolongzy",
+    "id": 3,
+    "name": "卧龙资源网",
+    "api": "https://www.mhapi123.com/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 4,
+    "key": "123ku",
+    "name": "123 资源",
+    "api": "http://cj.123ku2.com:12315/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 5,
+    "key": "subo988",
+    "name": "速播资源站",
+    "api": "https://www.subo988.com/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 6,
+    "key": "88zyw",
+    "name": "88 影视资源站",
+    "api": "http://www.88zyw.net/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "zuidazy",
+    "id": 7,
+    "name": "最大资源网",
+    "api": "http://www.zdziyuan.com/inc/ldg_sea.php",
+    "download": "http://www.zdziyuan.com/inc/apidown.php",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "mbo",
+    "id": 8,
+    "name": "秒播资源",
+    "api": "http://caiji.mb77.vip/inc/seacmsapi.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 9,
+    "key": "apibdzy",
+    "name": "百度云资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 10,
+    "key": "okzy",
+    "name": "OK 资源网",
+    "api": "http://cj.okzy.tv/inc/api.php",
+    "download": "http://cj.okzy.tv/inc/apidown.php",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 11,
+    "key": "kuyunzy",
+    "name": "酷云资源",
+    "api": "http://caiji.kuyun98.com/inc/ldg_api.php",
+    "download": "http://caiji.kuyun98.com/inc/apidown.php",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 12,
+    "key": "kubozy",
+    "name": "酷播资源",
+    "api": "http://api.kbzyapi.com/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 13,
+    "key": "yongjiuzy",
+    "name": "永久资源",
+    "api": "http://cj.yongjiuzyw.com/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 14,
+    "key": "rrzy",
+    "name": "人人资源",
+    "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 15,
+    "key": "bbkdj",
+    "name": "步步高顶尖资源网",
+    "api": "http://api.bbkdj.com/api",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 16,
+    "key": "zuixinzy",
+    "name": "最新资源",
+    "api": "http://api.zuixinapi.com/inc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "腾讯视频资源",
+    "id": 17,
+    "name": "腾讯视频(需解析)",
+    "api": "http://zy.itono.cn/inc/qq.php",
+    "download": "",
+    "group": "需解析",
+    "isActive": true
+  },
+  {
+    "key": "奇艺视频资源",
+    "id": 18,
+    "name": "奇艺视频(需解析)",
+    "api": "http://zy.itono.cn/inc/qiyi.php",
+    "download": "",
+    "group": "需解析",
+    "isActive": true
+  },
+  {
+    "key": "芒果视频资源",
+    "id": 19,
+    "name": "芒果视频(需解析)",
+    "api": "http://zy.itono.cn/inc/mgtv.php",
+    "download": "",
+    "group": "需解析",
+    "isActive": true
+  },
+  {
+    "key": "搜狐视频资源",
+    "id": 20,
+    "name": "搜狐视频(需解析)",
+    "api": "http://zy.itono.cn/inc/sohu.php",
+    "download": "",
+    "group": "需解析",
+    "isActive": true
+  },
+  {
+    "key": "优酷视频资源采集",
+    "id": 21,
+    "name": "优酷视频(需解析)",
+    "api": "http://zy.itono.cn/inc/youku.php",
+    "download": "",
+    "group": "需解析",
+    "isActive": true
+  },
+  {
+    "key": "乐视视频资源",
+    "id": 22,
+    "name": "乐视视频(需解析)",
+    "api": "http://zy.itono.cn/inc/letv.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true
+  },
+  {
+    "key": "PPTV视频资源",
+    "id": 23,
+    "name": "PPTV视频(需解析)",
+    "api": "http://zy.itono.cn/inc/pptv.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true
+  },
+  {
+    "key": "咪咕视频资源",
+    "id": 24,
+    "name": "咪咕视频(需解析)",
+    "api": "http://zy.itono.cn/inc/migu.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true
+  },
+  {
+    "key": "哔哩哔哩资源",
+    "id": 25,
+    "name": "哔哩哔哩(需解析)",
+    "api": "http://zy.itono.cn/inc/bilibili.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true
+  }
+]
