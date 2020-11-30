@@ -1,5 +1,432 @@
 [
   {
+    "key": "mahuazy",
+    "ids": 8457,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "哪吒之魔童降世",
+    "detail": {
+      "last": "2019-10-11 19:36:15",
+      "id": 8457,
+      "tid": 41,
+      "name": "哪吒之魔童降世",
+      "type": "动画片",
+      "pic": "https://mahuapic.com/upload/vod/2019-09-28/15696502971.jpg",
+      "lang": "",
+      "area": "",
+      "year": 2019,
+      "state": 0,
+      "note": "BD",
+      "actor": " 吕艳婷 Yanting Lü, 囧森瑟夫 Joseph, 瀚墨 Mo Han, 陈浩 Hao Chen, 绿绮 Qi Lü, 张珈铭 Jiaming Zhang, 杨卫 Wei Yang ",
+      "director": "饺子",
+      "dl": {
+        "dd": {
+          "_t": "BD$https://3.mhbobo.com/20191011/NZrTKBTL/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "《哪吒降世》的导演饺子曾经推出过一部风靡网络的动画短片《打，打个大西瓜》，他称新作《哪吒降世》既会严谨按照原作，又会完全颠覆原作。",
+      "m3u8List": [
+        "BD$https://3.mhbobo.com/20191011/NZrTKBTL/index.m3u8$mahua"
+      ],
+      "rate": "8.5"
+    },
+    "rate": "8.5",
+    "id": 259
+  },
+  {
+    "key": "mahuazy",
+    "ids": 15546,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "西游记之大圣归来",
+    "detail": {
+      "last": "2020-05-06 15:27:17",
+      "id": 15546,
+      "tid": 10,
+      "name": "西游记之大圣归来",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-14/15710150452.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2015,
+      "state": 0,
+      "note": "HD",
+      "actor": "张磊,林子杰,吴文伦,童自荣",
+      "director": "田晓鹏",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://d.mhkuaibo.com/20200506/p3l5Dxoc/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "五百年前，由石猴变化而成的齐天大圣孙悟空（张磊 配音）大闹天宫，最终被如来佛祖镇在了五行山下。此去经年，长安城内突然遭到山妖洗劫，童男童女哭声连连，命悬一线。危机时刻，自幼被行脚僧法明（吴文伦 配音）抚养长大的江流儿（林子杰 配音）救下了一个小女孩，结果反遭山妖追杀。经过一番追逐，江流儿无意中解除了孙悟空的封印，齐天大圣自然好好地将山妖教训了一番。因为封印未解开，悟空不得不护送江流儿和小女孩回长安，一路上又遭遇了猪八戒（刘九容 配音）和白龙马。与此同时，妖王（童自荣 配音）绝不甘心失败，他躲在暗中，等待着给孙悟空一行致命一击的良机……&copy;豆瓣",
+      "m3u8List": [
+        "HD$https://d.mhkuaibo.com/20200506/p3l5Dxoc/index.m3u8$mahua"
+      ],
+      "rate": "8.3"
+    },
+    "rate": "8.3",
+    "id": 258
+  },
+  {
+    "key": "1886zy",
+    "ids": 28729,
+    "site": {
+      "id": 2,
+      "key": "1886zy",
+      "name": "1886 资源",
+      "api": "http://cj.1886zy.co/inc/api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "出租车司机/的士司机",
+    "detail": {
+      "last": "2019-08-17 10:08:18",
+      "id": 28729,
+      "tid": 10,
+      "name": "出租车司机/的士司机",
+      "type": "剧情片",
+      "pic": "http://pic.yc370.com/upload/vod/2019-08-17/201908171566006970.png",
+      "lang": "韩语",
+      "area": "韩国",
+      "year": 2017,
+      "state": 0,
+      "note": "韩语1080p",
+      "actor": "宋康昊 托马斯·克莱舒曼 Thomas Kretschmann",
+      "director": "",
+      "dl": {
+        "dd": [
+          {
+            "_t": "韩语1080p$https://gnzk.yiya520.com/share/wNgKmssYa7PSO38R",
+            "_flag": "zkyun"
+          },
+          {
+            "_t": "韩语1080p$https://gnzk.yiya520.com/2019/08/17/wNgKmssYa7PSO38R/playlist.m3u8",
+            "_flag": "zkm3u8"
+          }
+        ]
+      },
+      "des": "<span style=\"color: rgb(51, 51, 51); font-family: &quot;Microsoft Yahei&quot;; background-color: rgb(253, 253, 253);\">1980年5月光州民主化运动前夕，一名汉城的士司机金四福(宋康昊 饰) 以微薄收入来维持自己及女儿的生活。一天，他接到一单大生意，他只需将一名外国乘客彼得 (托马斯·克莱舒曼 饰) 送到光州并在宵禁前回来汉城即可获得10万韩元报酬，足以支付他拖欠了几个月的房租。开心上路的四福以为只是一趟普通旅程，殊不知车上的彼得原来是一名来自德国的调查记者，更不知光州的学生和民众正在举行大规模反政府示威。一场意外的偶遇，让平凡的士司机四福一脚踏入历史巨流的暴风当中</span><br />",
+      "m3u8List": [
+        "韩语1080p$https://gnzk.yiya520.com/2019/08/17/wNgKmssYa7PSO38R/playlist.m3u8"
+      ]
+    },
+    "id": 257
+  },
+  {
+    "key": "mahuazy",
+    "ids": 50969,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "棋魂2020",
+    "detail": {
+      "last": "2020-11-26 19:58:52",
+      "id": 50969,
+      "tid": 12,
+      "name": "棋魂2020",
+      "type": "国产剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-10-27/16037998520.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2020,
+      "state": 0,
+      "note": "完结",
+      "actor": "胡先煦,张超,郝富申,赵浩闳,韩沐伯,翟冠华,孙灿,吴芊盈,纪李,蒋宜儒,江柏萱,赵虎,陈玺旭,方文强",
+      "director": "刘畅",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://a.mhqiyi.com/20201027/9Smf3myD/index.m3u8$mahua#第02集$https://a.mhqiyi.com/20201027/zPa6Y93U/index.m3u8$mahua#第03集$https://a.mhqiyi.com/20201027/EwNOUdx5/index.m3u8$mahua#第04集$https://a.mhqiyi.com/20201027/l36xIrsp/index.m3u8$mahua#第05集$https://a.mhqiyi.com/20201027/H8rzKGWz/index.m3u8$mahua#第06集$https://a.mhqiyi.com/20201027/1nbHMVz3/index.m3u8$mahua#第07集$https://a.mhqiyi.com/20201027/YAeosCT3/index.m3u8$mahua#第08集$https://a.mhqiyi.com/20201027/4f9kdVKl/index.m3u8$mahua#第09集$https://b.mhqiyi.com/20201028/orFJSFmG/index.m3u8$mahua#第10集$https://b.mhqiyi.com/20201028/Msbvwnmr/index.m3u8$mahua#第11集$https://b.mhqiyi.com/20201029/X8H5UFKs/index.m3u8$mahua#第12集$https://b.mhqiyi.com/20201029/uZNW6Fx8/index.m3u8$mahua#第13集$https://b.mhqiyi.com/20201103/kZlZVF3i/index.m3u8$mahua#第14集$https://b.mhqiyi.com/20201103/LT0aZOln/index.m3u8$mahua#第15集$https://e.mahua-kb.com/20201104/9RLco71e/index.m3u8$mahua#第16集$https://e.mahua-kb.com/20201104/z55qrEZf/index.m3u8$mahua#第17集$https://b.mhqiyi.com/20201105/bq5kTuoX/index.m3u8$mahua#第18集$https://b.mhqiyi.com/20201105/ZEM38t0I/index.m3u8$mahua#第19集$https://b.mhqiyi.com/20201110/euszt7iW/index.m3u8$mahua#第20集$https://b.mhqiyi.com/20201110/YxMWCjp1/index.m3u8$mahua#第21集$https://b.mhqiyi.com/20201111/Zk1Acu8w/index.m3u8$mahua#第22集$https://b.mhqiyi.com/20201111/0sV3psyb/index.m3u8$mahua#第23集$https://e.mahua-kb.com/20201112/vQbkeqjm/index.m3u8$mahua#第24集$https://e.mahua-kb.com/20201112/Q5YJd30E/index.m3u8$mahua#第25集$https://b.mhqiyi.com/20201117/Mnd0vCkO/index.m3u8$mahua#第26集$https://b.mhqiyi.com/20201117/e9Unp7lk/index.m3u8$mahua#第27集$https://b.mhqiyi.com/20201118/CjtKGvYA/index.m3u8$mahua#第28集$https://b.mhqiyi.com/20201118/vtUOm5gU/index.m3u8$mahua#第29集$https://b.mhqiyi.com/20201119/cHg0h0UO/index.m3u8$mahua#第30集$https://b.mhqiyi.com/20201119/X3CRUca2/index.m3u8$mahua#第31集$https://b.mhqiyi.com/20201124/ySSUxnZm/index.m3u8$mahua#第32集$https://b.mhqiyi.com/20201124/2XlRxG8d/index.m3u8$mahua#第33集$https://b.mhqiyi.com/20201125/XCjeKrny/index.m3u8$mahua#第34集$https://b.mhqiyi.com/20201125/oDU59WNG/index.m3u8$mahua#第35集$https://b.mhqiyi.com/20201126/FXzQi2mZ/index.m3u8$mahua#第36集$https://b.mhqiyi.com/20201126/rPHh4jWT/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "该网剧讲述了时光（胡先煦 饰）在机缘巧合之下发现一个古老的棋盘，从而认识了盘踞在棋盘内、历经千年的南梁围棋第一人——褚嬴，并在他的熏陶下逐渐对围棋产生兴趣，并励志成为职业围棋手的故事。",
+      "m3u8List": [
+        "第01集$https://a.mhqiyi.com/20201027/9Smf3myD/index.m3u8$mahua",
+        "第02集$https://a.mhqiyi.com/20201027/zPa6Y93U/index.m3u8$mahua",
+        "第03集$https://a.mhqiyi.com/20201027/EwNOUdx5/index.m3u8$mahua",
+        "第04集$https://a.mhqiyi.com/20201027/l36xIrsp/index.m3u8$mahua",
+        "第05集$https://a.mhqiyi.com/20201027/H8rzKGWz/index.m3u8$mahua",
+        "第06集$https://a.mhqiyi.com/20201027/1nbHMVz3/index.m3u8$mahua",
+        "第07集$https://a.mhqiyi.com/20201027/YAeosCT3/index.m3u8$mahua",
+        "第08集$https://a.mhqiyi.com/20201027/4f9kdVKl/index.m3u8$mahua",
+        "第09集$https://b.mhqiyi.com/20201028/orFJSFmG/index.m3u8$mahua",
+        "第10集$https://b.mhqiyi.com/20201028/Msbvwnmr/index.m3u8$mahua",
+        "第11集$https://b.mhqiyi.com/20201029/X8H5UFKs/index.m3u8$mahua",
+        "第12集$https://b.mhqiyi.com/20201029/uZNW6Fx8/index.m3u8$mahua",
+        "第13集$https://b.mhqiyi.com/20201103/kZlZVF3i/index.m3u8$mahua",
+        "第14集$https://b.mhqiyi.com/20201103/LT0aZOln/index.m3u8$mahua",
+        "第15集$https://e.mahua-kb.com/20201104/9RLco71e/index.m3u8$mahua",
+        "第16集$https://e.mahua-kb.com/20201104/z55qrEZf/index.m3u8$mahua",
+        "第17集$https://b.mhqiyi.com/20201105/bq5kTuoX/index.m3u8$mahua",
+        "第18集$https://b.mhqiyi.com/20201105/ZEM38t0I/index.m3u8$mahua",
+        "第19集$https://b.mhqiyi.com/20201110/euszt7iW/index.m3u8$mahua",
+        "第20集$https://b.mhqiyi.com/20201110/YxMWCjp1/index.m3u8$mahua",
+        "第21集$https://b.mhqiyi.com/20201111/Zk1Acu8w/index.m3u8$mahua",
+        "第22集$https://b.mhqiyi.com/20201111/0sV3psyb/index.m3u8$mahua",
+        "第23集$https://e.mahua-kb.com/20201112/vQbkeqjm/index.m3u8$mahua",
+        "第24集$https://e.mahua-kb.com/20201112/Q5YJd30E/index.m3u8$mahua",
+        "第25集$https://b.mhqiyi.com/20201117/Mnd0vCkO/index.m3u8$mahua",
+        "第26集$https://b.mhqiyi.com/20201117/e9Unp7lk/index.m3u8$mahua",
+        "第27集$https://b.mhqiyi.com/20201118/CjtKGvYA/index.m3u8$mahua",
+        "第28集$https://b.mhqiyi.com/20201118/vtUOm5gU/index.m3u8$mahua",
+        "第29集$https://b.mhqiyi.com/20201119/cHg0h0UO/index.m3u8$mahua",
+        "第30集$https://b.mhqiyi.com/20201119/X3CRUca2/index.m3u8$mahua",
+        "第31集$https://b.mhqiyi.com/20201124/ySSUxnZm/index.m3u8$mahua",
+        "第32集$https://b.mhqiyi.com/20201124/2XlRxG8d/index.m3u8$mahua",
+        "第33集$https://b.mhqiyi.com/20201125/XCjeKrny/index.m3u8$mahua",
+        "第34集$https://b.mhqiyi.com/20201125/oDU59WNG/index.m3u8$mahua",
+        "第35集$https://b.mhqiyi.com/20201126/FXzQi2mZ/index.m3u8$mahua",
+        "第36集$https://b.mhqiyi.com/20201126/rPHh4jWT/index.m3u8$mahua"
+      ],
+      "rate": "暂无评分"
+    },
+    "rate": "暂无评分",
+    "id": 256
+  },
+  {
+    "id": 255,
+    "key": "mahuazy",
+    "ids": 21869,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "海上钢琴师",
+    "rate": "9.3",
+    "detail": {
+      "last": "2019-12-26 17:45:44",
+      "id": 21869,
+      "tid": 10,
+      "name": "海上钢琴师",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-12-26/201912261577353503.png",
+      "lang": "英语",
+      "area": "其它",
+      "year": 2019,
+      "state": 0,
+      "note": "HD",
+      "actor": "蒂姆·罗斯",
+      "director": "朱塞佩·托纳多雷",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://mhkuaibo.com/20191226/4s3AkbXZ/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "<span style=\"color: rgb(51, 51, 51); font-family: Tahoma, Helvetica, Arial, 微软雅黑, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb(248, 248, 248);\">1900年，Virginian号豪华邮轮上，一个孤儿被遗弃在头等舱，由船上的水手抚养长大，取名1900。1900慢慢长大，显示出了无师自通的非凡钢琴天赋，在船上的乐队表演钢琴，每个听过他演奏的人，都被深深打动。爵士乐鼻祖杰尼听说了1900的高超技艺，专门上船和他比赛，最后自叹弗如，黯然离去。可惜，这一切的事情都发生在海上，1900从来不愿踏上陆地，直到有一天，他爱上了一个女孩，情愫在琴键上流淌。他会不会为了爱情，踏上陆地开始新的生活，用他的琴声惊艳世界？他将怎样谱写自己非凡的人生。</span><br />",
+      "m3u8List": [
+        "HD$https://mhkuaibo.com/20191226/4s3AkbXZ/index.m3u8$mahua"
+      ],
+      "rate": "9.3"
+    }
+  },
+  {
+    "id": 254,
+    "key": "mahuazy",
+    "ids": 22567,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "王冠第一季",
+    "rate": "9.2",
+    "detail": {
+      "last": "2019-12-19 11:41:40",
+      "id": 22567,
+      "tid": 15,
+      "name": "王冠第一季",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2019-12-19/15767269760.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2016,
+      "state": 0,
+      "note": "完结",
+      "actor": "克莱尔·芙伊,马特·史密斯,约翰·利思戈,凡妮莎·柯比",
+      "director": "本·卡隆,史蒂芬·戴德利,菲利普·马丁,朱里安·杰拉德",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://mhyunbo.com/20191218/5vUSpghQ/index.m3u8$mahua#第02集$https://mhyunbo.com/20191218/jC9O5JXb/index.m3u8$mahua#第03集$https://mhyunbo.com/20191218/yHN6zIDc/index.m3u8$mahua#第04集$https://mhyunbo.com/20191218/q47c0tVo/index.m3u8$mahua#第05集$https://mhyunbo.com/20191218/PBckT1Qt/index.m3u8$mahua#第06集$https://mhyunbo.com/20191218/BSy4h1fR/index.m3u8$mahua#第07集$https://mhyunbo.com/20191218/gn2peH5k/index.m3u8$mahua#第08集$https://mhyunbo.com/20191218/2UNcvDq5/index.m3u8$mahua#第09集$https://mhyunbo.com/20191218/ROV7hhdI/index.m3u8$mahua#第10集$https://mhyunbo.com/20191218/VnSKiBc4/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "马特·史密斯和约翰·利斯高加盟Netflix剧集《王冠》(The Crown，暂译)，二人分别饰演菲利普亲王和丘吉尔。剧集剧本由《女王》编剧彼得·摩根创作，首播集由《时时刻刻》导演史蒂芬·戴德利执导，讲述伊丽莎白二世与丘吉尔在二战后，重塑英伦的故事。之前确定由克莱尔·福伊出演伊丽莎白二世。",
+      "m3u8List": [
+        "第01集$https://mhyunbo.com/20191218/5vUSpghQ/index.m3u8$mahua",
+        "第02集$https://mhyunbo.com/20191218/jC9O5JXb/index.m3u8$mahua",
+        "第03集$https://mhyunbo.com/20191218/yHN6zIDc/index.m3u8$mahua",
+        "第04集$https://mhyunbo.com/20191218/q47c0tVo/index.m3u8$mahua",
+        "第05集$https://mhyunbo.com/20191218/PBckT1Qt/index.m3u8$mahua",
+        "第06集$https://mhyunbo.com/20191218/BSy4h1fR/index.m3u8$mahua",
+        "第07集$https://mhyunbo.com/20191218/gn2peH5k/index.m3u8$mahua",
+        "第08集$https://mhyunbo.com/20191218/2UNcvDq5/index.m3u8$mahua",
+        "第09集$https://mhyunbo.com/20191218/ROV7hhdI/index.m3u8$mahua",
+        "第10集$https://mhyunbo.com/20191218/VnSKiBc4/index.m3u8$mahua"
+      ],
+      "rate": "9.2"
+    }
+  },
+  {
+    "key": "mahuazy",
+    "ids": 49092,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "小小世界",
+    "detail": {
+      "last": "2020-10-02 22:38:06",
+      "id": 49092,
+      "tid": 20,
+      "name": "小小世界",
+      "type": "记录片",
+      "pic": "https://mahuapic.com/upload/vod/2020-10-02/16016495230.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2020,
+      "state": 0,
+      "note": "更新至06集",
+      "actor": "保罗·路德",
+      "director": "",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://e.mahua-kb.com/20201002/8U86B0KI/index.m3u8$mahua#第02集$https://e.mahua-kb.com/20201002/9TBIiSJk/index.m3u8$mahua#第03集$https://e.mahua-kb.com/20201002/ln61EdKG/index.m3u8$mahua#第04集$https://b.mhqiyi.com/20201002/uieT9sJS/index.m3u8$mahua#第05集$https://b.mhqiyi.com/20201002/bb6b6nGG/index.m3u8$mahua#第06集$https://b.mhqiyi.com/20201002/Kpx8R7Z8/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "该纪录影集由保罗·路德[ 蚁人 ]担任解说，以令人叹为观止的摄影技术，带领观众深入大自然，探索各种小型生物坚韧的生命力，见证这些鲜为人知的小英雄背后的故事。",
+      "m3u8List": [
+        "第01集$https://e.mahua-kb.com/20201002/8U86B0KI/index.m3u8$mahua",
+        "第02集$https://e.mahua-kb.com/20201002/9TBIiSJk/index.m3u8$mahua",
+        "第03集$https://e.mahua-kb.com/20201002/ln61EdKG/index.m3u8$mahua",
+        "第04集$https://b.mhqiyi.com/20201002/uieT9sJS/index.m3u8$mahua",
+        "第05集$https://b.mhqiyi.com/20201002/bb6b6nGG/index.m3u8$mahua",
+        "第06集$https://b.mhqiyi.com/20201002/Kpx8R7Z8/index.m3u8$mahua"
+      ],
+      "rate": "9.5"
+    },
+    "rate": "9.5",
+    "id": 253
+  },
+  {
+    "key": "mahuazy",
+    "ids": 45359,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "此画怎讲",
+    "detail": {
+      "last": "2020-09-23 12:26:28",
+      "id": 45359,
+      "tid": 20,
+      "name": "此画怎讲",
+      "type": "记录片",
+      "pic": "https://mahuapic.com/upload/vod/2020-08-26/15984226840.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2020,
+      "state": 0,
+      "note": "更新至30集",
+      "actor": "开心麻花,小荧星",
+      "director": "吴紫鹃",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://mahua-kb.com/20200826/CtV0N6hP/index.m3u8$mahua#第02集$https://mahua-kb.com/20200826/dhDhVzQp/index.m3u8$mahua#第03集$https://mahua-kb.com/20200826/jEuCSM9J/index.m3u8$mahua#第04集$https://mahua-kb.com/20200826/IGlRsS7k/index.m3u8$mahua#第05集$https://mahua-kb.com/20200826/QZaj6GHD/index.m3u8$mahua#第06集$https://mahua-kb.com/20200826/HNPWHA9m/index.m3u8$mahua#第07集$https://mahua-kb.com/20200826/GITlRewZ/index.m3u8$mahua#第08集$https://mahua-kb.com/20200826/ln0o5LGJ/index.m3u8$mahua#第09集$https://mahua-kb.com/20200826/J8RGf2ld/index.m3u8$mahua#第10集$https://mahua-kb.com/20200826/OXK3AwAT/index.m3u8$mahua#第11集$https://e.mahua-kb.com/20200902/0c6dehBI/index.m3u8$mahua#第12集$https://e.mahua-kb.com/20200902/JlWQoLI4/index.m3u8$mahua#第13集$https://e.mahua-kb.com/20200902/TUc0Lv3w/index.m3u8$mahua#第14集$https://e.mahua-kb.com/20200902/yoQO7a8G/index.m3u8$mahua#第15集$https://e.mahua-kb.com/20200902/1aoCbMXt/index.m3u8$mahua#第16集$https://e.mahua-kb.com/20200909/0rb0bJLs/index.m3u8$mahua#第17集$https://e.mahua-kb.com/20200909/1e51TK1P/index.m3u8$mahua#第18集$https://e.mahua-kb.com/20200909/fUXnE18R/index.m3u8$mahua#第19集$https://e.mahua-kb.com/20200909/ruiLh50q/index.m3u8$mahua#第20集$https://e.mahua-kb.com/20200909/WU9jp9Vi/index.m3u8$mahua#第21集$https://e.mahua-kb.com/20200916/vP8Sz1Xu/index.m3u8$mahua#第22集$https://e.mahua-kb.com/20200916/ZDfg27sY/index.m3u8$mahua#第23集$https://e.mahua-kb.com/20200916/e3amXKQh/index.m3u8$mahua#第24集$https://e.mahua-kb.com/20200916/hb3QgkB7/index.m3u8$mahua#第25集$https://e.mahua-kb.com/20200916/yxNdG3rp/index.m3u8$mahua#第26集$https://e.mahua-kb.com/20200923/92jzwWJe/index.m3u8$mahua#第27集$https://e.mahua-kb.com/20200923/mfZLFKOY/index.m3u8$mahua#第28集$https://e.mahua-kb.com/20200923/v28LUOCm/index.m3u8$mahua#第29集$https://e.mahua-kb.com/20200923/uFed3ah9/index.m3u8$mahua#第30集$https://e.mahua-kb.com/20200923/VIM8ElTv/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "《此画怎讲》是由腾讯视频出品的国内首部名画真人番，选材于14幅中国美术史上巅峰地位的知名人物画，以“古画活起来”的形式，用画中人物的口吻，为观众普及名画鉴赏知识，降低艺术普及的门槛，弘扬传统文化精华",
+      "m3u8List": [
+        "第01集$https://mahua-kb.com/20200826/CtV0N6hP/index.m3u8$mahua",
+        "第02集$https://mahua-kb.com/20200826/dhDhVzQp/index.m3u8$mahua",
+        "第03集$https://mahua-kb.com/20200826/jEuCSM9J/index.m3u8$mahua",
+        "第04集$https://mahua-kb.com/20200826/IGlRsS7k/index.m3u8$mahua",
+        "第05集$https://mahua-kb.com/20200826/QZaj6GHD/index.m3u8$mahua",
+        "第06集$https://mahua-kb.com/20200826/HNPWHA9m/index.m3u8$mahua",
+        "第07集$https://mahua-kb.com/20200826/GITlRewZ/index.m3u8$mahua",
+        "第08集$https://mahua-kb.com/20200826/ln0o5LGJ/index.m3u8$mahua",
+        "第09集$https://mahua-kb.com/20200826/J8RGf2ld/index.m3u8$mahua",
+        "第10集$https://mahua-kb.com/20200826/OXK3AwAT/index.m3u8$mahua",
+        "第11集$https://e.mahua-kb.com/20200902/0c6dehBI/index.m3u8$mahua",
+        "第12集$https://e.mahua-kb.com/20200902/JlWQoLI4/index.m3u8$mahua",
+        "第13集$https://e.mahua-kb.com/20200902/TUc0Lv3w/index.m3u8$mahua",
+        "第14集$https://e.mahua-kb.com/20200902/yoQO7a8G/index.m3u8$mahua",
+        "第15集$https://e.mahua-kb.com/20200902/1aoCbMXt/index.m3u8$mahua",
+        "第16集$https://e.mahua-kb.com/20200909/0rb0bJLs/index.m3u8$mahua",
+        "第17集$https://e.mahua-kb.com/20200909/1e51TK1P/index.m3u8$mahua",
+        "第18集$https://e.mahua-kb.com/20200909/fUXnE18R/index.m3u8$mahua",
+        "第19集$https://e.mahua-kb.com/20200909/ruiLh50q/index.m3u8$mahua",
+        "第20集$https://e.mahua-kb.com/20200909/WU9jp9Vi/index.m3u8$mahua",
+        "第21集$https://e.mahua-kb.com/20200916/vP8Sz1Xu/index.m3u8$mahua",
+        "第22集$https://e.mahua-kb.com/20200916/ZDfg27sY/index.m3u8$mahua",
+        "第23集$https://e.mahua-kb.com/20200916/e3amXKQh/index.m3u8$mahua",
+        "第24集$https://e.mahua-kb.com/20200916/hb3QgkB7/index.m3u8$mahua",
+        "第25集$https://e.mahua-kb.com/20200916/yxNdG3rp/index.m3u8$mahua",
+        "第26集$https://e.mahua-kb.com/20200923/92jzwWJe/index.m3u8$mahua",
+        "第27集$https://e.mahua-kb.com/20200923/mfZLFKOY/index.m3u8$mahua",
+        "第28集$https://e.mahua-kb.com/20200923/v28LUOCm/index.m3u8$mahua",
+        "第29集$https://e.mahua-kb.com/20200923/uFed3ah9/index.m3u8$mahua",
+        "第30集$https://e.mahua-kb.com/20200923/VIM8ElTv/index.m3u8$mahua"
+      ],
+      "rate": "8.1"
+    },
+    "rate": "8.1",
+    "id": 252
+  },
+  {
+    "id": 251,
     "key": "1886zy",
     "ids": 16944,
     "site": {
@@ -13,6 +440,7 @@
       "status": "可用"
     },
     "name": "柯明斯基理论",
+    "rate": "9.2",
     "detail": {
       "last": "2018-11-23 18:13:07",
       "id": 16944,
@@ -51,13 +479,11 @@
         "01$https://zkcdn.yiya520.com/2018/11/18/KUD3QMMS4UGnNA3Y/playlist.m3u8"
       ],
       "rate": "9.2"
-    },
-    "rate": "9.2",
-    "id": 255
+    }
   },
   {
     "key": "mahuazy",
-    "ids": 21869,
+    "ids": 25311,
     "site": {
       "id": 1,
       "key": "mahuazy",
@@ -68,90 +494,47 @@
       "isActive": true,
       "status": "可用"
     },
-    "name": "海上钢琴师",
+    "name": "紧急呼救第一季",
     "detail": {
-      "last": "2019-12-26 17:45:44",
-      "id": 21869,
-      "tid": 10,
-      "name": "海上钢琴师",
-      "type": "剧情片",
-      "pic": "https://mahuapic.com/upload/vod/2019-12-26/201912261577353503.png",
-      "lang": "英语",
-      "area": "其它",
-      "year": 2019,
-      "state": 0,
-      "note": "HD",
-      "actor": "蒂姆·罗斯",
-      "director": "朱塞佩·托纳多雷",
-      "dl": {
-        "dd": {
-          "_t": "HD$https://mhkuaibo.com/20191226/4s3AkbXZ/index.m3u8$mahua",
-          "_flag": "mahua"
-        }
-      },
-      "des": "<span style=\"color: rgb(51, 51, 51); font-family: Tahoma, Helvetica, Arial, 微软雅黑, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb(248, 248, 248);\">1900年，Virginian号豪华邮轮上，一个孤儿被遗弃在头等舱，由船上的水手抚养长大，取名1900。1900慢慢长大，显示出了无师自通的非凡钢琴天赋，在船上的乐队表演钢琴，每个听过他演奏的人，都被深深打动。爵士乐鼻祖杰尼听说了1900的高超技艺，专门上船和他比赛，最后自叹弗如，黯然离去。可惜，这一切的事情都发生在海上，1900从来不愿踏上陆地，直到有一天，他爱上了一个女孩，情愫在琴键上流淌。他会不会为了爱情，踏上陆地开始新的生活，用他的琴声惊艳世界？他将怎样谱写自己非凡的人生。</span><br />",
-      "m3u8List": [
-        "HD$https://mhkuaibo.com/20191226/4s3AkbXZ/index.m3u8$mahua"
-      ],
-      "rate": "9.3"
-    },
-    "rate": "9.3",
-    "id": 254
-  },
-  {
-    "key": "mahuazy",
-    "ids": 22567,
-    "site": {
-      "id": 1,
-      "key": "mahuazy",
-      "name": "麻花资源",
-      "api": "http://www.mhapi123.com/inc/ldg_api.php",
-      "download": "",
-      "group": "默认",
-      "isActive": true,
-      "status": "可用"
-    },
-    "name": "王冠第一季",
-    "detail": {
-      "last": "2019-12-19 11:41:40",
-      "id": 22567,
+      "last": "2020-02-01 16:30:32",
+      "id": 25311,
       "tid": 15,
-      "name": "王冠第一季",
+      "name": "紧急呼救第一季",
       "type": "欧美剧",
-      "pic": "https://mahuapic.com/upload/vod/2019-12-19/15767269760.jpg",
+      "pic": "https://mahuapic.com/upload/vod/2020-02-01/15805507634.jpg",
       "lang": "英语",
       "area": "美国",
-      "year": 2016,
+      "year": 2018,
       "state": 0,
       "note": "完结",
-      "actor": "克莱尔·芙伊,马特·史密斯,约翰·利思戈,凡妮莎·柯比",
-      "director": "本·卡隆,史蒂芬·戴德利,菲利普·马丁,朱里安·杰拉德",
+      "actor": "安吉拉·贝塞特,彼得·克劳斯,奥利弗·斯塔克,艾莎·辛德斯",
+      "director": "布拉德利·比克尔,芭芭拉·布朗,格温妮丝·霍德-佩顿,玛吉·基莉 ",
       "dl": {
         "dd": {
-          "_t": "第01集$https://mhyunbo.com/20191218/5vUSpghQ/index.m3u8$mahua#第02集$https://mhyunbo.com/20191218/jC9O5JXb/index.m3u8$mahua#第03集$https://mhyunbo.com/20191218/yHN6zIDc/index.m3u8$mahua#第04集$https://mhyunbo.com/20191218/q47c0tVo/index.m3u8$mahua#第05集$https://mhyunbo.com/20191218/PBckT1Qt/index.m3u8$mahua#第06集$https://mhyunbo.com/20191218/BSy4h1fR/index.m3u8$mahua#第07集$https://mhyunbo.com/20191218/gn2peH5k/index.m3u8$mahua#第08集$https://mhyunbo.com/20191218/2UNcvDq5/index.m3u8$mahua#第09集$https://mhyunbo.com/20191218/ROV7hhdI/index.m3u8$mahua#第10集$https://mhyunbo.com/20191218/VnSKiBc4/index.m3u8$mahua",
+          "_t": "第01集$https://a.mhkuaibo.com/20200201/eezFnKn6/index.m3u8$mahua#第02集$https://a.mhkuaibo.com/20200201/tVQFJivx/index.m3u8$mahua#第03集$https://a.mhkuaibo.com/20200201/Ve7NuWnK/index.m3u8$mahua#第04集$https://a.mhkuaibo.com/20200201/8Zkt37M1/index.m3u8$mahua#第05集$https://a.mhkuaibo.com/20200201/ba5quk9f/index.m3u8$mahua#第06集$https://a.mhkuaibo.com/20200201/b2Djdx4y/index.m3u8$mahua#第07集$https://a.mhkuaibo.com/20200201/SqY0UxMo/index.m3u8$mahua#第08集$https://a.mhkuaibo.com/20200201/7F4VIAUd/index.m3u8$mahua#第09集$https://a.mhkuaibo.com/20200201/BYSaM8nr/index.m3u8$mahua#第10集$https://a.mhkuaibo.com/20200201/V7qtrbBj/index.m3u8$mahua",
           "_flag": "mahua"
         }
       },
-      "des": "马特·史密斯和约翰·利斯高加盟Netflix剧集《王冠》(The Crown，暂译)，二人分别饰演菲利普亲王和丘吉尔。剧集剧本由《女王》编剧彼得·摩根创作，首播集由《时时刻刻》导演史蒂芬·戴德利执导，讲述伊丽莎白二世与丘吉尔在二战后，重塑英伦的故事。之前确定由克莱尔·福伊出演伊丽莎白二世。",
+      "des": "本剧讲述警察﹑医护人员及消防员所面对的高压﹑可怕﹑震惊情景。这些应对紧急情况的人得平衡好自己，在帮助别人的同时，也得解决自己生活中的问题。",
       "m3u8List": [
-        "第01集$https://mhyunbo.com/20191218/5vUSpghQ/index.m3u8$mahua",
-        "第02集$https://mhyunbo.com/20191218/jC9O5JXb/index.m3u8$mahua",
-        "第03集$https://mhyunbo.com/20191218/yHN6zIDc/index.m3u8$mahua",
-        "第04集$https://mhyunbo.com/20191218/q47c0tVo/index.m3u8$mahua",
-        "第05集$https://mhyunbo.com/20191218/PBckT1Qt/index.m3u8$mahua",
-        "第06集$https://mhyunbo.com/20191218/BSy4h1fR/index.m3u8$mahua",
-        "第07集$https://mhyunbo.com/20191218/gn2peH5k/index.m3u8$mahua",
-        "第08集$https://mhyunbo.com/20191218/2UNcvDq5/index.m3u8$mahua",
-        "第09集$https://mhyunbo.com/20191218/ROV7hhdI/index.m3u8$mahua",
-        "第10集$https://mhyunbo.com/20191218/VnSKiBc4/index.m3u8$mahua"
+        "第01集$https://a.mhkuaibo.com/20200201/eezFnKn6/index.m3u8$mahua",
+        "第02集$https://a.mhkuaibo.com/20200201/tVQFJivx/index.m3u8$mahua",
+        "第03集$https://a.mhkuaibo.com/20200201/Ve7NuWnK/index.m3u8$mahua",
+        "第04集$https://a.mhkuaibo.com/20200201/8Zkt37M1/index.m3u8$mahua",
+        "第05集$https://a.mhkuaibo.com/20200201/ba5quk9f/index.m3u8$mahua",
+        "第06集$https://a.mhkuaibo.com/20200201/b2Djdx4y/index.m3u8$mahua",
+        "第07集$https://a.mhkuaibo.com/20200201/SqY0UxMo/index.m3u8$mahua",
+        "第08集$https://a.mhkuaibo.com/20200201/7F4VIAUd/index.m3u8$mahua",
+        "第09集$https://a.mhkuaibo.com/20200201/BYSaM8nr/index.m3u8$mahua",
+        "第10集$https://a.mhkuaibo.com/20200201/V7qtrbBj/index.m3u8$mahua"
       ],
-      "rate": "9.2"
+      "rate": "8.6"
     },
-    "rate": "9.2",
-    "id": 253
+    "rate": "8.6",
+    "id": 250
   },
   {
-    "id": 252,
+    "id": 249,
     "key": "mahuazy",
     "ids": 29806,
     "site": {
@@ -206,7 +589,7 @@
     }
   },
   {
-    "id": 251,
+    "id": 248,
     "key": "mahuazy",
     "ids": 50694,
     "site": {
@@ -250,193 +633,6 @@
         "第04集$https://b.mhqiyi.com/20201112/pOl6JaA7/index.m3u8"
       ],
       "rate": "9.5"
-    }
-  },
-  {
-    "id": 250,
-    "key": "niuniucj",
-    "ids": 20044,
-    "site": {
-      "key": "niuniucj",
-      "id": 3,
-      "name": "牛牛资源",
-      "api": "http://v.niuniucj.com/inc/api.php",
-      "download": "",
-      "group": "默认",
-      "isActive": 1
-    },
-    "name": "此画怎讲",
-    "rate": "8.1",
-    "detail": {
-      "last": "2020-09-23 23:23:36",
-      "id": 20044,
-      "tid": 23,
-      "name": "此画怎讲",
-      "type": "纪录片",
-      "pic": "https://t.niutula.com/upload/vod/2020-09-09/15996438961.jpg",
-      "lang": "汉语普通话",
-      "area": "中国大陆",
-      "year": 2020,
-      "state": 1,
-      "note": "更新至30集",
-      "actor": "",
-      "director": "",
-      "dl": {
-        "dd": [
-          {
-            "_t": "第01集$https://s5.niuniu-baidu.com/share/vY8HXLNj1bydZx3G#第02集$https://s5.niuniu-baidu.com/share/xGQcApJ81g9XusZy#第03集$https://s5.niuniu-baidu.com/share/UhH8KvZi0y6Yd7LP#第04集$https://s5.niuniu-baidu.com/share/PAXrZ4nLiCghBR9e#第05集$https://s5.niuniu-baidu.com/share/98lri2VFKDPgfx1o#第06集$https://s5.niuniu-baidu.com/share/h2FBVOpfq8NdzE5H#第07集$https://s5.niuniu-baidu.com/share/UaciExeIupCnv1ob#第08集$https://s5.niuniu-baidu.com/share/nXe3fispSoJr7F9c#第09集$https://s5.niuniu-baidu.com/share/xo5th9zgEXasKN3r#第10集$https://s5.niuniu-baidu.com/share/c2DT5UCzi9mtdhJn#第11集$https://s5.niuniu-baidu.com/share/JGzAVcvhOCXNPlaI#第12集$https://s5.niuniu-baidu.com/share/ZwRHdGzh2NgWQoDp#第13集$https://s5.niuniu-baidu.com/share/QXIK56T8Vj0tckfn#第14集$https://s5.niuniu-baidu.com/share/n82d7NC5J6RltLsh#第15集$https://s5.niuniu-baidu.com/share/1rLJsezVGnFTkix4#第16集$https://s5.niuniu-baidu.com/share/PrXSMNDB0laHEs5g#第17集$https://s5.niuniu-baidu.com/share/M3pGfVoFrq4kLZTX#第18集$https://s5.niuniu-baidu.com/share/tRujN8UB4wJnXckS#第19集$https://s5.niuniu-baidu.com/share/sgqPo4XmtQ1TJSh9#第20集$https://s5.niuniu-baidu.com/share/1Xu3efiWlqc5jOR2#第21集$https://s6.niuniu-baidu.com/share/vBbWVTlOShzAcoEU#第22集$https://s6.niuniu-baidu.com/share/M8vONAr9UShJcXB7#第23集$https://s6.niuniu-baidu.com/share/nqlS56apUOyCePMi#第24集$https://s6.niuniu-baidu.com/share/cT3UKv4hi8FuCxrX#第25集$https://s6.niuniu-baidu.com/share/WIuwMJtacAkBDh1K#第26集$https://s6.niuniu-baidu.com/share/QzPM3u2OYKHLm9xA#第27集$https://s6.niuniu-baidu.com/share/wYMTaR0k7xlnvt9A#第28集$https://s6.niuniu-baidu.com/share/xMCLuA9caJj8pWr3#第29集$https://s6.niuniu-baidu.com/share/LXMG2E60TyKxhfiA#第30集$https://s6.niuniu-baidu.com/share/37H4vtEiTXcjSzoa",
-            "_flag": "nnyun"
-          },
-          {
-            "_t": "第01集$https://s5.niuniu-baidu.com/2020/09/09/vY8HXLNj1bydZx3G/index.m3u8#第02集$https://s5.niuniu-baidu.com/2020/09/09/xGQcApJ81g9XusZy/index.m3u8#第03集$https://s5.niuniu-baidu.com/2020/09/09/UhH8KvZi0y6Yd7LP/index.m3u8#第04集$https://s5.niuniu-baidu.com/2020/09/09/PAXrZ4nLiCghBR9e/index.m3u8#第05集$https://s5.niuniu-baidu.com/2020/09/09/98lri2VFKDPgfx1o/index.m3u8#第06集$https://s5.niuniu-baidu.com/2020/09/09/h2FBVOpfq8NdzE5H/index.m3u8#第07集$https://s5.niuniu-baidu.com/2020/09/09/UaciExeIupCnv1ob/index.m3u8#第08集$https://s5.niuniu-baidu.com/2020/09/09/nXe3fispSoJr7F9c/index.m3u8#第09集$https://s5.niuniu-baidu.com/2020/09/09/xo5th9zgEXasKN3r/index.m3u8#第10集$https://s5.niuniu-baidu.com/2020/09/09/c2DT5UCzi9mtdhJn/index.m3u8#第11集$https://s5.niuniu-baidu.com/2020/09/09/JGzAVcvhOCXNPlaI/index.m3u8#第12集$https://s5.niuniu-baidu.com/2020/09/09/ZwRHdGzh2NgWQoDp/index.m3u8#第13集$https://s5.niuniu-baidu.com/2020/09/09/QXIK56T8Vj0tckfn/index.m3u8#第14集$https://s5.niuniu-baidu.com/2020/09/09/n82d7NC5J6RltLsh/index.m3u8#第15集$https://s5.niuniu-baidu.com/2020/09/09/1rLJsezVGnFTkix4/index.m3u8#第16集$https://s5.niuniu-baidu.com/2020/09/09/PrXSMNDB0laHEs5g/index.m3u8#第17集$https://s5.niuniu-baidu.com/2020/09/09/M3pGfVoFrq4kLZTX/index.m3u8#第18集$https://s5.niuniu-baidu.com/2020/09/09/tRujN8UB4wJnXckS/index.m3u8#第19集$https://s5.niuniu-baidu.com/2020/09/09/sgqPo4XmtQ1TJSh9/index.m3u8#第20集$https://s5.niuniu-baidu.com/2020/09/09/1Xu3efiWlqc5jOR2/index.m3u8#第21集$https://s6.niuniu-baidu.com/2020/09/17/vBbWVTlOShzAcoEU/index.m3u8#第22集$https://s6.niuniu-baidu.com/2020/09/17/M8vONAr9UShJcXB7/index.m3u8#第23集$https://s6.niuniu-baidu.com/2020/09/17/nqlS56apUOyCePMi/index.m3u8#第24集$https://s6.niuniu-baidu.com/2020/09/17/cT3UKv4hi8FuCxrX/index.m3u8#第25集$https://s6.niuniu-baidu.com/2020/09/17/WIuwMJtacAkBDh1K/index.m3u8#第26集$https://s6.niuniu-baidu.com/2020/09/23/QzPM3u2OYKHLm9xA/index.m3u8#第27集$https://s6.niuniu-baidu.com/2020/09/23/wYMTaR0k7xlnvt9A/index.m3u8#第28集$https://s6.niuniu-baidu.com/2020/09/23/xMCLuA9caJj8pWr3/index.m3u8#第29集$https://s6.niuniu-baidu.com/2020/09/23/LXMG2E60TyKxhfiA/index.m3u8#第30集$https://s6.niuniu-baidu.com/2020/09/23/37H4vtEiTXcjSzoa/index.m3u8",
-            "_flag": "nnm3u8"
-          }
-        ]
-      },
-      "des": "《此画怎讲》是由腾讯视频出品的国内首部名画真人番，选材于14幅中国美术史上巅峰地位的知名人物画，以“古画活起来”的形式，用画中人物的口吻，为观众普及名画鉴赏知识，降低艺术普及的门槛，弘扬传统文化精华",
-      "m3u8List": [
-        "第01集$https://s5.niuniu-baidu.com/2020/09/09/vY8HXLNj1bydZx3G/index.m3u8",
-        "第02集$https://s5.niuniu-baidu.com/2020/09/09/xGQcApJ81g9XusZy/index.m3u8",
-        "第03集$https://s5.niuniu-baidu.com/2020/09/09/UhH8KvZi0y6Yd7LP/index.m3u8",
-        "第04集$https://s5.niuniu-baidu.com/2020/09/09/PAXrZ4nLiCghBR9e/index.m3u8",
-        "第05集$https://s5.niuniu-baidu.com/2020/09/09/98lri2VFKDPgfx1o/index.m3u8",
-        "第06集$https://s5.niuniu-baidu.com/2020/09/09/h2FBVOpfq8NdzE5H/index.m3u8",
-        "第07集$https://s5.niuniu-baidu.com/2020/09/09/UaciExeIupCnv1ob/index.m3u8",
-        "第08集$https://s5.niuniu-baidu.com/2020/09/09/nXe3fispSoJr7F9c/index.m3u8",
-        "第09集$https://s5.niuniu-baidu.com/2020/09/09/xo5th9zgEXasKN3r/index.m3u8",
-        "第10集$https://s5.niuniu-baidu.com/2020/09/09/c2DT5UCzi9mtdhJn/index.m3u8",
-        "第11集$https://s5.niuniu-baidu.com/2020/09/09/JGzAVcvhOCXNPlaI/index.m3u8",
-        "第12集$https://s5.niuniu-baidu.com/2020/09/09/ZwRHdGzh2NgWQoDp/index.m3u8",
-        "第13集$https://s5.niuniu-baidu.com/2020/09/09/QXIK56T8Vj0tckfn/index.m3u8",
-        "第14集$https://s5.niuniu-baidu.com/2020/09/09/n82d7NC5J6RltLsh/index.m3u8",
-        "第15集$https://s5.niuniu-baidu.com/2020/09/09/1rLJsezVGnFTkix4/index.m3u8",
-        "第16集$https://s5.niuniu-baidu.com/2020/09/09/PrXSMNDB0laHEs5g/index.m3u8",
-        "第17集$https://s5.niuniu-baidu.com/2020/09/09/M3pGfVoFrq4kLZTX/index.m3u8",
-        "第18集$https://s5.niuniu-baidu.com/2020/09/09/tRujN8UB4wJnXckS/index.m3u8",
-        "第19集$https://s5.niuniu-baidu.com/2020/09/09/sgqPo4XmtQ1TJSh9/index.m3u8",
-        "第20集$https://s5.niuniu-baidu.com/2020/09/09/1Xu3efiWlqc5jOR2/index.m3u8",
-        "第21集$https://s6.niuniu-baidu.com/2020/09/17/vBbWVTlOShzAcoEU/index.m3u8",
-        "第22集$https://s6.niuniu-baidu.com/2020/09/17/M8vONAr9UShJcXB7/index.m3u8",
-        "第23集$https://s6.niuniu-baidu.com/2020/09/17/nqlS56apUOyCePMi/index.m3u8",
-        "第24集$https://s6.niuniu-baidu.com/2020/09/17/cT3UKv4hi8FuCxrX/index.m3u8",
-        "第25集$https://s6.niuniu-baidu.com/2020/09/17/WIuwMJtacAkBDh1K/index.m3u8",
-        "第26集$https://s6.niuniu-baidu.com/2020/09/23/QzPM3u2OYKHLm9xA/index.m3u8",
-        "第27集$https://s6.niuniu-baidu.com/2020/09/23/wYMTaR0k7xlnvt9A/index.m3u8",
-        "第28集$https://s6.niuniu-baidu.com/2020/09/23/xMCLuA9caJj8pWr3/index.m3u8",
-        "第29集$https://s6.niuniu-baidu.com/2020/09/23/LXMG2E60TyKxhfiA/index.m3u8",
-        "第30集$https://s6.niuniu-baidu.com/2020/09/23/37H4vtEiTXcjSzoa/index.m3u8"
-      ],
-      "rate": "8.1"
-    }
-  },
-  {
-    "id": 249,
-    "key": "niuniucj",
-    "ids": 4255,
-    "site": {
-      "key": "niuniucj",
-      "id": 3,
-      "name": "牛牛资源",
-      "api": "http://v.niuniucj.com/inc/api.php",
-      "download": "",
-      "group": "默认",
-      "isActive": 1
-    },
-    "name": "紧急呼救第一季",
-    "rate": "8.6",
-    "detail": {
-      "last": "2019-10-10 19:19:15",
-      "id": 4255,
-      "tid": 12,
-      "name": "紧急呼救第一季",
-      "type": "犯罪/历史",
-      "pic": "https://t.niutula.com/upload/vod/2019-10-11/157075766016.jpg",
-      "lang": "英语",
-      "area": "美国",
-      "year": 2018,
-      "state": 0,
-      "note": "完结",
-      "actor": "安吉拉·贝塞特,彼得·克劳斯,奥利弗·斯塔克,艾莎·辛德斯",
-      "director": "布拉德利·比克尔,芭芭拉·布朗,格温妮丝·霍德-佩顿,玛吉·基莉 ",
-      "dl": {
-        "dd": [
-          {
-            "_t": "第01集$https://s1.niuniu-baidu.com/share/PvXrNVKLAbn4O5Zw#第02集$https://s1.niuniu-baidu.com/share/0TzXNVmaOvK3JU1c#第03集$https://s1.niuniu-baidu.com/share/98C0EgkVT36ix2Ip#第04集$https://s1.niuniu-baidu.com/share/XoDYQgSawCx0OtrH#第05集$https://s1.niuniu-baidu.com/share/gZc4rUWST0nVjuBX#第06集$https://s1.niuniu-baidu.com/share/iu98P3rFy4SXJWGH#第07集$https://s1.niuniu-baidu.com/share/tfiZ9HuKdeDoOhRk#第08集$https://s1.niuniu-baidu.com/share/cdl2OUbT1eCigfjA#第09集$https://s1.niuniu-baidu.com/share/mICZQV24l1rtOPvk#第10集$https://s1.niuniu-baidu.com/share/XZjWRMxLgh8nyFlT",
-            "_flag": "nnyun"
-          },
-          {
-            "_t": "第01集$https://s1.niuniu-baidu.com/20191010/PvXrNVKLAbn4O5Zw/index.m3u8#第02集$https://s1.niuniu-baidu.com/20191010/0TzXNVmaOvK3JU1c/index.m3u8#第03集$https://s1.niuniu-baidu.com/20191010/98C0EgkVT36ix2Ip/index.m3u8#第04集$https://s1.niuniu-baidu.com/20191010/XoDYQgSawCx0OtrH/index.m3u8#第05集$https://s1.niuniu-baidu.com/20191010/gZc4rUWST0nVjuBX/index.m3u8#第06集$https://s1.niuniu-baidu.com/20191010/iu98P3rFy4SXJWGH/index.m3u8#第07集$https://s1.niuniu-baidu.com/20191010/tfiZ9HuKdeDoOhRk/index.m3u8#第08集$https://s1.niuniu-baidu.com/20191010/cdl2OUbT1eCigfjA/index.m3u8#第09集$https://s1.niuniu-baidu.com/20191010/mICZQV24l1rtOPvk/index.m3u8#第10集$https://s1.niuniu-baidu.com/20191010/XZjWRMxLgh8nyFlT/index.m3u8",
-            "_flag": "nnm3u8"
-          }
-        ]
-      },
-      "des": "本剧讲述警察﹑医护人员及消防员所面对的高压﹑可怕﹑震惊情景。这些应对紧急情况的人得平衡好自己，在帮助别人的同时，也得解决自己生活中的问题。",
-      "m3u8List": [
-        "第01集$https://s1.niuniu-baidu.com/20191010/PvXrNVKLAbn4O5Zw/index.m3u8",
-        "第02集$https://s1.niuniu-baidu.com/20191010/0TzXNVmaOvK3JU1c/index.m3u8",
-        "第03集$https://s1.niuniu-baidu.com/20191010/98C0EgkVT36ix2Ip/index.m3u8",
-        "第04集$https://s1.niuniu-baidu.com/20191010/XoDYQgSawCx0OtrH/index.m3u8",
-        "第05集$https://s1.niuniu-baidu.com/20191010/gZc4rUWST0nVjuBX/index.m3u8",
-        "第06集$https://s1.niuniu-baidu.com/20191010/iu98P3rFy4SXJWGH/index.m3u8",
-        "第07集$https://s1.niuniu-baidu.com/20191010/tfiZ9HuKdeDoOhRk/index.m3u8",
-        "第08集$https://s1.niuniu-baidu.com/20191010/cdl2OUbT1eCigfjA/index.m3u8",
-        "第09集$https://s1.niuniu-baidu.com/20191010/mICZQV24l1rtOPvk/index.m3u8",
-        "第10集$https://s1.niuniu-baidu.com/20191010/XZjWRMxLgh8nyFlT/index.m3u8"
-      ],
-      "rate": "8.6"
-    }
-  },
-  {
-    "id": 248,
-    "key": "niuniucj",
-    "ids": 20632,
-    "site": {
-      "key": "niuniucj",
-      "id": 3,
-      "name": "牛牛资源",
-      "api": "http://v.niuniucj.com/inc/api.php",
-      "download": "",
-      "group": "默认",
-      "isActive": 1
-    },
-    "name": "小小世界",
-    "rate": "9.4",
-    "detail": {
-      "last": "2020-10-03 12:00:49",
-      "id": 20632,
-      "tid": 23,
-      "name": "小小世界",
-      "type": "纪录片",
-      "pic": "https://t.niutula.com/upload/vod/2020-10-03/16016976541.jpg",
-      "lang": "英语",
-      "area": "美国",
-      "year": 2020,
-      "state": 0,
-      "note": "更新至06集",
-      "actor": "保罗·路德",
-      "director": "安德鲁·弗莱明,彼得·劳尔",
-      "dl": {
-        "dd": [
-          {
-            "_t": "第01集$https://s6.niuniu-baidu.com/share/1eqH4a59TEXBCtAV#第02集$https://s6.niuniu-baidu.com/share/UcEmCYjhHsPOtg51#第03集$https://s6.niuniu-baidu.com/share/Eu8YaALjknRMoUc0#第04集$https://s6.niuniu-baidu.com/share/bjmMFLVTAz9SlYI0#第05集$https://s6.niuniu-baidu.com/share/BRjOmkzGfavQLqYF#第06集$https://s6.niuniu-baidu.com/share/U0JFALI1lHOjWCfw",
-            "_flag": "nnyun"
-          },
-          {
-            "_t": "第01集$https://s6.niuniu-baidu.com/2020/10/03/1eqH4a59TEXBCtAV/index.m3u8#第02集$https://s6.niuniu-baidu.com/2020/10/03/UcEmCYjhHsPOtg51/index.m3u8#第03集$https://s6.niuniu-baidu.com/2020/10/03/Eu8YaALjknRMoUc0/index.m3u8#第04集$https://s6.niuniu-baidu.com/2020/10/03/bjmMFLVTAz9SlYI0/index.m3u8#第05集$https://s6.niuniu-baidu.com/2020/10/03/BRjOmkzGfavQLqYF/index.m3u8#第06集$https://s6.niuniu-baidu.com/2020/10/03/U0JFALI1lHOjWCfw/index.m3u8",
-            "_flag": "nnm3u8"
-          }
-        ]
-      },
-      "des": "该纪录影集由保罗·路德[ 蚁人 ]担任解说，以令人叹为观止的摄影技术，带领观众深入大自然，探索各种小型生物坚韧的生命力，见证这些鲜为人知的小英雄背后的故事。",
-      "m3u8List": [
-        "第01集$https://s6.niuniu-baidu.com/2020/10/03/1eqH4a59TEXBCtAV/index.m3u8",
-        "第02集$https://s6.niuniu-baidu.com/2020/10/03/UcEmCYjhHsPOtg51/index.m3u8",
-        "第03集$https://s6.niuniu-baidu.com/2020/10/03/Eu8YaALjknRMoUc0/index.m3u8",
-        "第04集$https://s6.niuniu-baidu.com/2020/10/03/bjmMFLVTAz9SlYI0/index.m3u8",
-        "第05集$https://s6.niuniu-baidu.com/2020/10/03/BRjOmkzGfavQLqYF/index.m3u8",
-        "第06集$https://s6.niuniu-baidu.com/2020/10/03/U0JFALI1lHOjWCfw/index.m3u8"
-      ],
-      "rate": "9.4"
     }
   },
   {
