@@ -1,5 +1,6 @@
 [
   {
+    "id": 260,
     "key": "mahuazy",
     "ids": 8457,
     "site": {
@@ -13,6 +14,7 @@
       "status": "可用"
     },
     "name": "哪吒之魔童降世",
+    "rate": "8.5",
     "detail": {
       "last": "2019-10-11 19:36:15",
       "id": 8457,
@@ -38,11 +40,10 @@
         "BD$https://3.mhbobo.com/20191011/NZrTKBTL/index.m3u8$mahua"
       ],
       "rate": "8.5"
-    },
-    "rate": "8.5",
-    "id": 259
+    }
   },
   {
+    "id": 259,
     "key": "mahuazy",
     "ids": 15546,
     "site": {
@@ -56,6 +57,7 @@
       "status": "可用"
     },
     "name": "西游记之大圣归来",
+    "rate": "8.3",
     "detail": {
       "last": "2020-05-06 15:27:17",
       "id": 15546,
@@ -81,11 +83,10 @@
         "HD$https://d.mhkuaibo.com/20200506/p3l5Dxoc/index.m3u8$mahua"
       ],
       "rate": "8.3"
-    },
-    "rate": "8.3",
-    "id": 258
+    }
   },
   {
+    "id": 258,
     "key": "1886zy",
     "ids": 28729,
     "site": {
@@ -99,6 +100,7 @@
       "status": "可用"
     },
     "name": "出租车司机/的士司机",
+    "rate": "8.8",
     "detail": {
       "last": "2019-08-17 10:08:18",
       "id": 28729,
@@ -129,11 +131,127 @@
       "m3u8List": [
         "韩语1080p$https://gnzk.yiya520.com/2019/08/17/wNgKmssYa7PSO38R/playlist.m3u8"
       ]
+    }
+  },
+  {
+    "key": "mahuazy",
+    "ids": 52318,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
     },
-    "rate": "8.8",
+    "name": "棋魂",
+    "detail": {
+      "last": "2020-11-24 01:14:47",
+      "id": 52318,
+      "tid": 39,
+      "name": "棋魂",
+      "type": "日韩动漫",
+      "pic": "https://mahuapic.com/upload/vod/2020-11-24/16061517010.jpg",
+      "lang": "日语",
+      "area": "日本",
+      "year": 2001,
+      "state": 0,
+      "note": "完结",
+      "actor": "川上伦子,千叶进步,小林沙苗,嘉数由美,津村真琴,伊藤健太郎,津田英三,藤原启治,浅川悠,樱井孝宏,高木礼子,铃村健一,水田山葵,榎本温子,纳谷六朗,铃木晶子,川村拓央,重松朋,渡边明乃,伊藤和晃,松冈洋子,山口隆行,坂东尚树,高濑右光,西村知道,岩田光央,石住昭彦,楠见尚己,小西克幸,清水敏孝,吉野裕行,北川胜博,游佐浩二,坂口贤一,桑原利晃,石波义人,桧山修之,石冢坚,伊东美弥子,藤卷惠理子,小野健一,雪野五月,日野由利加,佐久间玲,川崎惠理子,石冢理惠,町井美纪,长嶝高士,中博史",
+      "director": "西泽晋,神谷纯,远藤彻哉,谷田部胜义,殿胜秀树,大隈孝晴,小坂春女,政木伸一,冈岛国敏,新留俊哉,所智一,野中卓也 ",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://c.mhqiyi.com/20201123/fK7BsuIL/index.m3u8$mahua#第02集$https://c.mhqiyi.com/20201123/1GMUNts2/index.m3u8$mahua#第03集$https://c.mhqiyi.com/20201123/Y7vNbiad/index.m3u8$mahua#第04集$https://c.mhqiyi.com/20201123/I6G45Qmm/index.m3u8$mahua#第05集$https://c.mhqiyi.com/20201123/4JdGlNOB/index.m3u8$mahua#第06集$https://c.mhqiyi.com/20201123/YdcGPUER/index.m3u8$mahua#第07集$https://c.mhqiyi.com/20201123/YQsyQgkJ/index.m3u8$mahua#第08集$https://c.mhqiyi.com/20201123/bqMIP0es/index.m3u8$mahua#第09集$https://c.mhqiyi.com/20201123/Sj0GfBs8/index.m3u8$mahua#第10集$https://c.mhqiyi.com/20201123/kVWEGdaH/index.m3u8$mahua#第11集$https://c.mhqiyi.com/20201123/6aJKnNdU/index.m3u8$mahua#第12集$https://c.mhqiyi.com/20201123/KkMtnH6s/index.m3u8$mahua#第13集$https://c.mhqiyi.com/20201123/sJTsKd18/index.m3u8$mahua#第14集$https://c.mhqiyi.com/20201123/t8lH8Shi/index.m3u8$mahua#第15集$https://c.mhqiyi.com/20201123/a31s7x9v/index.m3u8$mahua#第16集$https://c.mhqiyi.com/20201123/iHem7Xqx/index.m3u8$mahua#第17集$https://c.mhqiyi.com/20201123/zlkTRFP4/index.m3u8$mahua#第18集$https://c.mhqiyi.com/20201123/CBSqOnk6/index.m3u8$mahua#第19集$https://c.mhqiyi.com/20201123/haTqyWdV/index.m3u8$mahua#第20集$https://c.mhqiyi.com/20201123/gOFlUWsn/index.m3u8$mahua#第21集$https://c.mhqiyi.com/20201123/RHJKfioK/index.m3u8$mahua#第22集$https://c.mhqiyi.com/20201123/0IcvuDje/index.m3u8$mahua#第23集$https://c.mhqiyi.com/20201123/wSzdSTue/index.m3u8$mahua#第24集$https://c.mhqiyi.com/20201123/g4PuGFmx/index.m3u8$mahua#第25集$https://c.mhqiyi.com/20201123/Px02WefF/index.m3u8$mahua#第26集$https://c.mhqiyi.com/20201123/egFiJaAX/index.m3u8$mahua#第27集$https://c.mhqiyi.com/20201123/gwzULTCL/index.m3u8$mahua#第28集$https://c.mhqiyi.com/20201123/Bnhu47WW/index.m3u8$mahua#第29集$https://c.mhqiyi.com/20201123/ABCm4GPb/index.m3u8$mahua#第30集$https://c.mhqiyi.com/20201123/D6FettTa/index.m3u8$mahua#第31集$https://c.mhqiyi.com/20201123/S1iaJ0WX/index.m3u8$mahua#第32集$https://c.mhqiyi.com/20201123/Lcu8MQPY/index.m3u8$mahua#第33集$https://c.mhqiyi.com/20201123/C2Ra1mhL/index.m3u8$mahua#第34集$https://c.mhqiyi.com/20201123/Fb4lFjtB/index.m3u8$mahua#第35集$https://c.mhqiyi.com/20201123/s4cIqwKy/index.m3u8$mahua#第36集$https://c.mhqiyi.com/20201123/FQH0AAw8/index.m3u8$mahua#第37集$https://c.mhqiyi.com/20201123/OgNuSBFW/index.m3u8$mahua#第38集$https://c.mhqiyi.com/20201123/EJIC9Y7X/index.m3u8$mahua#第39集$https://c.mhqiyi.com/20201123/5DvbsQgG/index.m3u8$mahua#第40集$https://c.mhqiyi.com/20201123/UT3HLI4i/index.m3u8$mahua#第41集$https://c.mhqiyi.com/20201123/AmaHGSFR/index.m3u8$mahua#第42集$https://c.mhqiyi.com/20201123/Ve8HaYKj/index.m3u8$mahua#第43集$https://c.mhqiyi.com/20201123/CovmLi4g/index.m3u8$mahua#第44集$https://c.mhqiyi.com/20201123/uXiqtlR8/index.m3u8$mahua#第45集$https://c.mhqiyi.com/20201123/Hv5UmUSs/index.m3u8$mahua#第46集$https://c.mhqiyi.com/20201123/y0J5EYys/index.m3u8$mahua#第47集$https://c.mhqiyi.com/20201123/0esNOamx/index.m3u8$mahua#第48集$https://c.mhqiyi.com/20201123/NvRlCNVw/index.m3u8$mahua#第49集$https://c.mhqiyi.com/20201123/MCbJX20o/index.m3u8$mahua#第50集$https://c.mhqiyi.com/20201123/MM9vVT81/index.m3u8$mahua#第51集$https://c.mhqiyi.com/20201123/xEbctLM8/index.m3u8$mahua#第52集$https://c.mhqiyi.com/20201123/4FwpKaHs/index.m3u8$mahua#第53集$https://c.mhqiyi.com/20201123/Zr1x9gV8/index.m3u8$mahua#第54集$https://c.mhqiyi.com/20201123/L3OoQFMb/index.m3u8$mahua#第55集$https://c.mhqiyi.com/20201123/yjrj8fmi/index.m3u8$mahua#第56集$https://c.mhqiyi.com/20201123/Tl9XZOeI/index.m3u8$mahua#第57集$https://c.mhqiyi.com/20201123/FjW41r00/index.m3u8$mahua#第58集$https://c.mhqiyi.com/20201123/GmHeTtm7/index.m3u8$mahua#第59集$https://c.mhqiyi.com/20201123/W8jKS44N/index.m3u8$mahua#第60集$https://c.mhqiyi.com/20201123/zsV0It8O/index.m3u8$mahua#第61集$https://c.mhqiyi.com/20201123/7dbbfHaN/index.m3u8$mahua#第62集$https://c.mhqiyi.com/20201123/YcNk12Oh/index.m3u8$mahua#第63集$https://c.mhqiyi.com/20201123/k3YX2dFR/index.m3u8$mahua#第64集$https://c.mhqiyi.com/20201123/rI3lFl0z/index.m3u8$mahua#第65集$https://c.mhqiyi.com/20201123/gUg2oX06/index.m3u8$mahua#第66集$https://c.mhqiyi.com/20201123/OXBjER47/index.m3u8$mahua#第67集$https://c.mhqiyi.com/20201123/iqum5mWI/index.m3u8$mahua#第68集$https://c.mhqiyi.com/20201123/RFFi95hs/index.m3u8$mahua#第69集$https://c.mhqiyi.com/20201123/NgfO50kN/index.m3u8$mahua#第70集$https://c.mhqiyi.com/20201123/K8sjpxwn/index.m3u8$mahua#第71集$https://c.mhqiyi.com/20201123/kWzpVKfc/index.m3u8$mahua#第72集$https://c.mhqiyi.com/20201123/m4KU2x7X/index.m3u8$mahua#第73集$https://c.mhqiyi.com/20201123/lFh57ZHx/index.m3u8$mahua#第74集$https://c.mhqiyi.com/20201123/4Wglq8sp/index.m3u8$mahua#第75集$https://c.mhqiyi.com/20201123/wIuU8OGc/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师…… 《棋魂》改变自堀田由美的同名作品，漫画由小畑健执笔，并由日本棋院的女棋士梅泽由香里担当监修。当年上映引起轰动后，引发了一股学习围棋的热潮，借由佐为的附身改变了主人公进藤光，讲述了其棋艺和心灵的成长，也在其中普及了围棋知识，意义深远。",
+      "m3u8List": [
+        "第01集$https://c.mhqiyi.com/20201123/fK7BsuIL/index.m3u8$mahua",
+        "第02集$https://c.mhqiyi.com/20201123/1GMUNts2/index.m3u8$mahua",
+        "第03集$https://c.mhqiyi.com/20201123/Y7vNbiad/index.m3u8$mahua",
+        "第04集$https://c.mhqiyi.com/20201123/I6G45Qmm/index.m3u8$mahua",
+        "第05集$https://c.mhqiyi.com/20201123/4JdGlNOB/index.m3u8$mahua",
+        "第06集$https://c.mhqiyi.com/20201123/YdcGPUER/index.m3u8$mahua",
+        "第07集$https://c.mhqiyi.com/20201123/YQsyQgkJ/index.m3u8$mahua",
+        "第08集$https://c.mhqiyi.com/20201123/bqMIP0es/index.m3u8$mahua",
+        "第09集$https://c.mhqiyi.com/20201123/Sj0GfBs8/index.m3u8$mahua",
+        "第10集$https://c.mhqiyi.com/20201123/kVWEGdaH/index.m3u8$mahua",
+        "第11集$https://c.mhqiyi.com/20201123/6aJKnNdU/index.m3u8$mahua",
+        "第12集$https://c.mhqiyi.com/20201123/KkMtnH6s/index.m3u8$mahua",
+        "第13集$https://c.mhqiyi.com/20201123/sJTsKd18/index.m3u8$mahua",
+        "第14集$https://c.mhqiyi.com/20201123/t8lH8Shi/index.m3u8$mahua",
+        "第15集$https://c.mhqiyi.com/20201123/a31s7x9v/index.m3u8$mahua",
+        "第16集$https://c.mhqiyi.com/20201123/iHem7Xqx/index.m3u8$mahua",
+        "第17集$https://c.mhqiyi.com/20201123/zlkTRFP4/index.m3u8$mahua",
+        "第18集$https://c.mhqiyi.com/20201123/CBSqOnk6/index.m3u8$mahua",
+        "第19集$https://c.mhqiyi.com/20201123/haTqyWdV/index.m3u8$mahua",
+        "第20集$https://c.mhqiyi.com/20201123/gOFlUWsn/index.m3u8$mahua",
+        "第21集$https://c.mhqiyi.com/20201123/RHJKfioK/index.m3u8$mahua",
+        "第22集$https://c.mhqiyi.com/20201123/0IcvuDje/index.m3u8$mahua",
+        "第23集$https://c.mhqiyi.com/20201123/wSzdSTue/index.m3u8$mahua",
+        "第24集$https://c.mhqiyi.com/20201123/g4PuGFmx/index.m3u8$mahua",
+        "第25集$https://c.mhqiyi.com/20201123/Px02WefF/index.m3u8$mahua",
+        "第26集$https://c.mhqiyi.com/20201123/egFiJaAX/index.m3u8$mahua",
+        "第27集$https://c.mhqiyi.com/20201123/gwzULTCL/index.m3u8$mahua",
+        "第28集$https://c.mhqiyi.com/20201123/Bnhu47WW/index.m3u8$mahua",
+        "第29集$https://c.mhqiyi.com/20201123/ABCm4GPb/index.m3u8$mahua",
+        "第30集$https://c.mhqiyi.com/20201123/D6FettTa/index.m3u8$mahua",
+        "第31集$https://c.mhqiyi.com/20201123/S1iaJ0WX/index.m3u8$mahua",
+        "第32集$https://c.mhqiyi.com/20201123/Lcu8MQPY/index.m3u8$mahua",
+        "第33集$https://c.mhqiyi.com/20201123/C2Ra1mhL/index.m3u8$mahua",
+        "第34集$https://c.mhqiyi.com/20201123/Fb4lFjtB/index.m3u8$mahua",
+        "第35集$https://c.mhqiyi.com/20201123/s4cIqwKy/index.m3u8$mahua",
+        "第36集$https://c.mhqiyi.com/20201123/FQH0AAw8/index.m3u8$mahua",
+        "第37集$https://c.mhqiyi.com/20201123/OgNuSBFW/index.m3u8$mahua",
+        "第38集$https://c.mhqiyi.com/20201123/EJIC9Y7X/index.m3u8$mahua",
+        "第39集$https://c.mhqiyi.com/20201123/5DvbsQgG/index.m3u8$mahua",
+        "第40集$https://c.mhqiyi.com/20201123/UT3HLI4i/index.m3u8$mahua",
+        "第41集$https://c.mhqiyi.com/20201123/AmaHGSFR/index.m3u8$mahua",
+        "第42集$https://c.mhqiyi.com/20201123/Ve8HaYKj/index.m3u8$mahua",
+        "第43集$https://c.mhqiyi.com/20201123/CovmLi4g/index.m3u8$mahua",
+        "第44集$https://c.mhqiyi.com/20201123/uXiqtlR8/index.m3u8$mahua",
+        "第45集$https://c.mhqiyi.com/20201123/Hv5UmUSs/index.m3u8$mahua",
+        "第46集$https://c.mhqiyi.com/20201123/y0J5EYys/index.m3u8$mahua",
+        "第47集$https://c.mhqiyi.com/20201123/0esNOamx/index.m3u8$mahua",
+        "第48集$https://c.mhqiyi.com/20201123/NvRlCNVw/index.m3u8$mahua",
+        "第49集$https://c.mhqiyi.com/20201123/MCbJX20o/index.m3u8$mahua",
+        "第50集$https://c.mhqiyi.com/20201123/MM9vVT81/index.m3u8$mahua",
+        "第51集$https://c.mhqiyi.com/20201123/xEbctLM8/index.m3u8$mahua",
+        "第52集$https://c.mhqiyi.com/20201123/4FwpKaHs/index.m3u8$mahua",
+        "第53集$https://c.mhqiyi.com/20201123/Zr1x9gV8/index.m3u8$mahua",
+        "第54集$https://c.mhqiyi.com/20201123/L3OoQFMb/index.m3u8$mahua",
+        "第55集$https://c.mhqiyi.com/20201123/yjrj8fmi/index.m3u8$mahua",
+        "第56集$https://c.mhqiyi.com/20201123/Tl9XZOeI/index.m3u8$mahua",
+        "第57集$https://c.mhqiyi.com/20201123/FjW41r00/index.m3u8$mahua",
+        "第58集$https://c.mhqiyi.com/20201123/GmHeTtm7/index.m3u8$mahua",
+        "第59集$https://c.mhqiyi.com/20201123/W8jKS44N/index.m3u8$mahua",
+        "第60集$https://c.mhqiyi.com/20201123/zsV0It8O/index.m3u8$mahua",
+        "第61集$https://c.mhqiyi.com/20201123/7dbbfHaN/index.m3u8$mahua",
+        "第62集$https://c.mhqiyi.com/20201123/YcNk12Oh/index.m3u8$mahua",
+        "第63集$https://c.mhqiyi.com/20201123/k3YX2dFR/index.m3u8$mahua",
+        "第64集$https://c.mhqiyi.com/20201123/rI3lFl0z/index.m3u8$mahua",
+        "第65集$https://c.mhqiyi.com/20201123/gUg2oX06/index.m3u8$mahua",
+        "第66集$https://c.mhqiyi.com/20201123/OXBjER47/index.m3u8$mahua",
+        "第67集$https://c.mhqiyi.com/20201123/iqum5mWI/index.m3u8$mahua",
+        "第68集$https://c.mhqiyi.com/20201123/RFFi95hs/index.m3u8$mahua",
+        "第69集$https://c.mhqiyi.com/20201123/NgfO50kN/index.m3u8$mahua",
+        "第70集$https://c.mhqiyi.com/20201123/K8sjpxwn/index.m3u8$mahua",
+        "第71集$https://c.mhqiyi.com/20201123/kWzpVKfc/index.m3u8$mahua",
+        "第72集$https://c.mhqiyi.com/20201123/m4KU2x7X/index.m3u8$mahua",
+        "第73集$https://c.mhqiyi.com/20201123/lFh57ZHx/index.m3u8$mahua",
+        "第74集$https://c.mhqiyi.com/20201123/4Wglq8sp/index.m3u8$mahua",
+        "第75集$https://c.mhqiyi.com/20201123/wIuU8OGc/index.m3u8$mahua"
+      ],
+      "rate": "9.3"
+    },
+    "rate": "9.3",
     "id": 257
   },
   {
+    "id": 256,
     "key": "mahuazy",
     "ids": 50969,
     "site": {
@@ -147,6 +265,7 @@
       "status": "可用"
     },
     "name": "棋魂2020",
+    "rate": "8.4",
     "detail": {
       "last": "2020-11-26 19:58:52",
       "id": 50969,
@@ -207,9 +326,7 @@
         "第36集$https://b.mhqiyi.com/20201126/rPHh4jWT/index.m3u8$mahua"
       ],
       "rate": "8.4"
-    },
-    "rate": "8.4",
-    "id": 256
+    }
   },
   {
     "id": 255,
@@ -307,6 +424,7 @@
     }
   },
   {
+    "id": 253,
     "key": "mahuazy",
     "ids": 49092,
     "site": {
@@ -320,6 +438,7 @@
       "status": "可用"
     },
     "name": "小小世界",
+    "rate": "9.5",
     "detail": {
       "last": "2020-10-02 22:38:06",
       "id": 49092,
@@ -350,11 +469,10 @@
         "第06集$https://b.mhqiyi.com/20201002/Kpx8R7Z8/index.m3u8$mahua"
       ],
       "rate": "9.5"
-    },
-    "rate": "9.5",
-    "id": 253
+    }
   },
   {
+    "id": 252,
     "key": "mahuazy",
     "ids": 45359,
     "site": {
@@ -368,6 +486,7 @@
       "status": "可用"
     },
     "name": "此画怎讲",
+    "rate": "8.1",
     "detail": {
       "last": "2020-09-23 12:26:28",
       "id": 45359,
@@ -422,9 +541,7 @@
         "第30集$https://e.mahua-kb.com/20200923/VIM8ElTv/index.m3u8$mahua"
       ],
       "rate": "8.1"
-    },
-    "rate": "8.1",
-    "id": 252
+    }
   },
   {
     "id": 251,
@@ -483,6 +600,7 @@
     }
   },
   {
+    "id": 250,
     "key": "mahuazy",
     "ids": 25311,
     "site": {
@@ -496,6 +614,7 @@
       "status": "可用"
     },
     "name": "紧急呼救第一季",
+    "rate": "8.6",
     "detail": {
       "last": "2020-02-01 16:30:32",
       "id": 25311,
@@ -530,9 +649,7 @@
         "第10集$https://a.mhkuaibo.com/20200201/V7qtrbBj/index.m3u8$mahua"
       ],
       "rate": "8.6"
-    },
-    "rate": "8.6",
-    "id": 250
+    }
   },
   {
     "id": 249,
