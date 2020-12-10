@@ -1,5 +1,102 @@
 [
   {
+    "key": "mahuazy",
+    "ids": 53025,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "进击的巨人第四季",
+    "detail": {
+      "last": "2020-12-07 09:29:40",
+      "id": 53025,
+      "tid": 39,
+      "name": "进击的巨人第四季",
+      "type": "日韩动漫",
+      "pic": "https://mahuapic.com/upload/vod/2020-12-07/16073047240.jpg",
+      "lang": "日语",
+      "area": "日本",
+      "year": 2020,
+      "state": 0,
+      "note": "更新至01集",
+      "actor": "梶裕贵,石川由依,井上麻里奈,神谷浩史",
+      "director": "林祐一郎",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://b.mhqiyi.com/20201206/uDd2J9ha/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "在艾伦他们居住的帕拉迪岛之外，还存在一个其他人类居住的世界。当中一个国家「玛雷」与其他各国爆发战争。陷入苦战之际，他们决定要攻进帕拉迪岛，把「始祖的巨人」抢过来。在这里又看到另一群孩子们拼命求生存的身影……。",
+      "m3u8List": [
+        "第01集$https://b.mhqiyi.com/20201206/uDd2J9ha/index.m3u8$mahua"
+      ],
+      "rate": "9.8"
+    },
+    "rate": "9.8",
+    "id": 262
+  },
+  {
+    "key": "mahuazy",
+    "ids": 42193,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "进击的巨人第三季",
+    "detail": {
+      "last": "2020-07-27 16:37:25",
+      "id": 42193,
+      "tid": 39,
+      "name": "进击的巨人第三季",
+      "type": "日韩动漫",
+      "pic": "https://mahuapic.com/upload/vod/2020-07-27/15958408360.jpg",
+      "lang": "韩语",
+      "area": "日本",
+      "year": 2019,
+      "state": 0,
+      "note": "完结",
+      "actor": "梶裕贵,石川由依,井上麻里奈,谷山纪章,嶋村侑,小林优,下野纮",
+      "director": "荒木哲郎 ",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://e.mahua-kb.com/20200727/3O6syEQQ/index.m3u8$mahua#第02集$https://e.mahua-kb.com/20200727/iX5lgzNZ/index.m3u8$mahua#第03集$https://e.mahua-kb.com/20200727/WoziB99d/index.m3u8$mahua#第04集$https://e.mahua-kb.com/20200727/eAMMwOyd/index.m3u8$mahua#第05集$https://e.mahua-kb.com/20200727/E0dforOR/index.m3u8$mahua#第06集$https://e.mahua-kb.com/20200727/gga2AXjy/index.m3u8$mahua#第07集$https://e.mahua-kb.com/20200727/SGANAsNg/index.m3u8$mahua#第08集$https://e.mahua-kb.com/20200727/KLdKT0fD/index.m3u8$mahua#第09集$https://e.mahua-kb.com/20200727/Oi1L9BmL/index.m3u8$mahua#第10集$https://e.mahua-kb.com/20200727/FFniesyW/index.m3u8$mahua#第11集$https://e.mahua-kb.com/20200727/s82VwHSb/index.m3u8$mahua#第12集$https://e.mahua-kb.com/20200727/zzjDWNTC/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "<div style=\"margin: 0px; padding: 0px; border: 0px; font-family: 宋体;\">历经百年的时光，将人类与外侧世界隔开的墙壁。在墙壁的另一侧，似乎有前所未见的世界延伸开来。</div><div style=\"margin: 0px; padding: 0px; border: 0px; font-family: 宋体;\">火焰之水、冰之大地、砂之雪原……。记载在书中的，尽是些激发少年探究心的文字。</div><div style=\"margin: 0px; padding: 0px; border: 0px; font-family: 宋体;\">在时间流转，墙壁被巨人毁坏的现在，人类正一步步接近世界的真相。</div><div style=\"margin: 0px; padding: 0px; border: 0px; font-family: 宋体;\">巨人的真实身份是什么？为何墙壁中会埋着巨人？巨人化的艾伦·耶格尔所持有的“坐标”之力是？以及，西斯托利亚·雷斯究竟知道这个世界的什么事情？</div><div style=\"margin: 0px; padding: 0px; border: 0px; font-family: 宋体;\">在艾伦等104期兵的加入下，建立新体制的利威尔班。最强最恶的敌人，阻拦在开始行动的他们面前。</div>",
+      "m3u8List": [
+        "第01集$https://e.mahua-kb.com/20200727/3O6syEQQ/index.m3u8$mahua",
+        "第02集$https://e.mahua-kb.com/20200727/iX5lgzNZ/index.m3u8$mahua",
+        "第03集$https://e.mahua-kb.com/20200727/WoziB99d/index.m3u8$mahua",
+        "第04集$https://e.mahua-kb.com/20200727/eAMMwOyd/index.m3u8$mahua",
+        "第05集$https://e.mahua-kb.com/20200727/E0dforOR/index.m3u8$mahua",
+        "第06集$https://e.mahua-kb.com/20200727/gga2AXjy/index.m3u8$mahua",
+        "第07集$https://e.mahua-kb.com/20200727/SGANAsNg/index.m3u8$mahua",
+        "第08集$https://e.mahua-kb.com/20200727/KLdKT0fD/index.m3u8$mahua",
+        "第09集$https://e.mahua-kb.com/20200727/Oi1L9BmL/index.m3u8$mahua",
+        "第10集$https://e.mahua-kb.com/20200727/FFniesyW/index.m3u8$mahua",
+        "第11集$https://e.mahua-kb.com/20200727/s82VwHSb/index.m3u8$mahua",
+        "第12集$https://e.mahua-kb.com/20200727/zzjDWNTC/index.m3u8$mahua"
+      ],
+      "rate": "9.7"
+    },
+    "rate": "9.7",
+    "id": 261
+  },
+  {
     "id": 260,
     "key": "mahuazy",
     "ids": 8457,
@@ -245,10 +342,11 @@
         "第74集$https://c.mhqiyi.com/20201123/4Wglq8sp/index.m3u8$mahua",
         "第75集$https://c.mhqiyi.com/20201123/wIuU8OGc/index.m3u8$mahua"
       ],
-      "rate": "9.3"
+      "rate": "8.4"
     },
-    "rate": "9.3",
-    "id": 257
+    "rate": "8.4",
+    "id": 257,
+    "index": 0
   },
   {
     "id": 256,
