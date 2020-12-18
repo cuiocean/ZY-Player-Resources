@@ -1,6 +1,59 @@
 [
   {
     "key": "mahuazy",
+    "ids": 15099,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "史前战纪",
+    "detail": {
+      "last": "2020-11-02 19:09:16",
+      "id": 15099,
+      "tid": 15,
+      "name": "史前战纪",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-10/15706854485.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2019,
+      "state": 0,
+      "note": "更新至10集",
+      "actor": "Aaron LaPlante",
+      "director": "格恩迪·塔塔科夫斯基",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://3.mhbobo.com/20191010/EHU2iLhK/index.m3u8$mahua#第02集$https://3.mhbobo.com/20191010/gEe16eED/index.m3u8$mahua#第03集$https://3.mhbobo.com/20191011/9qGgNA4S/index.m3u8$mahua#第04集$https://3.mhbobo.com/20191013/AzsYNDGy/index.m3u8$mahua#第05集$https://3.mhbobo.com/20191013/NXJwc1t9/index.m3u8$mahua#第06集$https://b.mhqiyi.com/20201013/Kg3S6ut1/index.m3u8$mahua#第07集$https://b.mhqiyi.com/20201013/7WdZe6M5/index.m3u8$mahua#第08集$https://b.mhqiyi.com/20201020/JVXQZu6Y/index.m3u8$mahua#第09集$https://b.mhqiyi.com/20201026/T0uzqark/index.m3u8$mahua#第10集$https://b.mhqiyi.com/20201102/9f5zV0et/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "Adult Swim过去预订半小时动画剧《史前战纪 Primal》，这部剧由赢过艾美奖﹑《德克斯特的实验室 Dexter's Laboratory》及《武士杰克 Samurai Jack》主创Genndy Tartakovsky负责。本剧定于美国时间10月7日首播。《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。顺带一提，Genndy Tartakovsky亦是《精灵旅社 Hotel Transylvania》三部曲的导演。",
+      "m3u8List": [
+        "第01集$https://3.mhbobo.com/20191010/EHU2iLhK/index.m3u8$mahua",
+        "第02集$https://3.mhbobo.com/20191010/gEe16eED/index.m3u8$mahua",
+        "第03集$https://3.mhbobo.com/20191011/9qGgNA4S/index.m3u8$mahua",
+        "第04集$https://3.mhbobo.com/20191013/AzsYNDGy/index.m3u8$mahua",
+        "第05集$https://3.mhbobo.com/20191013/NXJwc1t9/index.m3u8$mahua",
+        "第06集$https://b.mhqiyi.com/20201013/Kg3S6ut1/index.m3u8$mahua",
+        "第07集$https://b.mhqiyi.com/20201013/7WdZe6M5/index.m3u8$mahua",
+        "第08集$https://b.mhqiyi.com/20201020/JVXQZu6Y/index.m3u8$mahua",
+        "第09集$https://b.mhqiyi.com/20201026/T0uzqark/index.m3u8$mahua",
+        "第10集$https://b.mhqiyi.com/20201102/9f5zV0et/index.m3u8$mahua"
+      ],
+      "rate": "9.0"
+    },
+    "rate": "9.0",
+    "id": 263
+  },
+  {
+    "id": 262,
+    "key": "mahuazy",
     "ids": 53025,
     "site": {
       "id": 1,
@@ -13,6 +66,7 @@
       "status": "可用"
     },
     "name": "进击的巨人第四季",
+    "rate": "9.8",
     "detail": {
       "last": "2020-12-07 09:29:40",
       "id": 53025,
@@ -38,11 +92,10 @@
         "第01集$https://b.mhqiyi.com/20201206/uDd2J9ha/index.m3u8$mahua"
       ],
       "rate": "9.8"
-    },
-    "rate": "9.8",
-    "id": 262
+    }
   },
   {
+    "id": 261,
     "key": "mahuazy",
     "ids": 42193,
     "site": {
@@ -56,6 +109,7 @@
       "status": "可用"
     },
     "name": "进击的巨人第三季",
+    "rate": "9.7",
     "detail": {
       "last": "2020-07-27 16:37:25",
       "id": 42193,
@@ -92,9 +146,7 @@
         "第12集$https://e.mahua-kb.com/20200727/zzjDWNTC/index.m3u8$mahua"
       ],
       "rate": "9.7"
-    },
-    "rate": "9.7",
-    "id": 261
+    }
   },
   {
     "id": 260,
@@ -231,6 +283,7 @@
     }
   },
   {
+    "id": 257,
     "key": "mahuazy",
     "ids": 52318,
     "site": {
@@ -244,6 +297,8 @@
       "status": "可用"
     },
     "name": "棋魂",
+    "index": 0,
+    "rate": "8.4",
     "detail": {
       "last": "2020-11-24 01:14:47",
       "id": 52318,
@@ -343,10 +398,7 @@
         "第75集$https://c.mhqiyi.com/20201123/wIuU8OGc/index.m3u8$mahua"
       ],
       "rate": "8.4"
-    },
-    "rate": "8.4",
-    "id": 257,
-    "index": 0
+    }
   },
   {
     "id": 256,
