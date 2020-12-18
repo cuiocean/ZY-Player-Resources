@@ -1,6 +1,93 @@
 [
   {
     "key": "mahuazy",
+    "ids": 53015,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "法官大人第一季",
+    "detail": {
+      "last": "2020-12-13 18:33:25",
+      "id": 53015,
+      "tid": 15,
+      "name": "法官大人第一季",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-12-06/16072557900.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2020,
+      "state": 0,
+      "note": "更新至02集",
+      "actor": "布莱恩·科兰斯顿,亨特·杜汉,迈克尔·斯图巴,霍普·戴维斯,索菲亚·布莱克-德埃利亚,托尼·库兰,莉莉·凯,Brittney Tamberg,小伊塞亚·维特洛克,Jock McKissic,大卫·马尔登那多,吉米·坦顿,杰拉尔丁·休斯,Keith Machekanyanga,加勒特·克鲁特霍夫,艾米·兰德克,布兰登·斯特西,拉马尔·约翰逊,梅兰妮尼科尔斯金,弗兰克·迪尔,约翰·皮鲁切洛,杰拉德·班肯斯,小本杰明·弗洛雷斯,托尼亚·马尔多纳多,玛格·马丁戴尔,T·C·马特恩,贾伦·米切尔,库伦·莫斯,吉布瑞",
+      "director": "爱德华·贝尔格",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://b.mhqiyi.com/20201206/QuqcU8aP/index.m3u8$mahua#第02集$https://c.mhqiyi.com/20201213/WiwnM2XT/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "布莱恩·科兰斯顿将主演Showtime限定剧《令尊》。本剧改编自以色列剧《Kvodo》，是一部贯穿新奥尔良社会各阶层的政律惊悚剧。《傲骨之战》编剧米歇尔·金、罗伯特·金将参与编剧工作。科兰斯顿饰演一名受人尊敬的法官，而其子卷入了一场充满欺骗与谎言的肇事逃逸案。本剧将于今年开拍。",
+      "m3u8List": [
+        "第01集$https://b.mhqiyi.com/20201206/QuqcU8aP/index.m3u8$mahua",
+        "第02集$https://c.mhqiyi.com/20201213/WiwnM2XT/index.m3u8$mahua"
+      ],
+      "rate": "9.1"
+    },
+    "rate": "9.1",
+    "id": 265
+  },
+  {
+    "key": "mahuazy",
+    "ids": 3387,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "牧马人",
+    "detail": {
+      "last": "2019-12-21 18:35:27",
+      "id": 3387,
+      "tid": 7,
+      "name": "牧马人",
+      "type": "爱情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-05/15702385150.jpg",
+      "lang": "",
+      "area": "",
+      "year": 1982,
+      "state": 0,
+      "note": "HD",
+      "actor": "朱时茂/丛珊/刘琼/牛犇/雷仲谦/奇梦石",
+      "director": "谢晋",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "                                                                            　　1970年代末，在西北敕勒川牧场做了小半辈子牧马人的小学教师许灵均（朱时茂）一路风尘来到北京饭店，与30年未曾谋面的父亲、旅美华侨企业家许景由（刘琼）见面。当年，追求个人自由的许景由无法忍受与妻子的错误婚姻，丢下妻儿去了美国。此次归来，他有心带许灵均回美国继承事业。                                                                    　　交谈中，许灵均不认为将自己融在集体中、时时以国家利益为重的行为是思想陈旧的表现，对于父亲的舒适生活，他并不艳羡。                                                                    　　回顾自己几十年来所走的道路，虽有幼年成为弃儿、青年被打成右派下放牧场的悲惨经历，却也数次从牧区质朴、善良的乡民身上感受到人间温情，而在艰难岁月中与四川苦命女李秀芝（丛珊）结为夫妻后，许灵均更是尝到苦尽甘来的心酸与甜美。他认为，国家在好不容易迈过“文革”这个大坎之后，个人更应该同亲朋一起，不离不弃地跟着她走向新生。                                                ",
+      "m3u8List": [
+        "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua"
+      ],
+      "rate": "8.9"
+    },
+    "rate": "8.9",
+    "id": 264
+  },
+  {
+    "key": "mahuazy",
     "ids": 15099,
     "site": {
       "id": 1,
@@ -49,7 +136,8 @@
       "rate": "9.0"
     },
     "rate": "9.0",
-    "id": 263
+    "id": 263,
+    "index": 2
   },
   {
     "id": 262,
