@@ -1,6 +1,50 @@
 [
   {
     "key": "mahuazy",
+    "ids": 53263,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "狼行者",
+    "detail": {
+      "last": "2020-12-11 15:38:26",
+      "id": 53263,
+      "tid": 41,
+      "name": "狼行者",
+      "type": "动画片",
+      "pic": "https://mahuapic.com/upload/vod/2020-12-11/202012111607679107.jpg",
+      "lang": "英语",
+      "area": "其它",
+      "year": 2020,
+      "state": 0,
+      "note": "HD中字",
+      "actor": "肖恩·宾,霍纳·妮芙茜,伊娃·惠塔克,西蒙·迈克伯尼,汤米·蒂尔南,玛丽亚·多耶·肯尼迪,乔·肯尼,约翰·莫顿,诺拉·托梅,保罗·杨,奥利弗·麦克格拉斯,Niamh Moyles",
+      "director": "汤姆·摩尔,罗斯·斯图尔特",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://b.mhqiyi.com/20201211/pFB3axnS/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "讲述了11岁女孩罗芬的神奇经历。罗芬作为一个年轻的学徒猎人，她和父亲一起来到爱尔兰，准备消灭最后一批在那里的狼，但是改变她的事情来了，她发现了狼行者，此后一连串的古怪故事就发生了……",
+      "m3u8List": [
+        "HD$https://b.mhqiyi.com/20201211/pFB3axnS/index.m3u8$mahua"
+      ],
+      "rate": "8.1"
+    },
+    "rate": "8.1",
+    "id": 267
+  },
+  {
+    "id": 265,
+    "key": "mahuazy",
     "ids": 53015,
     "site": {
       "id": 1,
@@ -13,6 +57,7 @@
       "status": "可用"
     },
     "name": "法官大人第一季",
+    "rate": "9.1",
     "detail": {
       "last": "2020-12-13 18:33:25",
       "id": 53015,
@@ -39,11 +84,10 @@
         "第02集$https://c.mhqiyi.com/20201213/WiwnM2XT/index.m3u8$mahua"
       ],
       "rate": "9.1"
-    },
-    "rate": "9.1",
-    "id": 265
+    }
   },
   {
+    "id": 264,
     "key": "mahuazy",
     "ids": 3387,
     "site": {
@@ -57,6 +101,7 @@
       "status": "可用"
     },
     "name": "牧马人",
+    "rate": "8.9",
     "detail": {
       "last": "2019-12-21 18:35:27",
       "id": 3387,
@@ -82,11 +127,10 @@
         "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua"
       ],
       "rate": "8.9"
-    },
-    "rate": "8.9",
-    "id": 264
+    }
   },
   {
+    "id": 263,
     "key": "mahuazy",
     "ids": 15099,
     "site": {
@@ -100,6 +144,8 @@
       "status": "可用"
     },
     "name": "史前战纪",
+    "index": 2,
+    "rate": "9.0",
     "detail": {
       "last": "2020-11-02 19:09:16",
       "id": 15099,
@@ -134,10 +180,7 @@
         "第10集$https://b.mhqiyi.com/20201102/9f5zV0et/index.m3u8$mahua"
       ],
       "rate": "9.0"
-    },
-    "rate": "9.0",
-    "id": 263,
-    "index": 2
+    }
   },
   {
     "id": 262,
