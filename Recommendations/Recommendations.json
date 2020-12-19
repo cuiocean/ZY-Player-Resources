@@ -1,5 +1,97 @@
 [
   {
+    "key": "zuidazy",
+    "ids": 82301,
+    "site": {
+      "key": "zuidazy",
+      "id": 7,
+      "name": "最大资源网",
+      "api": "http://www.zdziyuan.com/inc/ldg_sea.php",
+      "download": "http://www.zdziyuan.com/inc/apidown.php",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "凯尔经的秘密",
+    "detail": {
+      "last": "2020-03-27 16:04:59",
+      "id": 82301,
+      "tid": 4,
+      "name": "凯尔经的秘密",
+      "type": "动漫片",
+      "pic": "https://tu.tianzuida.com/pic/upload/vod/2020-03-27/202003271585296256.jpg",
+      "lang": "英语",
+      "area": "法国",
+      "year": 2009,
+      "state": 0,
+      "note": "BD中字",
+      "actor": "伊万·麦克奎尔,克里斯滕·穆尼,布莱丹·格里森,米克·拉利,利亚姆·霍里卡恩,保罗·泰来克,迈克尔·麦格拉斯,保罗·杨,诺拉·托梅,肖恩·列侬",
+      "director": "汤姆·摩尔,诺拉·托梅",
+      "dl": {
+        "dd": [
+          {
+            "_t": "BD中字$http://iqiyi.zuidameiju.com/20200325/13916_beab2c6c/index.m3u8$zuidam3u8",
+            "_flag": "zuidam3u8"
+          },
+          {
+            "_t": "BD中字$http://iqiyi.zuidameiju.com/share/8bb74b945ed32ca2b2f8da600e247d20$zuidall",
+            "_flag": "zuidall"
+          }
+        ]
+      },
+      "des": "在遥远的爱尔兰，聪颖纯真的少年修士布兰登（伊万·麦克奎尔 Evan McGuire 配音）生活在一座高墙围筑的修道院内。为了抵抗维京人的入侵，院墙不断加高，卡拉院长（布莱丹·格里森 Brendan Gleeson 配音）更严格禁止布兰登他们踏入外部世界。某天，一名留着长发、幽默风趣的修士来到修道院，他便是闻名遐迩的艾奥娜绘经师伊丹（米奇·拉里 Mick Lally 配音）。此前伊丹持续创作那部重要的宗教典籍《凯尔经》，然而异族的侵略使他不得不中断这项神圣的工作。为《凯尔经》所吸引的布兰登，决心帮助伊丹完成经典的绘制，为此他不惜挑战禁令走出修道院。外面的世界充满新奇和危险…… 本片荣获2009年昂西国际动画电影节观众奖最佳影片奖、2009年萨格勒布国际动画电影节特别提及。",
+      "m3u8List": [
+        "BD中字$http://iqiyi.zuidameiju.com/20200325/13916_beab2c6c/index.m3u8$zuidam3u8"
+      ],
+      "rate": "8.5"
+    },
+    "rate": "8.5",
+    "id": 269
+  },
+  {
+    "key": "mahuazy",
+    "ids": 15544,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "海洋之歌",
+    "detail": {
+      "last": "2019-10-14 08:55:45",
+      "id": 15544,
+      "tid": 10,
+      "name": "海洋之歌",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-14/15710150380.jpg",
+      "lang": "英语",
+      "area": "法国",
+      "year": 2014,
+      "state": 0,
+      "note": "BD",
+      "actor": "大卫·罗尔,布莱丹·格里森,丽莎·汉尼根,菲奥纽拉·弗拉纳根",
+      "director": "汤姆·摩尔",
+      "dl": {
+        "dd": {
+          "_t": "BD$https://qiyi.mhyunbo.com/20191013/PYexzK1w/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "在一个风景如画的海中小岛，小男孩本（大卫·罗尔 David Rawle 配音）和怀有身孕的母亲布罗娜（丽莎·汉尼根 Lisa Hannigan 配音）渡过了最后一个快乐而难忘的夜晚。不久后，妹妹西尔莎（露西·奥康奈尔 Lucy O'Connell 配音）出生，而因母亲却撒手人寰。转眼过了六年，他们的父亲康纳（布莱丹·格里森 Brendan Gleeson 配音）始终未从丧妻之痛中走出，而充满幻想的西尔莎偶然发现妈妈留下的贝笛，结果险些溺毙大海，最终导致奶奶强制性地将两个孩子带离这座小岛。兄妹俩无法适应城市的生活，他们在街道游走的时候，意外遭遇了三个奇怪的小精灵。他们希望借助“海豹女”西尔莎的歌声回到故乡，神奇的冒险就此展开……本片根据爱尔兰的民间传说改编。&copy;豆瓣",
+      "m3u8List": [
+        "BD$https://qiyi.mhyunbo.com/20191013/PYexzK1w/index.m3u8$mahua"
+      ],
+      "rate": "8.8"
+    },
+    "rate": "8.8",
+    "id": 268
+  },
+  {
     "key": "mahuazy",
     "ids": 53263,
     "site": {
