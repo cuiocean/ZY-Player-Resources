@@ -1,5 +1,221 @@
 [
   {
+    "key": "mahuazy",
+    "ids": 16125,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "爱在午夜降临前",
+    "detail": {
+      "last": "2019-11-15 21:21:46",
+      "id": 16125,
+      "tid": 10,
+      "name": "爱在午夜降临前",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-18/15713704374.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2013,
+      "state": 0,
+      "note": "BD",
+      "actor": "伊桑·霍克,朱莉·德尔佩,肖姆斯·戴维-菲茨帕特里克,詹妮弗·普里尔",
+      "director": "理查德·林克莱特",
+      "dl": {
+        "dd": {
+          "_t": "BD$https://qiyi.mhyunbo.com/20191017/tbwlTRxJ/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "被影迷奉为爱情圭臬的《爱在黎明破晓前》、《爱在日落黄昏时》终于迎来了第三部《爱在午夜降临前》。第一部中美国青年杰西（伊桑·霍克 Ethan Hawke 饰）坐火车邂逅法国女孩赛琳（朱莉·德尔佩 Julie Delpy 饰），两人在维也纳度过难忘一晚；9年后的第二部，杰西已成 为作家，他的小说让他和赛琳在巴黎重逢，两人于日落前再续前缘。如今又一个9年过去了，杰西与赛琳已经一起生活并有了一对双胞胎女儿，对人生和爱情也有了更多感悟。《爱在午夜降临前》就是撷取他们在希腊伯罗奔尼撒南部小岛度假的最后一天。导演理查德·林克莱特和两位主演就像与影迷在赴一个每9年的约会，尽管三部曲的制作跨度长达18年，但故事情节几乎可以写在一张纸的背面。电影惯于只用人与人的对话讲述故事，两位主人公或行走在静谧的村落，或悠然坐在露台和餐桌前，不断的讨论着文学、爱情、生活、两性等话题。然而与前两部不同的是，随着他们终于走到一起，爱情的浪漫也开始被生活的日常琐碎和彼此相处的实用性取代，吵架拌嘴也随之而来。如何在“婚姻”的面纱下维持爱情？电影将18年的感情铺开，再徐徐化解那些小小的怨念，呈现爱情最真实动人一面。&copy;豆瓣",
+      "m3u8List": [
+        "BD$https://qiyi.mhyunbo.com/20191017/tbwlTRxJ/index.m3u8$mahua"
+      ],
+      "rate": "8.8"
+    },
+    "rate": "8.8",
+    "id": 273
+  },
+  {
+    "key": "mahuazy",
+    "ids": 20264,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "爱在日落黄昏时",
+    "detail": {
+      "last": "2019-11-17 11:14:47",
+      "id": 20264,
+      "tid": 10,
+      "name": "爱在日落黄昏时",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-11-17/15739635424.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2004,
+      "state": 0,
+      "note": "HD",
+      "actor": "伊桑·霍克,朱莉·德尔佩,弗农·多布切夫,路易丝·勒莫瓦纳·托雷斯",
+      "director": "理查德·林克莱特",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://mhbobo.com/20191116/hHiGIXac/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "九年前，杰西（伊桑·霍克 Ethan Hawke 饰）与席琳（朱莉·德尔佩 Julie Delpy 饰）在火车上不期而遇，怦然心动。在维也纳渡过疯狂而又浪漫的一夜后，他们在日出前分手，并相约在维也纳重逢。九年之后，杰西已成为畅销书作家，而席琳则是法国环保组织成员。杰西在新书里娓娓道来的，正是九年前的浪漫夜晚。在巴黎促销新书时，杰西与席琳在书店相遇，然而他们只有一下午的时光相处，日落之前，杰西要乘飞机赶回美国。两人在午后的巴黎街头散步，在美丽的护城河上泛舟，无所不谈，兴致勃勃。可是就像命运的捉弄，快乐的时光像烟花一样醉人却短暂。杰西对席琳一送再送，难以忘情；席琳用吉他和歌声，怀念着内心深处的爱恋。太阳就快落下去了，杰西就要误了飞机，又或许他更不想错过的，是命里注定的缘分。&copy;豆瓣",
+      "m3u8List": [
+        "HD$https://mhbobo.com/20191116/hHiGIXac/index.m3u8$mahua"
+      ],
+      "rate": "8.8"
+    },
+    "rate": "8.8",
+    "id": 272
+  },
+  {
+    "key": "mahuazy",
+    "ids": 20666,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "爱在黎明破晓前",
+    "detail": {
+      "last": "2019-11-21 10:09:34",
+      "id": 20666,
+      "tid": 10,
+      "name": "爱在黎明破晓前",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-11-21/15743056946.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 1995,
+      "state": 0,
+      "note": "HD",
+      "actor": "伊桑·霍克,朱莉·德尔佩,安德莉亚·埃克特,汉诺·波西尔",
+      "director": "理查德·林克莱特",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://mhbobo.com/20191120/mq1CLLMp/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "美国青年杰西（伊桑·霍克 Ethan Hawke 饰）在火车上偶遇了法国女学生塞琳娜（朱莉·德尔佩 Julie Delpy 饰），两人在火车上交谈甚欢。当火车到达维也纳时，杰西盛情邀请塞琳娜一起在维也纳游览一番，即使杰西翌日便要坐飞机离开。与杰西一见钟情的塞琳娜接受了杰西的邀请。他们一边游览城市，一边谈论着彼此的过去 ，彼此对生活的感想，两人了解越加深刻。他们非常珍惜这美妙的晚上，这对恋人一起经历了很多浪漫的经历因为他们约定在半年后再见，而此次约会将会在日出之间结束……&copy;豆瓣",
+      "m3u8List": [
+        "HD$https://mhbobo.com/20191120/mq1CLLMp/index.m3u8$mahua"
+      ],
+      "rate": "8.8"
+    },
+    "rate": "8.8",
+    "id": 271
+  },
+  {
+    "key": "mahuazy",
+    "ids": 16096,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "7号房的礼物",
+    "detail": {
+      "last": "2019-11-15 21:21:46",
+      "id": 16096,
+      "tid": 10,
+      "name": "7号房的礼物",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-18/15713674787.jpg",
+      "lang": "韩语",
+      "area": "韩国",
+      "year": 2013,
+      "state": 0,
+      "note": "BD",
+      "actor": "柳承龙,朴信惠,郑镇荣,金正泰",
+      "director": "李焕庆",
+      "dl": {
+        "dd": {
+          "_t": "BD$https://qiyi.mhyunbo.com/20191017/jktFa0Bo/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "1997年，只有6岁儿童智商的智障男子李龙久（柳成龙 饰）和可爱的女儿艺胜（葛素媛 饰）相依为命，生活虽然简单清贫，却充满幸福。某天，执着为女儿买美少女战士书包的龙久意外卷入一起幼童诱拐奸杀案，而死者竟是警察局长的女儿。龙久懵懂无知，搞不清状况，昏头昏脑就被投入监狱。在7号牢房中，聚集着走私犯蘇杨浩（吴达洙 饰）、诈骗犯崔春浩（朴元尚 饰）、通奸犯姜万范（金正泰 饰）、恐吓犯老徐（金基灿 饰）和抢劫犯申奉植（郑万植 饰）等五毒俱全的“社会渣滓”。龙久孩子般纯洁的心渐渐感动了这几个“大坏蛋”，他们甚至不惜冒险将艺胜带入牢房与父亲相会。黑暗冰冷的监牢内，7号牢房阳光满满……&copy;豆瓣",
+      "m3u8List": [
+        "BD$https://qiyi.mhyunbo.com/20191017/jktFa0Bo/index.m3u8$mahua"
+      ],
+      "rate": "8.9"
+    },
+    "rate": "8.9",
+    "id": 270
+  },
+  {
+    "id": 269,
+    "key": "mahuazy",
+    "ids": 51832,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "黑楼孤魂独家AI修复",
+    "rate": "7.2",
+    "detail": {
+      "last": "2020-11-16 18:06:29",
+      "id": 51832,
+      "tid": 9,
+      "name": "黑楼孤魂独家AI修复",
+      "type": "恐怖片",
+      "pic": "https://mahuapic.com/upload/vod/2020-11-16/16055254720.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 1989,
+      "state": 0,
+      "note": "HD",
+      "actor": "陈希光,潘婕,韩小磊,管宗祥,李振峰",
+      "director": "梁明,穆德远",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://b.mhqiyi.com/20201023/bToELrPA/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "文革中，少女小菊一家遭人迫害，小菊本人被吊死在自家，凶手将现场伪装成自杀……一晃十几年过去，一部电影正在紧张的拍摄，录音师霍峰（陈希光 饰）对现场效果不甚满意，带女主角于红（潘婕 饰）回住处做音效。霍峰所住的旧楼面临拆迁，大多数住户早已搬离，只留下老领导老林、无业青年由飞以及霍峰三家。于红在楼内看到异样幻象，霍峰的录音设备也采样到诡异的响动。二人调查这栋楼的历史，获悉小菊的冤案，始明白小菊那地下室的冤魂在人去楼空之时向当年的凶手索命。老林与由飞身上先后发生意外，于红发现导演郑磊（韩小磊 饰）亦与当年的凶案有关，并最终决定帮助小菊复仇。",
+      "m3u8List": [
+        "HD$https://b.mhqiyi.com/20201023/bToELrPA/index.m3u8$mahua"
+      ],
+      "rate": "7.2"
+    }
+  },
+  {
+    "id": 268,
     "key": "zuidazy",
     "ids": 82301,
     "site": {
@@ -13,6 +229,7 @@
       "status": "可用"
     },
     "name": "凯尔经的秘密",
+    "rate": "8.5",
     "detail": {
       "last": "2020-03-27 16:04:59",
       "id": 82301,
@@ -44,11 +261,10 @@
         "BD中字$http://iqiyi.zuidameiju.com/20200325/13916_beab2c6c/index.m3u8$zuidam3u8"
       ],
       "rate": "8.5"
-    },
-    "rate": "8.5",
-    "id": 269
+    }
   },
   {
+    "id": 267,
     "key": "mahuazy",
     "ids": 15544,
     "site": {
@@ -62,6 +278,7 @@
       "status": "可用"
     },
     "name": "海洋之歌",
+    "rate": "8.8",
     "detail": {
       "last": "2019-10-14 08:55:45",
       "id": 15544,
@@ -87,11 +304,10 @@
         "BD$https://qiyi.mhyunbo.com/20191013/PYexzK1w/index.m3u8$mahua"
       ],
       "rate": "8.8"
-    },
-    "rate": "8.8",
-    "id": 268
+    }
   },
   {
+    "id": 266,
     "key": "mahuazy",
     "ids": 53263,
     "site": {
@@ -105,6 +321,7 @@
       "status": "可用"
     },
     "name": "狼行者",
+    "rate": "8.1",
     "detail": {
       "last": "2020-12-11 15:38:26",
       "id": 53263,
@@ -130,9 +347,7 @@
         "HD$https://b.mhqiyi.com/20201211/pFB3axnS/index.m3u8$mahua"
       ],
       "rate": "8.1"
-    },
-    "rate": "8.1",
-    "id": 267
+    }
   },
   {
     "id": 265,
@@ -180,49 +395,6 @@
   },
   {
     "id": 264,
-    "key": "mahuazy",
-    "ids": 3387,
-    "site": {
-      "id": 1,
-      "key": "mahuazy",
-      "name": "麻花资源",
-      "api": "http://www.mhapi123.com/inc/ldg_api.php",
-      "download": "",
-      "group": "默认",
-      "isActive": true,
-      "status": "可用"
-    },
-    "name": "牧马人",
-    "rate": "8.9",
-    "detail": {
-      "last": "2019-12-21 18:35:27",
-      "id": 3387,
-      "tid": 7,
-      "name": "牧马人",
-      "type": "爱情片",
-      "pic": "https://mahuapic.com/upload/vod/2019-10-05/15702385150.jpg",
-      "lang": "",
-      "area": "",
-      "year": 1982,
-      "state": 0,
-      "note": "HD",
-      "actor": "朱时茂/丛珊/刘琼/牛犇/雷仲谦/奇梦石",
-      "director": "谢晋",
-      "dl": {
-        "dd": {
-          "_t": "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua",
-          "_flag": "mahua"
-        }
-      },
-      "des": "                                                                            　　1970年代末，在西北敕勒川牧场做了小半辈子牧马人的小学教师许灵均（朱时茂）一路风尘来到北京饭店，与30年未曾谋面的父亲、旅美华侨企业家许景由（刘琼）见面。当年，追求个人自由的许景由无法忍受与妻子的错误婚姻，丢下妻儿去了美国。此次归来，他有心带许灵均回美国继承事业。                                                                    　　交谈中，许灵均不认为将自己融在集体中、时时以国家利益为重的行为是思想陈旧的表现，对于父亲的舒适生活，他并不艳羡。                                                                    　　回顾自己几十年来所走的道路，虽有幼年成为弃儿、青年被打成右派下放牧场的悲惨经历，却也数次从牧区质朴、善良的乡民身上感受到人间温情，而在艰难岁月中与四川苦命女李秀芝（丛珊）结为夫妻后，许灵均更是尝到苦尽甘来的心酸与甜美。他认为，国家在好不容易迈过“文革”这个大坎之后，个人更应该同亲朋一起，不离不弃地跟着她走向新生。                                                ",
-      "m3u8List": [
-        "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua"
-      ],
-      "rate": "8.9"
-    }
-  },
-  {
-    "id": 263,
     "key": "mahuazy",
     "ids": 15099,
     "site": {
@@ -275,7 +447,7 @@
     }
   },
   {
-    "id": 262,
+    "id": 263,
     "key": "mahuazy",
     "ids": 53025,
     "site": {
@@ -318,7 +490,7 @@
     }
   },
   {
-    "id": 261,
+    "id": 262,
     "key": "mahuazy",
     "ids": 42193,
     "site": {
@@ -372,7 +544,7 @@
     }
   },
   {
-    "id": 260,
+    "id": 261,
     "key": "mahuazy",
     "ids": 8457,
     "site": {
@@ -415,7 +587,7 @@
     }
   },
   {
-    "id": 259,
+    "id": 260,
     "key": "mahuazy",
     "ids": 15546,
     "site": {
@@ -455,6 +627,49 @@
         "HD$https://d.mhkuaibo.com/20200506/p3l5Dxoc/index.m3u8$mahua"
       ],
       "rate": "8.3"
+    }
+  },
+  {
+    "id": 259,
+    "key": "mahuazy",
+    "ids": 3387,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "牧马人",
+    "rate": "8.9",
+    "detail": {
+      "last": "2019-12-21 18:35:27",
+      "id": 3387,
+      "tid": 7,
+      "name": "牧马人",
+      "type": "爱情片",
+      "pic": "https://mahuapic.com/upload/vod/2019-10-05/15702385150.jpg",
+      "lang": "",
+      "area": "",
+      "year": 1982,
+      "state": 0,
+      "note": "HD",
+      "actor": "朱时茂/丛珊/刘琼/牛犇/雷仲谦/奇梦石",
+      "director": "谢晋",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "                                                                            　　1970年代末，在西北敕勒川牧场做了小半辈子牧马人的小学教师许灵均（朱时茂）一路风尘来到北京饭店，与30年未曾谋面的父亲、旅美华侨企业家许景由（刘琼）见面。当年，追求个人自由的许景由无法忍受与妻子的错误婚姻，丢下妻儿去了美国。此次归来，他有心带许灵均回美国继承事业。                                                                    　　交谈中，许灵均不认为将自己融在集体中、时时以国家利益为重的行为是思想陈旧的表现，对于父亲的舒适生活，他并不艳羡。                                                                    　　回顾自己几十年来所走的道路，虽有幼年成为弃儿、青年被打成右派下放牧场的悲惨经历，却也数次从牧区质朴、善良的乡民身上感受到人间温情，而在艰难岁月中与四川苦命女李秀芝（丛珊）结为夫妻后，许灵均更是尝到苦尽甘来的心酸与甜美。他认为，国家在好不容易迈过“文革”这个大坎之后，个人更应该同亲朋一起，不离不弃地跟着她走向新生。                                                ",
+      "m3u8List": [
+        "HD$https://mhkuaibo.com/20191221/5d9qNGX2/index.m3u8$mahua"
+      ],
+      "rate": "8.9"
     }
   },
   {
@@ -1167,6 +1382,44 @@
   {
     "id": 246,
     "key": "mahuazy",
+    "ids": 7840,
+    "site": {
+      "id": 15,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "https://www.mhapi123.com/inc/api.php",
+      "download": "",
+      "isActive": 1,
+      "group": "默认"
+    },
+    "name": "黑袍纠察队 第一季",
+    "rate": "8.6",
+    "detail": {
+      "last": "2019-11-15 21:20:25",
+      "id": 7840,
+      "tid": 15,
+      "name": "黑袍纠察队 第一季",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2019-09-27/15695919733.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2019,
+      "state": 0,
+      "note": "大结局",
+      "actor": "卡尔·厄本,詹妮弗·艾斯波西多,艾琳·莫里亚蒂,杰克·奎德",
+      "director": "埃文·戈德堡,塞斯·罗根,丹·特拉亨伯格",
+      "dl": {
+        "dd": {
+          "_t": "第1集$https://2.mhbobo.com/20190727/QqLJZEwh/index.m3u8#第2集$https://2.mhbobo.com/20190727/fYsFcfwK/index.m3u8#第3集$https://2.mhbobo.com/20190727/bFHmyn9Y/index.m3u8#第4集$https://2.mhbobo.com/20190727/n4iCKWLh/index.m3u8#第5集$https://2.mhbobo.com/20190727/gMafIbMt/index.m3u8#第6集$https://2.mhbobo.com/20190727/Gnm7ppQj/index.m3u8#第7集$https://2.mhbobo.com/20190727/ApJHX0wT/index.m3u8#第8集$https://2.mhbobo.com/20190727/gjvGPP2F/index.m3u8",
+          "_flag": "mahua"
+        }
+      },
+      "des": "Amazon以8集首季直接预订漫画改编剧《黑袍纠察队 The Boys》，原创是漫画《传教士 Preacher》的作者Garth Ennis，以及Darick Robertson，而剧集版则由Eric Kripke开发﹑《传教士》剧集版的Evan Goldberg及Seth Rogen负责执导。该剧将在美国时间4月29日的Tribeca电影节上优先播出，然后在7月26日正式上线Amazon。过去《黑袍纠察队》由Cinemax开发剧集版，但他们没继续后，现交到Amazon手上；这部剧集聚焦在超级英雄的黑暗面，讲述一群被旁人称为「The Boys」的义警，他们专门对付因为自身能力而腐败﹑黑化的超级英雄。而他们的大目标就是金玉其外，败絮其中的英雄团队「The Seven」，以及管理团队﹑掩盖黑料的企业「Vought」。黑袍纠察队成员有Hughie（Jack Quaid饰，下同）﹑Billy Butcher（Karl Urban）﹑Mother’s Milk（Laz Alonso）﹑Frenchie（Tomer Capon）及The Female（Karen Fukuhara）。Simon Pegg客串饰演Hughie的父亲。英雄团队「The Seven」成员有Homelander（Antony Starr饰）﹑Starlight（Erin Moriarty）﹑Queen Maeve（Dominique McElligott）﹑A-Train（Jessie T. Usher）﹑The Deep（Chace Crawford）及Black Noir（Nathan Mitchell）。"
+    }
+  },
+  {
+    "id": 245,
+    "key": "mahuazy",
     "ids": 36914,
     "site": {
       "id": 1,
@@ -1205,7 +1458,7 @@
     }
   },
   {
-    "id": 245,
+    "id": 244,
     "key": "mahuazy",
     "ids": 50217,
     "site": {
@@ -1243,7 +1496,7 @@
     }
   },
   {
-    "id": 244,
+    "id": 243,
     "key": "mahuazy",
     "ids": 39997,
     "site": {
@@ -1282,7 +1535,7 @@
     }
   },
   {
-    "id": 243,
+    "id": 242,
     "key": "mahuazy",
     "ids": 47319,
     "site": {
@@ -1322,7 +1575,7 @@
     }
   },
   {
-    "id": 242,
+    "id": 241,
     "key": "mahuazy",
     "ids": 50421,
     "site": {
@@ -1361,7 +1614,7 @@
     }
   },
   {
-    "id": 241,
+    "id": 240,
     "key": "mahuazy",
     "ids": 24546,
     "site": {
@@ -1399,7 +1652,45 @@
     }
   },
   {
-    "id": 240,
+    "id": 239,
+    "key": "mahuazy",
+    "ids": 24539,
+    "site": {
+      "id": 15,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "https://www.mhapi123.com/inc/api.php",
+      "download": "",
+      "isActive": 1,
+      "group": "默认"
+    },
+    "name": "性爱自修室第一季",
+    "rate": "9.1",
+    "detail": {
+      "last": "2020-01-17 17:56:58",
+      "id": 24539,
+      "tid": 15,
+      "name": "性爱自修室第一季",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-01-17/15792569850.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2019,
+      "state": 0,
+      "note": "完结",
+      "actor": "阿萨·巴特菲尔德,艾玛·麦肯,舒提·盖特瓦,吉莲·安德森",
+      "director": "本·泰勒,凯特·赫伦",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://mhkuaibo.com/20200117/7Wxrswhm/index.m3u8#第02集$https://mhkuaibo.com/20200117/hg1PMhIk/index.m3u8#第03集$https://mhkuaibo.com/20200117/IlfG7JmX/index.m3u8#第04集$https://mhkuaibo.com/20200117/IOOtt1lS/index.m3u8#第05集$https://mhkuaibo.com/20200117/sOTqjnJe/index.m3u8#第06集$https://mhkuaibo.com/20200117/quRAhHqC/index.m3u8#第07集$https://mhkuaibo.com/20200117/pnoJIPdr/index.m3u8#第08集$https://mhkuaibo.com/20200117/SFbpEbW0/index.m3u8",
+          "_flag": "mahua"
+        }
+      },
+      "des": "欧帝斯固然缺乏性经验，他的母亲可是一名性治疗师。他决定将母亲的衣钵发扬光大，於是在就读的摩尔戴高中设立性爱治疗谘询服务，造福无可救药的同学。他们水乳交融，其乐无穷，一起渡过人生最灿烂的时光。"
+    }
+  },
+  {
+    "id": 238,
     "key": "mahuazy",
     "ids": 50756,
     "site": {
@@ -1439,7 +1730,7 @@
     }
   },
   {
-    "id": 239,
+    "id": 237,
     "key": "mahuazy",
     "ids": 49227,
     "site": {
@@ -1478,7 +1769,7 @@
     }
   },
   {
-    "id": 238,
+    "id": 236,
     "key": "mahuazy",
     "ids": 48476,
     "site": {
@@ -1517,7 +1808,7 @@
     }
   },
   {
-    "id": 237,
+    "id": 235,
     "key": "mahuazy",
     "ids": 31508,
     "site": {
@@ -1555,7 +1846,7 @@
     }
   },
   {
-    "id": 236,
+    "id": 234,
     "key": "mahuazy",
     "ids": 41281,
     "site": {
@@ -1593,7 +1884,7 @@
     }
   },
   {
-    "id": 235,
+    "id": 233,
     "key": "mahuazy",
     "ids": 49639,
     "site": {
@@ -1632,45 +1923,7 @@
     }
   },
   {
-    "id": 234,
-    "key": "mahuazy",
-    "ids": 7840,
-    "site": {
-      "id": 15,
-      "key": "mahuazy",
-      "name": "麻花资源",
-      "api": "https://www.mhapi123.com/inc/api.php",
-      "download": "",
-      "isActive": 1,
-      "group": "默认"
-    },
-    "name": "黑袍纠察队 第一季",
-    "rate": "8.6",
-    "detail": {
-      "last": "2019-11-15 21:20:25",
-      "id": 7840,
-      "tid": 15,
-      "name": "黑袍纠察队 第一季",
-      "type": "欧美剧",
-      "pic": "https://mahuapic.com/upload/vod/2019-09-27/15695919733.jpg",
-      "lang": "英语",
-      "area": "美国",
-      "year": 2019,
-      "state": 0,
-      "note": "大结局",
-      "actor": "卡尔·厄本,詹妮弗·艾斯波西多,艾琳·莫里亚蒂,杰克·奎德",
-      "director": "埃文·戈德堡,塞斯·罗根,丹·特拉亨伯格",
-      "dl": {
-        "dd": {
-          "_t": "第1集$https://2.mhbobo.com/20190727/QqLJZEwh/index.m3u8#第2集$https://2.mhbobo.com/20190727/fYsFcfwK/index.m3u8#第3集$https://2.mhbobo.com/20190727/bFHmyn9Y/index.m3u8#第4集$https://2.mhbobo.com/20190727/n4iCKWLh/index.m3u8#第5集$https://2.mhbobo.com/20190727/gMafIbMt/index.m3u8#第6集$https://2.mhbobo.com/20190727/Gnm7ppQj/index.m3u8#第7集$https://2.mhbobo.com/20190727/ApJHX0wT/index.m3u8#第8集$https://2.mhbobo.com/20190727/gjvGPP2F/index.m3u8",
-          "_flag": "mahua"
-        }
-      },
-      "des": "Amazon以8集首季直接预订漫画改编剧《黑袍纠察队 The Boys》，原创是漫画《传教士 Preacher》的作者Garth Ennis，以及Darick Robertson，而剧集版则由Eric Kripke开发﹑《传教士》剧集版的Evan Goldberg及Seth Rogen负责执导。该剧将在美国时间4月29日的Tribeca电影节上优先播出，然后在7月26日正式上线Amazon。过去《黑袍纠察队》由Cinemax开发剧集版，但他们没继续后，现交到Amazon手上；这部剧集聚焦在超级英雄的黑暗面，讲述一群被旁人称为「The Boys」的义警，他们专门对付因为自身能力而腐败﹑黑化的超级英雄。而他们的大目标就是金玉其外，败絮其中的英雄团队「The Seven」，以及管理团队﹑掩盖黑料的企业「Vought」。黑袍纠察队成员有Hughie（Jack Quaid饰，下同）﹑Billy Butcher（Karl Urban）﹑Mother’s Milk（Laz Alonso）﹑Frenchie（Tomer Capon）及The Female（Karen Fukuhara）。Simon Pegg客串饰演Hughie的父亲。英雄团队「The Seven」成员有Homelander（Antony Starr饰）﹑Starlight（Erin Moriarty）﹑Queen Maeve（Dominique McElligott）﹑A-Train（Jessie T. Usher）﹑The Deep（Chace Crawford）及Black Noir（Nathan Mitchell）。"
-    }
-  },
-  {
-    "id": 233,
+    "id": 232,
     "key": "mahuazy",
     "ids": 595,
     "site": {
@@ -1708,7 +1961,7 @@
     }
   },
   {
-    "id": 232,
+    "id": 231,
     "key": "mahuazy",
     "ids": 12471,
     "site": {
@@ -1747,7 +2000,7 @@
     }
   },
   {
-    "id": 231,
+    "id": 230,
     "key": "mahuazy",
     "ids": 14406,
     "site": {
@@ -1786,7 +2039,7 @@
     }
   },
   {
-    "id": 230,
+    "id": 229,
     "key": "mahuazy",
     "ids": 9967,
     "site": {
@@ -1826,7 +2079,7 @@
     }
   },
   {
-    "id": 229,
+    "id": 228,
     "key": "mahuazy",
     "ids": 9763,
     "site": {
@@ -1864,7 +2117,7 @@
     }
   },
   {
-    "id": 228,
+    "id": 227,
     "key": "mahuazy",
     "ids": 31282,
     "site": {
@@ -1902,7 +2155,7 @@
     }
   },
   {
-    "id": 227,
+    "id": 226,
     "key": "mahuazy",
     "ids": 18488,
     "site": {
@@ -1940,7 +2193,7 @@
     }
   },
   {
-    "id": 226,
+    "id": 225,
     "key": "mahuazy",
     "ids": 10102,
     "site": {
@@ -1978,7 +2231,7 @@
     }
   },
   {
-    "id": 225,
+    "id": 224,
     "key": "mahuazy",
     "ids": 22653,
     "site": {
@@ -2016,7 +2269,7 @@
     }
   },
   {
-    "id": 224,
+    "id": 223,
     "key": "mahuazy",
     "ids": 7278,
     "site": {
@@ -2051,44 +2304,6 @@
         }
       },
       "des": "　「到底什麼是好人， 　　什麼是壞人，有標準答案嗎？」 　　這是由一場無差別殺人事件，延伸出的幾個家庭間，不同立場、不同參與者的故事……. 　　? 因孩子罹難瀕臨破碎的_受害者家庭 　　? 兒子殺人於是避逃人群的_加害者家庭 　　? 幫死刑犯辯護而受盡譴責的_法扶律師 　　? 弟弟患病帶給姐姐人生課題的_家庭 　　這是一個，可能發生在「我們」每個人身邊的故事。當事件發生，我們會選擇如何面對？"
-    }
-  },
-  {
-    "id": 223,
-    "key": "mahuazy",
-    "ids": 24539,
-    "site": {
-      "id": 15,
-      "key": "mahuazy",
-      "name": "麻花资源",
-      "api": "https://www.mhapi123.com/inc/api.php",
-      "download": "",
-      "isActive": 1,
-      "group": "默认"
-    },
-    "name": "性爱自修室第一季",
-    "rate": "9.1",
-    "detail": {
-      "last": "2020-01-17 17:56:58",
-      "id": 24539,
-      "tid": 15,
-      "name": "性爱自修室第一季",
-      "type": "欧美剧",
-      "pic": "https://mahuapic.com/upload/vod/2020-01-17/15792569850.jpg",
-      "lang": "英语",
-      "area": "美国",
-      "year": 2019,
-      "state": 0,
-      "note": "完结",
-      "actor": "阿萨·巴特菲尔德,艾玛·麦肯,舒提·盖特瓦,吉莲·安德森",
-      "director": "本·泰勒,凯特·赫伦",
-      "dl": {
-        "dd": {
-          "_t": "第01集$https://mhkuaibo.com/20200117/7Wxrswhm/index.m3u8#第02集$https://mhkuaibo.com/20200117/hg1PMhIk/index.m3u8#第03集$https://mhkuaibo.com/20200117/IlfG7JmX/index.m3u8#第04集$https://mhkuaibo.com/20200117/IOOtt1lS/index.m3u8#第05集$https://mhkuaibo.com/20200117/sOTqjnJe/index.m3u8#第06集$https://mhkuaibo.com/20200117/quRAhHqC/index.m3u8#第07集$https://mhkuaibo.com/20200117/pnoJIPdr/index.m3u8#第08集$https://mhkuaibo.com/20200117/SFbpEbW0/index.m3u8",
-          "_flag": "mahua"
-        }
-      },
-      "des": "欧帝斯固然缺乏性经验，他的母亲可是一名性治疗师。他决定将母亲的衣钵发扬光大，於是在就读的摩尔戴高中设立性爱治疗谘询服务，造福无可救药的同学。他们水乳交融，其乐无穷，一起渡过人生最灿烂的时光。"
     }
   },
   {
@@ -2215,6 +2430,44 @@
   {
     "id": 219,
     "key": "mahuazy",
+    "ids": 50181,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "https://www.mhapi123.com/inc/api.php",
+      "download": "",
+      "isActive": 1,
+      "group": "默认"
+    },
+    "name": "去他妈的世界第一季",
+    "rate": "9.1",
+    "detail": {
+      "last": "2020-10-16 09:09:43",
+      "id": 50181,
+      "tid": 15,
+      "name": "去他妈的世界第一季",
+      "type": "欧美剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-10-16/16028109142.jpg",
+      "lang": "英语",
+      "area": "英国",
+      "year": 2017,
+      "state": 0,
+      "note": "完结",
+      "actor": "杰西卡·巴登,埃里克斯·劳瑟,史蒂夫·奥拉姆,杰玛·韦兰,乌米·马萨库,克里斯汀·博顿利,纳温·乔杜里,杰克·维尔,乔纳森·阿里斯,巴里·沃德,凯莉·哈里森,霍莉·比奇,波丽·坎普,亚历克斯·索耶,伊莲恩·戴维斯,凯利斯顿·韦勒英,艾玛·阿普尔顿,杰夫·贝尔,玛格丽特·安·贝恩,亚当·布朗,亚历克斯·贝克特,朱丽叶·考恩,马特·金,海韦尔·摩根,利昂·阿诺,加里·萨默斯,莉莉·卡瓦纳,西蒙·勒纳根,泰勒斯·麦肯齐,路易斯·温特,厄尔·凯夫,费莉西蒂·蒙塔古",
+      "director": "乔纳森·恩特威斯尔,露西·彻尼亚克",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://e.mahua-kb.com/20201015/8xJT0yxt/index.m3u8#第02集$https://e.mahua-kb.com/20201015/eGFFFk2I/index.m3u8#第03集$https://e.mahua-kb.com/20201015/NA5Fzh31/index.m3u8#第04集$https://e.mahua-kb.com/20201015/VlJlYek0/index.m3u8#第05集$https://e.mahua-kb.com/20201015/TBHjYSOv/index.m3u8#第06集$https://e.mahua-kb.com/20201015/FXHGsEKd/index.m3u8#第07集$https://e.mahua-kb.com/20201015/ct7n0Ki3/index.m3u8#第08集$https://e.mahua-kb.com/20201015/uOThvTJO/index.m3u8",
+          "_flag": "mahua"
+        }
+      },
+      "des": "17岁的James确信自己是名精神变态者，他冷血无情喜爱杀生，原本计划杀掉接近他的叛逆少女Alyssa，但两人的合拍让他决定推迟杀人计划，跟她一起离家出走开始公路旅行……"
+    }
+  },
+  {
+    "id": 218,
+    "key": "mahuazy",
     "ids": 21356,
     "site": {
       "id": 1,
@@ -2252,7 +2505,7 @@
     }
   },
   {
-    "id": 218,
+    "id": 217,
     "key": "123ku",
     "ids": 20488,
     "site": {
@@ -2296,7 +2549,7 @@
     }
   },
   {
-    "id": 217,
+    "id": 216,
     "key": "mahuazy",
     "ids": 25513,
     "site": {
@@ -2334,7 +2587,7 @@
     }
   },
   {
-    "id": 216,
+    "id": 215,
     "key": "mahuazy",
     "ids": 11549,
     "site": {
@@ -2374,7 +2627,7 @@
     }
   },
   {
-    "id": 215,
+    "id": 214,
     "key": "1886zy",
     "ids": 45341,
     "site": {
@@ -2420,7 +2673,7 @@
     }
   },
   {
-    "id": 214,
+    "id": 213,
     "key": "kubozy",
     "ids": 17796,
     "site": {
@@ -2466,7 +2719,7 @@
     }
   },
   {
-    "id": 213,
+    "id": 212,
     "key": "mahuazy",
     "ids": 12163,
     "site": {
@@ -2506,7 +2759,7 @@
     }
   },
   {
-    "id": 212,
+    "id": 211,
     "key": "mahuazy",
     "ids": 11985,
     "site": {
@@ -2546,7 +2799,7 @@
     }
   },
   {
-    "id": 211,
+    "id": 210,
     "key": "mahuazy",
     "ids": 7308,
     "site": {
@@ -2584,7 +2837,7 @@
     }
   },
   {
-    "id": 210,
+    "id": 209,
     "key": "mahuazy",
     "ids": 45457,
     "site": {
@@ -2624,7 +2877,7 @@
     }
   },
   {
-    "id": 209,
+    "id": 208,
     "key": "mahuazy",
     "ids": 6711,
     "site": {
@@ -2662,7 +2915,7 @@
     }
   },
   {
-    "id": 208,
+    "id": 207,
     "key": "mahuazy",
     "ids": 6874,
     "site": {
@@ -2700,7 +2953,7 @@
     }
   },
   {
-    "id": 207,
+    "id": 206,
     "key": "mahuazy",
     "ids": 11143,
     "site": {
@@ -2740,7 +2993,7 @@
     }
   },
   {
-    "id": 206,
+    "id": 205,
     "key": "kubozy",
     "ids": 10409,
     "site": {
@@ -2786,7 +3039,7 @@
     }
   },
   {
-    "id": 205,
+    "id": 204,
     "key": "88zyw",
     "ids": 26458,
     "site": {
@@ -2830,7 +3083,7 @@
     }
   },
   {
-    "id": 204,
+    "id": 203,
     "key": "mahuazy",
     "ids": 12380,
     "site": {
@@ -2868,7 +3121,7 @@
     }
   },
   {
-    "id": 203,
+    "id": 202,
     "key": "mahuazy",
     "ids": 38825,
     "site": {
@@ -2906,7 +3159,7 @@
     }
   },
   {
-    "id": 202,
+    "id": 201,
     "key": "mahuazy",
     "ids": 36738,
     "site": {
@@ -2944,7 +3197,7 @@
     }
   },
   {
-    "id": 201,
+    "id": 200,
     "key": "mahuazy",
     "ids": 8972,
     "site": {
@@ -2984,7 +3237,7 @@
     }
   },
   {
-    "id": 200,
+    "id": 199,
     "key": "mahuazy",
     "ids": 45235,
     "site": {
@@ -3023,7 +3276,7 @@
     }
   },
   {
-    "id": 199,
+    "id": 198,
     "key": "mahuazy",
     "ids": 9482,
     "site": {
@@ -3061,7 +3314,7 @@
     }
   },
   {
-    "id": 198,
+    "id": 197,
     "key": "mahuazy",
     "ids": 7803,
     "site": {
@@ -3099,7 +3352,7 @@
     }
   },
   {
-    "id": 197,
+    "id": 196,
     "key": "mahuazy",
     "ids": 23864,
     "site": {
@@ -3137,7 +3390,7 @@
     }
   },
   {
-    "id": 196,
+    "id": 195,
     "key": "subo988",
     "ids": 28970,
     "site": {
@@ -3181,7 +3434,7 @@
     }
   },
   {
-    "id": 195,
+    "id": 194,
     "key": "kubozy",
     "ids": 12855,
     "site": {
@@ -3225,7 +3478,7 @@
     }
   },
   {
-    "id": 194,
+    "id": 193,
     "key": "mahuazy",
     "ids": 37280,
     "site": {
@@ -3263,7 +3516,7 @@
     }
   },
   {
-    "id": 193,
+    "id": 192,
     "key": "zuidazy",
     "ids": 41388,
     "site": {
@@ -3307,7 +3560,7 @@
     }
   },
   {
-    "id": 192,
+    "id": 191,
     "key": "mahuazy",
     "ids": 6905,
     "site": {
@@ -3345,7 +3598,7 @@
     }
   },
   {
-    "id": 191,
+    "id": 190,
     "key": "subo988",
     "ids": 1638,
     "site": {
@@ -3391,7 +3644,7 @@
     }
   },
   {
-    "id": 190,
+    "id": 189,
     "key": "mahuazy",
     "ids": 13487,
     "site": {
@@ -3429,7 +3682,7 @@
     }
   },
   {
-    "id": 189,
+    "id": 188,
     "key": "mahuazy",
     "ids": 7461,
     "site": {
@@ -3467,7 +3720,7 @@
     }
   },
   {
-    "id": 188,
+    "id": 187,
     "key": "mahuazy",
     "ids": 6755,
     "site": {
@@ -3502,44 +3755,6 @@
         }
       },
       "des": "小米（文淇 饰）在位于风景区的一间酒店里打工。一天，正值小米当班，一个男人带着两个看上去还是小学生的女孩子来开房，虽然心中所有顾虑，但小米秉着多一事不如少一事的念头替他们开了两间房。之后，在监控录像里，小米看到男人在半推半就之下进入了两个女孩的房间，心中隐隐觉得不安的小米将这一幕用手机录了下来。两个女孩一个叫孟小文（周美君 饰），一个叫张新新（蒋欣悦 饰），那个男人是他们的“干爹”。东窗事发之后，小文的母亲报警并找到了律师郝洁（史可 饰），希望法律能够还他们一个公道。然而事与愿违，证据的缺乏让嫌疑人迟迟不能定罪，而最最关键的证据，正掌握在小米的手中。&copy;豆瓣"
-    }
-  },
-  {
-    "id": 187,
-    "key": "mahuazy",
-    "ids": 50181,
-    "site": {
-      "id": 1,
-      "key": "mahuazy",
-      "name": "麻花资源",
-      "api": "https://www.mhapi123.com/inc/api.php",
-      "download": "",
-      "isActive": 1,
-      "group": "默认"
-    },
-    "name": "去他妈的世界第一季",
-    "rate": "9.1",
-    "detail": {
-      "last": "2020-10-16 09:09:43",
-      "id": 50181,
-      "tid": 15,
-      "name": "去他妈的世界第一季",
-      "type": "欧美剧",
-      "pic": "https://mahuapic.com/upload/vod/2020-10-16/16028109142.jpg",
-      "lang": "英语",
-      "area": "英国",
-      "year": 2017,
-      "state": 0,
-      "note": "完结",
-      "actor": "杰西卡·巴登,埃里克斯·劳瑟,史蒂夫·奥拉姆,杰玛·韦兰,乌米·马萨库,克里斯汀·博顿利,纳温·乔杜里,杰克·维尔,乔纳森·阿里斯,巴里·沃德,凯莉·哈里森,霍莉·比奇,波丽·坎普,亚历克斯·索耶,伊莲恩·戴维斯,凯利斯顿·韦勒英,艾玛·阿普尔顿,杰夫·贝尔,玛格丽特·安·贝恩,亚当·布朗,亚历克斯·贝克特,朱丽叶·考恩,马特·金,海韦尔·摩根,利昂·阿诺,加里·萨默斯,莉莉·卡瓦纳,西蒙·勒纳根,泰勒斯·麦肯齐,路易斯·温特,厄尔·凯夫,费莉西蒂·蒙塔古",
-      "director": "乔纳森·恩特威斯尔,露西·彻尼亚克",
-      "dl": {
-        "dd": {
-          "_t": "第01集$https://e.mahua-kb.com/20201015/8xJT0yxt/index.m3u8#第02集$https://e.mahua-kb.com/20201015/eGFFFk2I/index.m3u8#第03集$https://e.mahua-kb.com/20201015/NA5Fzh31/index.m3u8#第04集$https://e.mahua-kb.com/20201015/VlJlYek0/index.m3u8#第05集$https://e.mahua-kb.com/20201015/TBHjYSOv/index.m3u8#第06集$https://e.mahua-kb.com/20201015/FXHGsEKd/index.m3u8#第07集$https://e.mahua-kb.com/20201015/ct7n0Ki3/index.m3u8#第08集$https://e.mahua-kb.com/20201015/uOThvTJO/index.m3u8",
-          "_flag": "mahua"
-        }
-      },
-      "des": "17岁的James确信自己是名精神变态者，他冷血无情喜爱杀生，原本计划杀掉接近他的叛逆少女Alyssa，但两人的合拍让他决定推迟杀人计划，跟她一起离家出走开始公路旅行……"
     }
   },
   {
