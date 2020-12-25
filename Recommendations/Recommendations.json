@@ -1,6 +1,49 @@
 [
   {
     "key": "mahuazy",
+    "ids": 52538,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "电话",
+    "detail": {
+      "last": "2020-11-27 17:07:26",
+      "id": 52538,
+      "tid": 10,
+      "name": "电话",
+      "type": "剧情片",
+      "pic": "https://mahuapic.com/upload/vod/2020-11-27/16064684120.jpg",
+      "lang": "韩语",
+      "area": "韩国",
+      "year": 2020,
+      "state": 0,
+      "note": "HD中字",
+      "actor": "全钟瑞,朴信惠,金成铃,李艾,李东辉,朴浩山,吴世贞",
+      "director": "李聪贤",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://b.mhqiyi.com/20201127/z2l8euAR/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "一通电话让来自过去和现在的两个女人产生了奇妙的联系，并引发了一场改变未来的危险游戏...她们将渐渐难以自拔。",
+      "m3u8List": [
+        "HD$https://b.mhqiyi.com/20201127/z2l8euAR/index.m3u8$mahua"
+      ],
+      "rate": "7.6"
+    },
+    "rate": "7.6",
+    "id": 274
+  },
+  {
+    "key": "mahuazy",
     "ids": 16125,
     "site": {
       "id": 1,
@@ -40,7 +83,8 @@
       "rate": "8.8"
     },
     "rate": "8.8",
-    "id": 273
+    "id": 273,
+    "index": 0
   },
   {
     "key": "mahuazy",
