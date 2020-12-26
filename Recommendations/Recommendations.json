@@ -1,6 +1,99 @@
 [
   {
     "key": "mahuazy",
+    "ids": 5433,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "精英部队2：大敌当前",
+    "detail": {
+      "last": "2019-07-12 23:31:43",
+      "id": 5433,
+      "tid": 5,
+      "name": "精英部队2：大敌当前",
+      "type": "动作片",
+      "pic": "https://mahuapic.com/upload/vod/2019-09-29/156972425313.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2010,
+      "state": 0,
+      "note": "HD",
+      "actor": "瓦格纳·马拉,安德烈·拉米罗,米尔黑·考塔兹,伊兰迪尔·桑托斯",
+      "director": "何塞·帕迪里亚",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://youku.mhyunbo.com/20200206/HzJfbHKs/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "4年前，臭名昭著的拉西欧监狱发生了一场暴动，这一事件引起里约热内卢州社会的广泛争论，也不同程度改变了许多人的命运。直接领导精英部队（BOPE）的罗伯特·纳西贝托中校（Wagner Moura 饰）由此荣升为安全局的副秘书长，拥有更大的施展空间；而他的爱将安德鲁·马蒂亚斯（André Ramiro 饰）被政客当作替罪羔羊，踢出了BOPE部队。当然，纳西贝托也遭受着来自政坛、战友和家人各方面的压力，他将一腔愤懑转化到工作中，不仅扩编强化了BOPE的实力，还通过一次次铁腕的打击荡涤了贫民区毒贩的罪恶势力。毒贩销声匿迹，黑暗的阴霾却未散去。以罗卡（Sandro Rocha 饰）等人为首的腐败警察势力进入贫民窟，他们欺行霸市，官匪勾结，成为里约州另一个难以祛除的顽疾……&copy;豆瓣",
+      "m3u8List": [
+        "HD$https://youku.mhyunbo.com/20200206/HzJfbHKs/index.m3u8$mahua"
+      ],
+      "rate": "8.7"
+    },
+    "rate": "8.7",
+    "id": 276
+  },
+  {
+    "key": "zuidazy",
+    "ids": 74286,
+    "site": {
+      "key": "zuidazy",
+      "id": 7,
+      "name": "最大资源网",
+      "api": "http://www.zdziyuan.com/inc/ldg_sea.php",
+      "download": "http://www.zdziyuan.com/inc/apidown.php",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "精英部队/精锐部队",
+    "detail": {
+      "last": "2019-12-09 17:49:47",
+      "id": 74286,
+      "tid": 5,
+      "name": "精英部队/精锐部队",
+      "type": "动作片",
+      "pic": "https://tu.tianzuida.com/pic/upload/vod/2019-12-09/201912091575884916.png",
+      "lang": "其它",
+      "area": "美国",
+      "year": 2007,
+      "state": 0,
+      "note": "BD超清中字",
+      "actor": "瓦格纳·马拉,卡约·胡恩奎拉,安德烈·拉米罗,玛利亚·瑞贝罗,费尔南达·马查多",
+      "director": "何塞·帕迪里亚",
+      "dl": {
+        "dd": [
+          {
+            "_t": "BD超清中字$http://yi.jingdianzuida.com/20191208/hN0Lbs6j/index.m3u8$zuidam3u8",
+            "_flag": "zuidam3u8"
+          },
+          {
+            "_t": "BD超清中字$http://yi.jingdianzuida.com/share/GEZOZKYuaOSZQST1$zuidall",
+            "_flag": "zuidall"
+          }
+        ]
+      },
+      "des": "号称世界上最危险的城市——巴西里约热内卢，警匪枪战时有发生。恶徒肆意横行，死亡如同家常便饭，甚至警匪沆瀣一气，危害城市。但就在这个混乱所在，却有一支刚正严明的部队横空出世。特别警察军事行动部队（Special Police Operation Battalion）凭借其果敢凶狠的办案作风而令匪徒闻风丧胆。 时1997年，教皇即将来此视察，高层要求纳斯西蒙（Wagner Moura 饰）所率领的这支精英部队在最短时间内肃清贫民窟内的毒品链。厌倦刀光血影的纳斯西蒙将心思放在了妻子和尚未出世的婴儿身上，他将任务交给了两个热血且充满理想的年青人——内图（Caio Junqueira 饰）和马提阿斯（André Ramiro 饰）。他们俩都不满警察队伍的腐败，决心在精英部队中大展身手…… 本片荣获2008年柏林国际电影节金熊奖。",
+      "m3u8List": [
+        "BD超清中字$http://yi.jingdianzuida.com/20191208/hN0Lbs6j/index.m3u8$zuidam3u8"
+      ],
+      "rate": "8.0"
+    },
+    "rate": "8.0",
+    "id": 275
+  },
+  {
+    "id": 274,
+    "key": "mahuazy",
     "ids": 52538,
     "site": {
       "id": 1,
@@ -13,6 +106,7 @@
       "status": "可用"
     },
     "name": "电话",
+    "rate": "7.6",
     "detail": {
       "last": "2020-11-27 17:07:26",
       "id": 52538,
@@ -38,11 +132,10 @@
         "HD$https://b.mhqiyi.com/20201127/z2l8euAR/index.m3u8$mahua"
       ],
       "rate": "7.6"
-    },
-    "rate": "7.6",
-    "id": 274
+    }
   },
   {
+    "id": 273,
     "key": "mahuazy",
     "ids": 16125,
     "site": {
@@ -56,6 +149,8 @@
       "status": "可用"
     },
     "name": "爱在午夜降临前",
+    "index": 0,
+    "rate": "8.8",
     "detail": {
       "last": "2019-11-15 21:21:46",
       "id": 16125,
@@ -81,12 +176,10 @@
         "BD$https://qiyi.mhyunbo.com/20191017/tbwlTRxJ/index.m3u8$mahua"
       ],
       "rate": "8.8"
-    },
-    "rate": "8.8",
-    "id": 273,
-    "index": 0
+    }
   },
   {
+    "id": 272,
     "key": "mahuazy",
     "ids": 20264,
     "site": {
@@ -100,6 +193,7 @@
       "status": "可用"
     },
     "name": "爱在日落黄昏时",
+    "rate": "8.8",
     "detail": {
       "last": "2019-11-17 11:14:47",
       "id": 20264,
@@ -125,11 +219,10 @@
         "HD$https://mhbobo.com/20191116/hHiGIXac/index.m3u8$mahua"
       ],
       "rate": "8.8"
-    },
-    "rate": "8.8",
-    "id": 272
+    }
   },
   {
+    "id": 271,
     "key": "mahuazy",
     "ids": 20666,
     "site": {
@@ -143,6 +236,7 @@
       "status": "可用"
     },
     "name": "爱在黎明破晓前",
+    "rate": "8.8",
     "detail": {
       "last": "2019-11-21 10:09:34",
       "id": 20666,
@@ -168,11 +262,10 @@
         "HD$https://mhbobo.com/20191120/mq1CLLMp/index.m3u8$mahua"
       ],
       "rate": "8.8"
-    },
-    "rate": "8.8",
-    "id": 271
+    }
   },
   {
+    "id": 270,
     "key": "mahuazy",
     "ids": 16096,
     "site": {
@@ -186,6 +279,7 @@
       "status": "可用"
     },
     "name": "7号房的礼物",
+    "rate": "8.9",
     "detail": {
       "last": "2019-11-15 21:21:46",
       "id": 16096,
@@ -211,9 +305,7 @@
         "BD$https://qiyi.mhyunbo.com/20191017/jktFa0Bo/index.m3u8$mahua"
       ],
       "rate": "8.9"
-    },
-    "rate": "8.9",
-    "id": 270
+    }
   },
   {
     "id": 269,
