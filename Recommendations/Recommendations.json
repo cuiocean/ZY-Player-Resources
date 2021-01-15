@@ -1,6 +1,461 @@
 [
   {
     "key": "mahuazy",
+    "ids": 32021,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "三国演义1994",
+    "detail": {
+      "last": "2020-04-29 17:52:31",
+      "id": 32021,
+      "tid": 12,
+      "name": "三国演义1994",
+      "type": "国产剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-04-29/15881539280.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 1994,
+      "state": 0,
+      "note": "全84集/完结",
+      "actor": "唐国强,孙彦军,鲍国安,李靖飞",
+      "director": "王扶林,张绍林,蔡晓晴,孙光明,张中一,沈好放",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://b.mahua-kb.com/20200424/AU9OYoVC/index.m3u8$mahua#第02集$https://b.mahua-kb.com/20200428/wlojcSec/index.m3u8$mahua#第03集$https://b.mahua-kb.com/20200428/7na7UpiQ/index.m3u8$mahua#第04集$https://b.mahua-kb.com/20200428/ZO8MPG4E/index.m3u8$mahua#第05集$https://b.mahua-kb.com/20200428/e28MLqIL/index.m3u8$mahua#第06集$https://b.mahua-kb.com/20200428/SiVggCk6/index.m3u8$mahua#第07集$https://b.mahua-kb.com/20200428/vnIuVvNI/index.m3u8$mahua#第08集$https://b.mahua-kb.com/20200428/3wMkqhm4/index.m3u8$mahua#第09集$https://b.mahua-kb.com/20200428/yCoGAeSH/index.m3u8$mahua#第10集$https://b.mahua-kb.com/20200428/t5OyA0N6/index.m3u8$mahua#第11集$https://b.mahua-kb.com/20200428/5t5Hn2gZ/index.m3u8$mahua#第12集$https://b.mahua-kb.com/20200428/GfSUQkWV/index.m3u8$mahua#第13集$https://b.mahua-kb.com/20200428/cdG4nOPH/index.m3u8$mahua#第14集$https://b.mahua-kb.com/20200428/NoEj42ic/index.m3u8$mahua#第15集$https://b.mahua-kb.com/20200428/rKhARn3W/index.m3u8$mahua#第16集$https://b.mahua-kb.com/20200428/hES8gYu8/index.m3u8$mahua#第17集$https://b.mahua-kb.com/20200428/GHAj0kRU/index.m3u8$mahua#第18集$https://b.mahua-kb.com/20200428/Sp1f4CZI/index.m3u8$mahua#第19集$https://b.mahua-kb.com/20200428/M658xkhn/index.m3u8$mahua#第20集$https://b.mahua-kb.com/20200428/lTFiSKr6/index.m3u8$mahua#第21集$https://b.mahua-kb.com/20200428/KcE4pW6d/index.m3u8$mahua#第22集$https://b.mahua-kb.com/20200428/kkMXpQ1i/index.m3u8$mahua#第23集$https://b.mahua-kb.com/20200428/ocqAMWTK/index.m3u8$mahua#第24集$https://b.mahua-kb.com/20200428/DyJvZSda/index.m3u8$mahua#第25集$https://b.mahua-kb.com/20200428/IwQ8sgXw/index.m3u8$mahua#第26集$https://b.mahua-kb.com/20200428/3canSCe6/index.m3u8$mahua#第27集$https://b.mahua-kb.com/20200428/WQCok8wn/index.m3u8$mahua#第28集$https://b.mahua-kb.com/20200428/ZQEO1DN9/index.m3u8$mahua#第29集$https://b.mahua-kb.com/20200428/O4V1zDEk/index.m3u8$mahua#第30集$https://b.mahua-kb.com/20200428/a1uxefb9/index.m3u8$mahua#第31集$https://b.mahua-kb.com/20200428/jyal5VUE/index.m3u8$mahua#第32集$https://b.mahua-kb.com/20200428/Y1mIYpZm/index.m3u8$mahua#第33集$https://b.mahua-kb.com/20200428/cQ5uTSd2/index.m3u8$mahua#第34集$https://b.mahua-kb.com/20200428/CXWRqBTf/index.m3u8$mahua#第35集$https://b.mahua-kb.com/20200428/4QbST24N/index.m3u8$mahua#第36集$https://b.mahua-kb.com/20200428/vtP1SEjc/index.m3u8$mahua#第37集$https://b.mahua-kb.com/20200428/HMvCAUVO/index.m3u8$mahua#第38集$https://b.mahua-kb.com/20200428/uSjya1T9/index.m3u8$mahua#第39集$https://b.mahua-kb.com/20200428/SnuwA5Rx/index.m3u8$mahua#第40集$https://b.mahua-kb.com/20200428/Tr4icl9D/index.m3u8$mahua#第41集$https://b.mahua-kb.com/20200428/rNtyoFSo/index.m3u8$mahua#第42集$https://b.mahua-kb.com/20200428/btzz13IC/index.m3u8$mahua#第43集$https://b.mahua-kb.com/20200428/oZgUXehc/index.m3u8$mahua#第44集$https://b.mahua-kb.com/20200428/ZxqWYUDq/index.m3u8$mahua#第45集$https://b.mahua-kb.com/20200428/xDgspkie/index.m3u8$mahua#第46集$https://b.mahua-kb.com/20200428/B17cDfPk/index.m3u8$mahua#第47集$https://b.mahua-kb.com/20200428/VOAJvyEc/index.m3u8$mahua#第48集$https://b.mahua-kb.com/20200428/mBJuiOpO/index.m3u8$mahua#第49集$https://b.mahua-kb.com/20200428/fBtIF6OP/index.m3u8$mahua#第50集$https://b.mahua-kb.com/20200428/RNg1jUuY/index.m3u8$mahua#第51集$https://b.mahua-kb.com/20200428/VkupXFzg/index.m3u8$mahua#第52集$https://b.mahua-kb.com/20200428/yFLjb0vK/index.m3u8$mahua#第53集$https://b.mahua-kb.com/20200428/vUGM4gko/index.m3u8$mahua#第54集$https://b.mahua-kb.com/20200428/Fgz4o3qD/index.m3u8$mahua#第55集$https://b.mahua-kb.com/20200428/ODZD1UgZ/index.m3u8$mahua#第56集$https://b.mahua-kb.com/20200428/lalAAlU6/index.m3u8$mahua#第57集$https://b.mahua-kb.com/20200428/9pLt0ABT/index.m3u8$mahua#第58集$https://b.mahua-kb.com/20200428/Vu7lcr9A/index.m3u8$mahua#第59集$https://b.mahua-kb.com/20200428/ybErbZE6/index.m3u8$mahua#第60集$https://b.mahua-kb.com/20200428/rrPWDTPD/index.m3u8$mahua#第61集$https://b.mahua-kb.com/20200428/wIUtUYUs/index.m3u8$mahua#第62集$https://b.mahua-kb.com/20200428/1pUJBPRi/index.m3u8$mahua#第63集$https://b.mahua-kb.com/20200428/rhQ2TKeD/index.m3u8$mahua#第64集$https://b.mahua-kb.com/20200428/p8YBG3MG/index.m3u8$mahua#第65集$https://b.mahua-kb.com/20200428/JqXPxixO/index.m3u8$mahua#第66集$https://b.mahua-kb.com/20200428/kI6yRZRE/index.m3u8$mahua#第67集$https://b.mahua-kb.com/20200428/yXakgghZ/index.m3u8$mahua#第68集$https://b.mahua-kb.com/20200428/5cc7H5Pj/index.m3u8$mahua#第69集$https://b.mahua-kb.com/20200428/lrwdZAlQ/index.m3u8$mahua#第70集$https://b.mahua-kb.com/20200428/eVFQwI2d/index.m3u8$mahua#第71集$https://b.mahua-kb.com/20200428/IRg1NGXp/index.m3u8$mahua#第72集$https://b.mahua-kb.com/20200428/k8BEJzkA/index.m3u8$mahua#第73集$https://b.mahua-kb.com/20200428/V0PI2MYH/index.m3u8$mahua#第74集$https://b.mahua-kb.com/20200428/VuOXQ83i/index.m3u8$mahua#第75集$https://b.mahua-kb.com/20200428/kWOJ8M4I/index.m3u8$mahua#第76集$https://b.mahua-kb.com/20200428/tYDuGEco/index.m3u8$mahua#第77集$https://b.mahua-kb.com/20200428/hthQCxOT/index.m3u8$mahua#第78集$https://b.mahua-kb.com/20200428/eBXZNHkz/index.m3u8$mahua#第79集$https://b.mahua-kb.com/20200428/kHBB2fAj/index.m3u8$mahua#第80集$https://b.mahua-kb.com/20200428/amusn5sC/index.m3u8$mahua#第81集$https://b.mahua-kb.com/20200428/SAtcOWOJ/index.m3u8$mahua#第82集$https://b.mahua-kb.com/20200428/BWEzZqe6/index.m3u8$mahua#第83集$https://b.mahua-kb.com/20200428/XX0uRXBE/index.m3u8$mahua#第84集$https://b.mahua-kb.com/20200428/hd2sc3Vm/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "东汉末年，山河动荡，刘汉王朝气数将尽。内有十常侍颠倒黑白，祸乱朝纲。外有张氏兄弟高呼“苍天已死，黄巾当立”的口号，掀起浩大的农民起义。一时间狼烟四起，刘家朝廷宛如大厦将倾，岌岌可危。正所谓乱世出英雄，曹操（鲍国安 饰）、公孙瓒、袁术、袁绍、吕布（张光北 饰）、刘备、孙策、关羽、张飞、诸葛亮（唐国强 饰）等各路豪杰不断涌现，从群雄逐鹿到赤壁之战，从魏蜀吴三国鼎立到三分归一统，波澜壮阔的三国时代的大幕缓缓拉开……本片根据中国古典名著《三国演义》改编。&copy;豆瓣",
+      "fullList": [
+        {
+          "flag": "mahua",
+          "list": [
+            "第01集$https://b.mahua-kb.com/20200424/AU9OYoVC/index.m3u8$mahua",
+            "第02集$https://b.mahua-kb.com/20200428/wlojcSec/index.m3u8$mahua",
+            "第03集$https://b.mahua-kb.com/20200428/7na7UpiQ/index.m3u8$mahua",
+            "第04集$https://b.mahua-kb.com/20200428/ZO8MPG4E/index.m3u8$mahua",
+            "第05集$https://b.mahua-kb.com/20200428/e28MLqIL/index.m3u8$mahua",
+            "第06集$https://b.mahua-kb.com/20200428/SiVggCk6/index.m3u8$mahua",
+            "第07集$https://b.mahua-kb.com/20200428/vnIuVvNI/index.m3u8$mahua",
+            "第08集$https://b.mahua-kb.com/20200428/3wMkqhm4/index.m3u8$mahua",
+            "第09集$https://b.mahua-kb.com/20200428/yCoGAeSH/index.m3u8$mahua",
+            "第10集$https://b.mahua-kb.com/20200428/t5OyA0N6/index.m3u8$mahua",
+            "第11集$https://b.mahua-kb.com/20200428/5t5Hn2gZ/index.m3u8$mahua",
+            "第12集$https://b.mahua-kb.com/20200428/GfSUQkWV/index.m3u8$mahua",
+            "第13集$https://b.mahua-kb.com/20200428/cdG4nOPH/index.m3u8$mahua",
+            "第14集$https://b.mahua-kb.com/20200428/NoEj42ic/index.m3u8$mahua",
+            "第15集$https://b.mahua-kb.com/20200428/rKhARn3W/index.m3u8$mahua",
+            "第16集$https://b.mahua-kb.com/20200428/hES8gYu8/index.m3u8$mahua",
+            "第17集$https://b.mahua-kb.com/20200428/GHAj0kRU/index.m3u8$mahua",
+            "第18集$https://b.mahua-kb.com/20200428/Sp1f4CZI/index.m3u8$mahua",
+            "第19集$https://b.mahua-kb.com/20200428/M658xkhn/index.m3u8$mahua",
+            "第20集$https://b.mahua-kb.com/20200428/lTFiSKr6/index.m3u8$mahua",
+            "第21集$https://b.mahua-kb.com/20200428/KcE4pW6d/index.m3u8$mahua",
+            "第22集$https://b.mahua-kb.com/20200428/kkMXpQ1i/index.m3u8$mahua",
+            "第23集$https://b.mahua-kb.com/20200428/ocqAMWTK/index.m3u8$mahua",
+            "第24集$https://b.mahua-kb.com/20200428/DyJvZSda/index.m3u8$mahua",
+            "第25集$https://b.mahua-kb.com/20200428/IwQ8sgXw/index.m3u8$mahua",
+            "第26集$https://b.mahua-kb.com/20200428/3canSCe6/index.m3u8$mahua",
+            "第27集$https://b.mahua-kb.com/20200428/WQCok8wn/index.m3u8$mahua",
+            "第28集$https://b.mahua-kb.com/20200428/ZQEO1DN9/index.m3u8$mahua",
+            "第29集$https://b.mahua-kb.com/20200428/O4V1zDEk/index.m3u8$mahua",
+            "第30集$https://b.mahua-kb.com/20200428/a1uxefb9/index.m3u8$mahua",
+            "第31集$https://b.mahua-kb.com/20200428/jyal5VUE/index.m3u8$mahua",
+            "第32集$https://b.mahua-kb.com/20200428/Y1mIYpZm/index.m3u8$mahua",
+            "第33集$https://b.mahua-kb.com/20200428/cQ5uTSd2/index.m3u8$mahua",
+            "第34集$https://b.mahua-kb.com/20200428/CXWRqBTf/index.m3u8$mahua",
+            "第35集$https://b.mahua-kb.com/20200428/4QbST24N/index.m3u8$mahua",
+            "第36集$https://b.mahua-kb.com/20200428/vtP1SEjc/index.m3u8$mahua",
+            "第37集$https://b.mahua-kb.com/20200428/HMvCAUVO/index.m3u8$mahua",
+            "第38集$https://b.mahua-kb.com/20200428/uSjya1T9/index.m3u8$mahua",
+            "第39集$https://b.mahua-kb.com/20200428/SnuwA5Rx/index.m3u8$mahua",
+            "第40集$https://b.mahua-kb.com/20200428/Tr4icl9D/index.m3u8$mahua",
+            "第41集$https://b.mahua-kb.com/20200428/rNtyoFSo/index.m3u8$mahua",
+            "第42集$https://b.mahua-kb.com/20200428/btzz13IC/index.m3u8$mahua",
+            "第43集$https://b.mahua-kb.com/20200428/oZgUXehc/index.m3u8$mahua",
+            "第44集$https://b.mahua-kb.com/20200428/ZxqWYUDq/index.m3u8$mahua",
+            "第45集$https://b.mahua-kb.com/20200428/xDgspkie/index.m3u8$mahua",
+            "第46集$https://b.mahua-kb.com/20200428/B17cDfPk/index.m3u8$mahua",
+            "第47集$https://b.mahua-kb.com/20200428/VOAJvyEc/index.m3u8$mahua",
+            "第48集$https://b.mahua-kb.com/20200428/mBJuiOpO/index.m3u8$mahua",
+            "第49集$https://b.mahua-kb.com/20200428/fBtIF6OP/index.m3u8$mahua",
+            "第50集$https://b.mahua-kb.com/20200428/RNg1jUuY/index.m3u8$mahua",
+            "第51集$https://b.mahua-kb.com/20200428/VkupXFzg/index.m3u8$mahua",
+            "第52集$https://b.mahua-kb.com/20200428/yFLjb0vK/index.m3u8$mahua",
+            "第53集$https://b.mahua-kb.com/20200428/vUGM4gko/index.m3u8$mahua",
+            "第54集$https://b.mahua-kb.com/20200428/Fgz4o3qD/index.m3u8$mahua",
+            "第55集$https://b.mahua-kb.com/20200428/ODZD1UgZ/index.m3u8$mahua",
+            "第56集$https://b.mahua-kb.com/20200428/lalAAlU6/index.m3u8$mahua",
+            "第57集$https://b.mahua-kb.com/20200428/9pLt0ABT/index.m3u8$mahua",
+            "第58集$https://b.mahua-kb.com/20200428/Vu7lcr9A/index.m3u8$mahua",
+            "第59集$https://b.mahua-kb.com/20200428/ybErbZE6/index.m3u8$mahua",
+            "第60集$https://b.mahua-kb.com/20200428/rrPWDTPD/index.m3u8$mahua",
+            "第61集$https://b.mahua-kb.com/20200428/wIUtUYUs/index.m3u8$mahua",
+            "第62集$https://b.mahua-kb.com/20200428/1pUJBPRi/index.m3u8$mahua",
+            "第63集$https://b.mahua-kb.com/20200428/rhQ2TKeD/index.m3u8$mahua",
+            "第64集$https://b.mahua-kb.com/20200428/p8YBG3MG/index.m3u8$mahua",
+            "第65集$https://b.mahua-kb.com/20200428/JqXPxixO/index.m3u8$mahua",
+            "第66集$https://b.mahua-kb.com/20200428/kI6yRZRE/index.m3u8$mahua",
+            "第67集$https://b.mahua-kb.com/20200428/yXakgghZ/index.m3u8$mahua",
+            "第68集$https://b.mahua-kb.com/20200428/5cc7H5Pj/index.m3u8$mahua",
+            "第69集$https://b.mahua-kb.com/20200428/lrwdZAlQ/index.m3u8$mahua",
+            "第70集$https://b.mahua-kb.com/20200428/eVFQwI2d/index.m3u8$mahua",
+            "第71集$https://b.mahua-kb.com/20200428/IRg1NGXp/index.m3u8$mahua",
+            "第72集$https://b.mahua-kb.com/20200428/k8BEJzkA/index.m3u8$mahua",
+            "第73集$https://b.mahua-kb.com/20200428/V0PI2MYH/index.m3u8$mahua",
+            "第74集$https://b.mahua-kb.com/20200428/VuOXQ83i/index.m3u8$mahua",
+            "第75集$https://b.mahua-kb.com/20200428/kWOJ8M4I/index.m3u8$mahua",
+            "第76集$https://b.mahua-kb.com/20200428/tYDuGEco/index.m3u8$mahua",
+            "第77集$https://b.mahua-kb.com/20200428/hthQCxOT/index.m3u8$mahua",
+            "第78集$https://b.mahua-kb.com/20200428/eBXZNHkz/index.m3u8$mahua",
+            "第79集$https://b.mahua-kb.com/20200428/kHBB2fAj/index.m3u8$mahua",
+            "第80集$https://b.mahua-kb.com/20200428/amusn5sC/index.m3u8$mahua",
+            "第81集$https://b.mahua-kb.com/20200428/SAtcOWOJ/index.m3u8$mahua",
+            "第82集$https://b.mahua-kb.com/20200428/BWEzZqe6/index.m3u8$mahua",
+            "第83集$https://b.mahua-kb.com/20200428/XX0uRXBE/index.m3u8$mahua",
+            "第84集$https://b.mahua-kb.com/20200428/hd2sc3Vm/index.m3u8$mahua"
+          ]
+        }
+      ],
+      "rate": "9.5"
+    },
+    "rate": "9.5",
+    "id": 283
+  },
+  {
+    "key": "mahuazy",
+    "ids": 24133,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "西游记1986",
+    "detail": {
+      "last": "2020-01-13 14:55:44",
+      "id": 24133,
+      "tid": 12,
+      "name": "西游记1986",
+      "type": "国产剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-01-13/15788993280.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 1986,
+      "state": 0,
+      "note": "完结",
+      "actor": "六小龄童,迟重瑞,马德华,汪粤",
+      "director": "杨洁",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://a.mhkuaibo.com/20200112/N4YJRWoe/index.m3u8$mahua#第02集$https://a.mhkuaibo.com/20200112/2wORFilc/index.m3u8$mahua#第03集$https://a.mhkuaibo.com/20200112/FzAtTzUp/index.m3u8$mahua#第04集$https://a.mhkuaibo.com/20200112/baOiAygg/index.m3u8$mahua#第05集$https://a.mhkuaibo.com/20200112/S6UwgNw8/index.m3u8$mahua#第06集$https://a.mhkuaibo.com/20200112/sPf0RZcX/index.m3u8$mahua#第07集$https://a.mhkuaibo.com/20200112/UQtFUylk/index.m3u8$mahua#第08集$https://a.mhkuaibo.com/20200112/dZpIwg1T/index.m3u8$mahua#第09集$https://a.mhkuaibo.com/20200112/HtsTJ7pH/index.m3u8$mahua#第10集$https://a.mhkuaibo.com/20200112/Om2TSpMf/index.m3u8$mahua#第11集$https://a.mhkuaibo.com/20200112/cFtmJhsK/index.m3u8$mahua#第12集$https://a.mhkuaibo.com/20200112/QUq4mKSt/index.m3u8$mahua#第13集$https://a.mhkuaibo.com/20200112/WJMacyyX/index.m3u8$mahua#第14集$https://a.mhkuaibo.com/20200112/8R1Dh0Xd/index.m3u8$mahua#第15集$https://a.mhkuaibo.com/20200112/UrIvOPJ1/index.m3u8$mahua#第16集$https://a.mhkuaibo.com/20200112/REbq6s65/index.m3u8$mahua#第17集$https://a.mhkuaibo.com/20200112/ypZNdCWr/index.m3u8$mahua#第18集$https://a.mhkuaibo.com/20200112/zNqdaEtm/index.m3u8$mahua#第19集$https://a.mhkuaibo.com/20200112/hRVSaVJF/index.m3u8$mahua#第20集$https://a.mhkuaibo.com/20200112/EwlzOhar/index.m3u8$mahua#第21集$https://a.mhkuaibo.com/20200112/fJVC003P/index.m3u8$mahua#第22集$https://a.mhkuaibo.com/20200112/B1tVQjtd/index.m3u8$mahua#第23集$https://a.mhkuaibo.com/20200112/dkwNff06/index.m3u8$mahua#第24集$https://a.mhkuaibo.com/20200112/HnVmFqZi/index.m3u8$mahua#第25集$https://a.mhkuaibo.com/20200112/I72CyzcG/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "东胜神州的傲来国花果山的一块巨石孕育出了一只明灵石猴（六小龄童 饰），石猴后来拜须菩提为师后习得了七十二变，具有了通天本领，于是占山为王，自称齐天大圣。玉帝派太上老君下凡招安大圣上了天庭，后来大圣因为嫌玉帝赐封的官职太低，大闹天宫，被太白金星困于炼丹炉内四十九天后，大圣踢翻炼丹炉，炼成了金睛火眼。如来佛祖见局势不可收拾，于是将大圣镇压于五指山下。一晃眼五百年过去了，唐僧被观世音菩萨选为西去取经普渡众生的人，大圣受观音指引，拜唐僧为师，师徒二人踏上了取经的路途。",
+      "fullList": [
+        {
+          "flag": "mahua",
+          "list": [
+            "第01集$https://a.mhkuaibo.com/20200112/N4YJRWoe/index.m3u8$mahua",
+            "第02集$https://a.mhkuaibo.com/20200112/2wORFilc/index.m3u8$mahua",
+            "第03集$https://a.mhkuaibo.com/20200112/FzAtTzUp/index.m3u8$mahua",
+            "第04集$https://a.mhkuaibo.com/20200112/baOiAygg/index.m3u8$mahua",
+            "第05集$https://a.mhkuaibo.com/20200112/S6UwgNw8/index.m3u8$mahua",
+            "第06集$https://a.mhkuaibo.com/20200112/sPf0RZcX/index.m3u8$mahua",
+            "第07集$https://a.mhkuaibo.com/20200112/UQtFUylk/index.m3u8$mahua",
+            "第08集$https://a.mhkuaibo.com/20200112/dZpIwg1T/index.m3u8$mahua",
+            "第09集$https://a.mhkuaibo.com/20200112/HtsTJ7pH/index.m3u8$mahua",
+            "第10集$https://a.mhkuaibo.com/20200112/Om2TSpMf/index.m3u8$mahua",
+            "第11集$https://a.mhkuaibo.com/20200112/cFtmJhsK/index.m3u8$mahua",
+            "第12集$https://a.mhkuaibo.com/20200112/QUq4mKSt/index.m3u8$mahua",
+            "第13集$https://a.mhkuaibo.com/20200112/WJMacyyX/index.m3u8$mahua",
+            "第14集$https://a.mhkuaibo.com/20200112/8R1Dh0Xd/index.m3u8$mahua",
+            "第15集$https://a.mhkuaibo.com/20200112/UrIvOPJ1/index.m3u8$mahua",
+            "第16集$https://a.mhkuaibo.com/20200112/REbq6s65/index.m3u8$mahua",
+            "第17集$https://a.mhkuaibo.com/20200112/ypZNdCWr/index.m3u8$mahua",
+            "第18集$https://a.mhkuaibo.com/20200112/zNqdaEtm/index.m3u8$mahua",
+            "第19集$https://a.mhkuaibo.com/20200112/hRVSaVJF/index.m3u8$mahua",
+            "第20集$https://a.mhkuaibo.com/20200112/EwlzOhar/index.m3u8$mahua",
+            "第21集$https://a.mhkuaibo.com/20200112/fJVC003P/index.m3u8$mahua",
+            "第22集$https://a.mhkuaibo.com/20200112/B1tVQjtd/index.m3u8$mahua",
+            "第23集$https://a.mhkuaibo.com/20200112/dkwNff06/index.m3u8$mahua",
+            "第24集$https://a.mhkuaibo.com/20200112/HnVmFqZi/index.m3u8$mahua",
+            "第25集$https://a.mhkuaibo.com/20200112/I72CyzcG/index.m3u8$mahua"
+          ]
+        }
+      ],
+      "rate": "9.6"
+    },
+    "rate": "9.6",
+    "id": 282
+  },
+  {
+    "key": "subo988",
+    "ids": 36668,
+    "site": {
+      "id": 7,
+      "key": "subo988",
+      "name": "速播资源站",
+      "api": "https://www.subo988.com/inc/api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "红楼梦1987版",
+    "detail": {
+      "last": "2020-09-25 18:06:30",
+      "id": 36668,
+      "tid": 12,
+      "name": "红楼梦1987版",
+      "type": "国产剧",
+      "pic": "http://tu.166376.com:988/img/upload/vod/2020-09-25/202009251601028384.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 1987,
+      "state": 0,
+      "note": "50集全/已完结",
+      "actor": "欧阳奋强 / 陈晓旭 / 邓婕 / 张莉 / 李婷 / 袁玫 / 张蕾 / 郭霄珍 / 周贤珍 / 郑铮 / 高宏亮 / 潘虹 / 东方闻樱 / 李颉 / 王贵娥 / 夏明辉 / 胡泽红 / 马广儒 / 金莉莉 / 马加奇 / 沈琳 / 安雯 / 陈剑月 / 沙玉华 / 牟一 / 夏丽蓉 / 姬玉 / 孙梦泉 / 李志新 / 杨俊勇 / 吴晓东 / 王羊 / 站爱霞 / 苏秋冬 / 王蔚 / 侯长荣 / 李伊 / 刘继红 / 张迎玖 / 谷童 / 沈璐 / 张明明 / 周月 / 王萱 / 李玥 / 徐丽霞",
+      "director": "王扶林",
+      "dl": {
+        "dd": [
+          {
+            "_t": "第01集$https://www.ziboshishen.com/20191029/Ob1sN9zg/index.m3u8#第02集$https://www.ziboshishen.com/20191029/qeEyZFLm/index.m3u8#第03集$https://www.ziboshishen.com/20191029/tLCkIEdV/index.m3u8#第04集$https://www.ziboshishen.com/20191029/pENbXk0o/index.m3u8#第05集$https://www.ziboshishen.com/20191029/SImRg7XM/index.m3u8#第06集$https://www.ziboshishen.com/20191029/ASWvRtur/index.m3u8#第07集$https://www.ziboshishen.com/20191029/ebYC3PMm/index.m3u8#第08集$https://www.ziboshishen.com/20191029/MQqIr5GF/index.m3u8#第09集$https://www.ziboshishen.com/20191029/loYmK0SJ/index.m3u8#第10集$https://www.ziboshishen.com/20191029/lwb4ZfN8/index.m3u8#第11集$https://www.ziboshishen.com/20191029/rfuw72xX/index.m3u8#第12集$https://www.ziboshishen.com/20191029/nr90Hhc3/index.m3u8#第13集$https://www.ziboshishen.com/20191029/T38HobmZ/index.m3u8#第14集$https://www.ziboshishen.com/20191029/zubqs1wB/index.m3u8#第15集$https://www.ziboshishen.com/20191029/CKuvd9IW/index.m3u8#第16集$https://www.ziboshishen.com/20191029/plbUkA4N/index.m3u8#第17集$https://www.ziboshishen.com/20191029/S9CH2Lgu/index.m3u8#第18集$https://www.ziboshishen.com/20191029/MLukKZrx/index.m3u8#第19集$https://www.ziboshishen.com/20191029/3BOJvn6G/index.m3u8#第20集$https://www.ziboshishen.com/20191029/B21Gs4fD/index.m3u8#第21集$https://www.ziboshishen.com/20191029/pIrLa4oZ/index.m3u8#第22集$https://www.ziboshishen.com/20191029/4W9CqJ7R/index.m3u8#第23集$https://www.ziboshishen.com/20191029/VdZ49kGx/index.m3u8#第24集$https://www.ziboshishen.com/20191029/p0iT3xE2/index.m3u8#第25集$https://www.ziboshishen.com/20191029/vCHZM5cX/index.m3u8#第26集$https://www.ziboshishen.com/20191029/VdqJckOl/index.m3u8#第27集$https://www.ziboshishen.com/20191029/SkwdxUu3/index.m3u8#第28集$https://www.ziboshishen.com/20191029/I5C6nzbq/index.m3u8#第29集$https://www.ziboshishen.com/20191029/BmzpC3PX/index.m3u8#第30集$https://www.ziboshishen.com/20191029/5bc2JjCO/index.m3u8#第31集$https://www.ziboshishen.com/20191029/WvQj21r5/index.m3u8#第32集$https://www.ziboshishen.com/20191029/iBhqkmEX/index.m3u8#第33集$https://www.ziboshishen.com/20191029/V602xraL/index.m3u8#第34集$https://www.ziboshishen.com/20191029/AFi2LByk/index.m3u8#第35集$https://www.ziboshishen.com/20191029/uOw9zaAR/index.m3u8#第36集$https://www.ziboshishen.com/20191029/hWly6EFU/index.m3u8#第37集$https://www.ziboshishen.com/20191029/mva2Oqdr/index.m3u8#第38集$https://www.ziboshishen.com/20191029/zNUYi7M4/index.m3u8#第39集$https://www.ziboshishen.com/20191029/gf4RInhy/index.m3u8#第40集$https://www.ziboshishen.com/20191029/794GHV3t/index.m3u8#第41集$https://www.ziboshishen.com/20191029/UKCYOGtE/index.m3u8#第42集$https://www.ziboshishen.com/20191029/6fVCeDx0/index.m3u8#第43集$https://www.ziboshishen.com/20191029/eZv1n5Rs/index.m3u8#第44集$https://www.ziboshishen.com/20191029/xzij1IkK/index.m3u8#第45集$https://www.ziboshishen.com/20191029/UcTgfGlu/index.m3u8#第46集$https://www.ziboshishen.com/20191029/W7n29vXk/index.m3u8#第47集$https://www.ziboshishen.com/20191029/TJFCK70P/index.m3u8#第48集$https://www.ziboshishen.com/20191029/LJZEqhCf/index.m3u8#第49集$https://www.ziboshishen.com/20191029/YeDnwl7t/index.m3u8#第50集$https://www.ziboshishen.com/20191029/ZrnmhNCx/index.m3u8",
+            "_flag": "m3u8"
+          },
+          {
+            "_t": "第01集$https://www.ziboshishen.com/share/jixK3ENkSwzRJ67v#第02集$https://www.ziboshishen.com/share/L3xWAZP2HRX59dO4#第03集$https://www.ziboshishen.com/share/fKZxpejyBn9DChIN#第04集$https://www.ziboshishen.com/share/M6xrHbcAzOhCj4Vu#第05集$https://www.ziboshishen.com/share/Cl2QfVqE7XZG4eoW#第06集$https://www.ziboshishen.com/share/VG9IeLo2ZQMfdO4A#第07集$https://www.ziboshishen.com/share/vhdHf1qYOtsP526L#第08集$https://www.ziboshishen.com/share/24xWYMdc8XBjGCvu#第09集$https://www.ziboshishen.com/share/IFwfOyTsUon2uqpt#第10集$https://www.ziboshishen.com/share/qxam0twupXPngeMc#第11集$https://www.ziboshishen.com/share/VMtCyzB5sQe6Ygfv#第12集$https://www.ziboshishen.com/share/dtrCEFVIpfYKNuSw#第13集$https://www.ziboshishen.com/share/NmE6rA5XCK4qbMlW#第14集$https://www.ziboshishen.com/share/v39G5SURLe2uHYCf#第15集$https://www.ziboshishen.com/share/rBLJ3z0lfjYceMAd#第16集$https://www.ziboshishen.com/share/eJDIY1BcAT4nHXyt#第17集$https://www.ziboshishen.com/share/93K65pZSWtnBVY4v#第18集$https://www.ziboshishen.com/share/WhKuHYF2rBX9sbkD#第19集$https://www.ziboshishen.com/share/hzxrMsfYo8A1IS2Q#第20集$https://www.ziboshishen.com/share/IXBLudKN69vqUgw5#第21集$https://www.ziboshishen.com/share/0vsI6nX2otDZS9Uw#第22集$https://www.ziboshishen.com/share/lR1as3SJMYQKwNqG#第23集$https://www.ziboshishen.com/share/b7qnsGmKo48IRDAY#第24集$https://www.ziboshishen.com/share/WnShC31qwUXrb0px#第25集$https://www.ziboshishen.com/share/ogXvKtcrEyiVsNwW#第26集$https://www.ziboshishen.com/share/OeCjplJRbaYkM6uv#第27集$https://www.ziboshishen.com/share/qapCBwhcA6skUXjR#第28集$https://www.ziboshishen.com/share/pZJf4QNMR2HFbeB5#第29集$https://www.ziboshishen.com/share/V92FzaGjoX1T63p5#第30集$https://www.ziboshishen.com/share/7mrIWyfLFZPwDRJj#第31集$https://www.ziboshishen.com/share/I9sn3BQKefZSLp5D#第32集$https://www.ziboshishen.com/share/ZrxpSHUaeuNn8gAw#第33集$https://www.ziboshishen.com/share/C1fJmZawF20DYl3M#第34集$https://www.ziboshishen.com/share/f4N53XbDHj2dB7TK#第35集$https://www.ziboshishen.com/share/E5Wbg16lFCOQwvax#第36集$https://www.ziboshishen.com/share/nbZzLQfsS8qaoKFJ#第37集$https://www.ziboshishen.com/share/mQU0oXBWOwIdlSnx#第38集$https://www.ziboshishen.com/share/5DRajW6HyAe0FG9V#第39集$https://www.ziboshishen.com/share/hwKJMPQqraCA2To3#第40集$https://www.ziboshishen.com/share/KBz8vloJgTfCi1Qd#第41集$https://www.ziboshishen.com/share/7t9L23b5yjevcZRo#第42集$https://www.ziboshishen.com/share/HRb8rNCXnQfLK07E#第43集$https://www.ziboshishen.com/share/rgA4Il9GQy2SoMX3#第44集$https://www.ziboshishen.com/share/iAYor1y5VMBSfPb7#第45集$https://www.ziboshishen.com/share/IUl4d5uho3sz60GR#第46集$https://www.ziboshishen.com/share/OhSoJDYn7RNgti2z#第47集$https://www.ziboshishen.com/share/A8B3MpHI9dSQzqn7#第48集$https://www.ziboshishen.com/share/NKXdgx7MWr4AcPHk#第49集$https://www.ziboshishen.com/share/59UpjvdquPXOrKQt#第50集$https://www.ziboshishen.com/share/GQA96LDyFtWVXmcM",
+            "_flag": "suboyun"
+          }
+        ]
+      },
+      "des": "﻿﻿　青埂峰下女娲补天剩下的顽石在一僧一道的指引下下尘世去经历一番那富贵温柔乡了。一天，与甄士隐深交的贫困书生贾雨村向他借盘缠上京赴考，断定次子日后必定飞黄腾达的甄士隐慷慨解囊，于是雨村上京赴考了。不料甄士隐的爱女甄英莲却遭拐子拐了去，随后甄家在一场火灾后败落。贾雨村不负众望果然中了进士，随后当州官时遇到了被薛蟠强买的英莲，为了自己的利益，不得罪四大家族，雨村胡乱判了案。 　　林黛玉（陈晓旭 饰）母亲早逝，自幼多病，父亲林如海拖上京的贾雨村将她带到外祖母家。贾母见了黛玉后喜不自胜，从此黛玉就在贾家安顿了下来。这日王夫人的姐妹薛姨妈一家也到了京城，从此贾宝玉（欧阳奋强 饰）、林黛玉和薛宝钗（张莉 饰）和袭人等一众少年少女一同见证了四大家族的兴盛衰败……",
+      "fullList": [
+        {
+          "flag": "m3u8",
+          "list": [
+            "第01集$https://www.ziboshishen.com/20191029/Ob1sN9zg/index.m3u8",
+            "第02集$https://www.ziboshishen.com/20191029/qeEyZFLm/index.m3u8",
+            "第03集$https://www.ziboshishen.com/20191029/tLCkIEdV/index.m3u8",
+            "第04集$https://www.ziboshishen.com/20191029/pENbXk0o/index.m3u8",
+            "第05集$https://www.ziboshishen.com/20191029/SImRg7XM/index.m3u8",
+            "第06集$https://www.ziboshishen.com/20191029/ASWvRtur/index.m3u8",
+            "第07集$https://www.ziboshishen.com/20191029/ebYC3PMm/index.m3u8",
+            "第08集$https://www.ziboshishen.com/20191029/MQqIr5GF/index.m3u8",
+            "第09集$https://www.ziboshishen.com/20191029/loYmK0SJ/index.m3u8",
+            "第10集$https://www.ziboshishen.com/20191029/lwb4ZfN8/index.m3u8",
+            "第11集$https://www.ziboshishen.com/20191029/rfuw72xX/index.m3u8",
+            "第12集$https://www.ziboshishen.com/20191029/nr90Hhc3/index.m3u8",
+            "第13集$https://www.ziboshishen.com/20191029/T38HobmZ/index.m3u8",
+            "第14集$https://www.ziboshishen.com/20191029/zubqs1wB/index.m3u8",
+            "第15集$https://www.ziboshishen.com/20191029/CKuvd9IW/index.m3u8",
+            "第16集$https://www.ziboshishen.com/20191029/plbUkA4N/index.m3u8",
+            "第17集$https://www.ziboshishen.com/20191029/S9CH2Lgu/index.m3u8",
+            "第18集$https://www.ziboshishen.com/20191029/MLukKZrx/index.m3u8",
+            "第19集$https://www.ziboshishen.com/20191029/3BOJvn6G/index.m3u8",
+            "第20集$https://www.ziboshishen.com/20191029/B21Gs4fD/index.m3u8",
+            "第21集$https://www.ziboshishen.com/20191029/pIrLa4oZ/index.m3u8",
+            "第22集$https://www.ziboshishen.com/20191029/4W9CqJ7R/index.m3u8",
+            "第23集$https://www.ziboshishen.com/20191029/VdZ49kGx/index.m3u8",
+            "第24集$https://www.ziboshishen.com/20191029/p0iT3xE2/index.m3u8",
+            "第25集$https://www.ziboshishen.com/20191029/vCHZM5cX/index.m3u8",
+            "第26集$https://www.ziboshishen.com/20191029/VdqJckOl/index.m3u8",
+            "第27集$https://www.ziboshishen.com/20191029/SkwdxUu3/index.m3u8",
+            "第28集$https://www.ziboshishen.com/20191029/I5C6nzbq/index.m3u8",
+            "第29集$https://www.ziboshishen.com/20191029/BmzpC3PX/index.m3u8",
+            "第30集$https://www.ziboshishen.com/20191029/5bc2JjCO/index.m3u8",
+            "第31集$https://www.ziboshishen.com/20191029/WvQj21r5/index.m3u8",
+            "第32集$https://www.ziboshishen.com/20191029/iBhqkmEX/index.m3u8",
+            "第33集$https://www.ziboshishen.com/20191029/V602xraL/index.m3u8",
+            "第34集$https://www.ziboshishen.com/20191029/AFi2LByk/index.m3u8",
+            "第35集$https://www.ziboshishen.com/20191029/uOw9zaAR/index.m3u8",
+            "第36集$https://www.ziboshishen.com/20191029/hWly6EFU/index.m3u8",
+            "第37集$https://www.ziboshishen.com/20191029/mva2Oqdr/index.m3u8",
+            "第38集$https://www.ziboshishen.com/20191029/zNUYi7M4/index.m3u8",
+            "第39集$https://www.ziboshishen.com/20191029/gf4RInhy/index.m3u8",
+            "第40集$https://www.ziboshishen.com/20191029/794GHV3t/index.m3u8",
+            "第41集$https://www.ziboshishen.com/20191029/UKCYOGtE/index.m3u8",
+            "第42集$https://www.ziboshishen.com/20191029/6fVCeDx0/index.m3u8",
+            "第43集$https://www.ziboshishen.com/20191029/eZv1n5Rs/index.m3u8",
+            "第44集$https://www.ziboshishen.com/20191029/xzij1IkK/index.m3u8",
+            "第45集$https://www.ziboshishen.com/20191029/UcTgfGlu/index.m3u8",
+            "第46集$https://www.ziboshishen.com/20191029/W7n29vXk/index.m3u8",
+            "第47集$https://www.ziboshishen.com/20191029/TJFCK70P/index.m3u8",
+            "第48集$https://www.ziboshishen.com/20191029/LJZEqhCf/index.m3u8",
+            "第49集$https://www.ziboshishen.com/20191029/YeDnwl7t/index.m3u8",
+            "第50集$https://www.ziboshishen.com/20191029/ZrnmhNCx/index.m3u8"
+          ]
+        },
+        {
+          "flag": "suboyun",
+          "list": [
+            "第01集$https://www.ziboshishen.com/share/jixK3ENkSwzRJ67v",
+            "第02集$https://www.ziboshishen.com/share/L3xWAZP2HRX59dO4",
+            "第03集$https://www.ziboshishen.com/share/fKZxpejyBn9DChIN",
+            "第04集$https://www.ziboshishen.com/share/M6xrHbcAzOhCj4Vu",
+            "第05集$https://www.ziboshishen.com/share/Cl2QfVqE7XZG4eoW",
+            "第06集$https://www.ziboshishen.com/share/VG9IeLo2ZQMfdO4A",
+            "第07集$https://www.ziboshishen.com/share/vhdHf1qYOtsP526L",
+            "第08集$https://www.ziboshishen.com/share/24xWYMdc8XBjGCvu",
+            "第09集$https://www.ziboshishen.com/share/IFwfOyTsUon2uqpt",
+            "第10集$https://www.ziboshishen.com/share/qxam0twupXPngeMc",
+            "第11集$https://www.ziboshishen.com/share/VMtCyzB5sQe6Ygfv",
+            "第12集$https://www.ziboshishen.com/share/dtrCEFVIpfYKNuSw",
+            "第13集$https://www.ziboshishen.com/share/NmE6rA5XCK4qbMlW",
+            "第14集$https://www.ziboshishen.com/share/v39G5SURLe2uHYCf",
+            "第15集$https://www.ziboshishen.com/share/rBLJ3z0lfjYceMAd",
+            "第16集$https://www.ziboshishen.com/share/eJDIY1BcAT4nHXyt",
+            "第17集$https://www.ziboshishen.com/share/93K65pZSWtnBVY4v",
+            "第18集$https://www.ziboshishen.com/share/WhKuHYF2rBX9sbkD",
+            "第19集$https://www.ziboshishen.com/share/hzxrMsfYo8A1IS2Q",
+            "第20集$https://www.ziboshishen.com/share/IXBLudKN69vqUgw5",
+            "第21集$https://www.ziboshishen.com/share/0vsI6nX2otDZS9Uw",
+            "第22集$https://www.ziboshishen.com/share/lR1as3SJMYQKwNqG",
+            "第23集$https://www.ziboshishen.com/share/b7qnsGmKo48IRDAY",
+            "第24集$https://www.ziboshishen.com/share/WnShC31qwUXrb0px",
+            "第25集$https://www.ziboshishen.com/share/ogXvKtcrEyiVsNwW",
+            "第26集$https://www.ziboshishen.com/share/OeCjplJRbaYkM6uv",
+            "第27集$https://www.ziboshishen.com/share/qapCBwhcA6skUXjR",
+            "第28集$https://www.ziboshishen.com/share/pZJf4QNMR2HFbeB5",
+            "第29集$https://www.ziboshishen.com/share/V92FzaGjoX1T63p5",
+            "第30集$https://www.ziboshishen.com/share/7mrIWyfLFZPwDRJj",
+            "第31集$https://www.ziboshishen.com/share/I9sn3BQKefZSLp5D",
+            "第32集$https://www.ziboshishen.com/share/ZrxpSHUaeuNn8gAw",
+            "第33集$https://www.ziboshishen.com/share/C1fJmZawF20DYl3M",
+            "第34集$https://www.ziboshishen.com/share/f4N53XbDHj2dB7TK",
+            "第35集$https://www.ziboshishen.com/share/E5Wbg16lFCOQwvax",
+            "第36集$https://www.ziboshishen.com/share/nbZzLQfsS8qaoKFJ",
+            "第37集$https://www.ziboshishen.com/share/mQU0oXBWOwIdlSnx",
+            "第38集$https://www.ziboshishen.com/share/5DRajW6HyAe0FG9V",
+            "第39集$https://www.ziboshishen.com/share/hwKJMPQqraCA2To3",
+            "第40集$https://www.ziboshishen.com/share/KBz8vloJgTfCi1Qd",
+            "第41集$https://www.ziboshishen.com/share/7t9L23b5yjevcZRo",
+            "第42集$https://www.ziboshishen.com/share/HRb8rNCXnQfLK07E",
+            "第43集$https://www.ziboshishen.com/share/rgA4Il9GQy2SoMX3",
+            "第44集$https://www.ziboshishen.com/share/iAYor1y5VMBSfPb7",
+            "第45集$https://www.ziboshishen.com/share/IUl4d5uho3sz60GR",
+            "第46集$https://www.ziboshishen.com/share/OhSoJDYn7RNgti2z",
+            "第47集$https://www.ziboshishen.com/share/A8B3MpHI9dSQzqn7",
+            "第48集$https://www.ziboshishen.com/share/NKXdgx7MWr4AcPHk",
+            "第49集$https://www.ziboshishen.com/share/59UpjvdquPXOrKQt",
+            "第50集$https://www.ziboshishen.com/share/GQA96LDyFtWVXmcM"
+          ]
+        }
+      ],
+      "rate": "9.6"
+    },
+    "rate": "9.6",
+    "id": 281
+  },
+  {
+    "key": "mahuazy",
+    "ids": 48233,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "水浒传",
+    "detail": {
+      "last": "2020-09-24 19:59:35",
+      "id": 48233,
+      "tid": 12,
+      "name": "水浒传",
+      "type": "国产剧",
+      "pic": "https://mahuapic.com/upload/vod/2020-09-24/16009531441.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 1998,
+      "state": 0,
+      "note": "全43集/完结",
+      "actor": "李雪健,宁晓志,周野芒,臧金生,丁海峰,赵小锐,修庆,郑爽",
+      "director": "张绍林",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://mhqiyi.com/20200811/cDPV6X9Z/index.m3u8$mahua#第02集$https://mhqiyi.com/20200811/pQvGhJKh/index.m3u8$mahua#第03集$https://mhqiyi.com/20200811/4IGHfz4a/index.m3u8$mahua#第04集$https://mhqiyi.com/20200811/jksFhuSa/index.m3u8$mahua#第05集$https://mhqiyi.com/20200811/dVa6XlYu/index.m3u8$mahua#第06集$https://mhqiyi.com/20200811/QMiRHnEw/index.m3u8$mahua#第07集$https://mhqiyi.com/20200811/gq1AcnC7/index.m3u8$mahua#第08集$https://mhqiyi.com/20200811/18qSceZP/index.m3u8$mahua#第09集$https://mhqiyi.com/20200811/z32dSdW0/index.m3u8$mahua#第10集$https://mhqiyi.com/20200811/9B0eOKvP/index.m3u8$mahua#第11集$https://mhqiyi.com/20200811/vaDxlatn/index.m3u8$mahua#第12集$https://mhqiyi.com/20200811/uvWMb1id/index.m3u8$mahua#第13集$https://mhqiyi.com/20200811/gWpZOKaD/index.m3u8$mahua#第14集$https://mhqiyi.com/20200811/ZZa91z3l/index.m3u8$mahua#第15集$https://mhqiyi.com/20200811/i7H5Jq0C/index.m3u8$mahua#第16集$https://mhqiyi.com/20200811/1vb0EYG7/index.m3u8$mahua#第17集$https://mhqiyi.com/20200811/2s8ncndv/index.m3u8$mahua#第18集$https://mhqiyi.com/20200811/yqTA97xD/index.m3u8$mahua#第19集$https://mhqiyi.com/20200811/gR2LsiuC/index.m3u8$mahua#第20集$https://mhqiyi.com/20200811/ZKlWS4w1/index.m3u8$mahua#第21集$https://mhqiyi.com/20200811/t67H5onZ/index.m3u8$mahua#第22集$https://mhqiyi.com/20200811/1QuWCKcx/index.m3u8$mahua#第23集$https://mhqiyi.com/20200811/ZiWJpLNF/index.m3u8$mahua#第24集$https://mhqiyi.com/20200811/Vvi8GjyZ/index.m3u8$mahua#第25集$https://mhqiyi.com/20200811/ZCvSAwKl/index.m3u8$mahua#第26集$https://mhqiyi.com/20200811/pbWCQ13u/index.m3u8$mahua#第27集$https://mhqiyi.com/20200811/ylrPBw1N/index.m3u8$mahua#第28集$https://mhqiyi.com/20200811/r9uIfuNa/index.m3u8$mahua#第29集$https://mhqiyi.com/20200811/dVHqXvOS/index.m3u8$mahua#第30集$https://mhqiyi.com/20200811/uF6zQwB4/index.m3u8$mahua#第31集$https://mhqiyi.com/20200811/fz9smKT1/index.m3u8$mahua#第32集$https://mhqiyi.com/20200811/l9QCUtex/index.m3u8$mahua#第33集$https://mhqiyi.com/20200811/fwhvl8rJ/index.m3u8$mahua#第34集$https://mhqiyi.com/20200811/i1QWKrL8/index.m3u8$mahua#第35集$https://mhqiyi.com/20200811/ezICb03y/index.m3u8$mahua#第36集$https://mhqiyi.com/20200811/cDxt9rpy/index.m3u8$mahua#第37集$https://mhqiyi.com/20200811/OQ9kTZ3o/index.m3u8$mahua#第38集$https://mhqiyi.com/20200811/cCN0p9rp/index.m3u8$mahua#第39集$https://mhqiyi.com/20200811/Kr6TGMqx/index.m3u8$mahua#第40集$https://mhqiyi.com/20200811/AeFtd2Lq/index.m3u8$mahua#第41集$https://mhqiyi.com/20200811/dHJADHwU/index.m3u8$mahua#第42集$https://mhqiyi.com/20200811/ts0CXJ1J/index.m3u8$mahua#第43集$https://mhqiyi.com/20200811/DXmGnpE8/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "北宋仁宗年间，某年京师瘟疫盛行，军民伤损甚多。天子钦点洪太尉前往江西信州龙虎山，宣请张天师驱邪除祟。洪太尉寻天师不见，却因固执走了上清宫中镇压的一百单八个魔头。 转眼数十年过去，正是哲宗在位之时。破落户高俅（魏宗万 饰）凭借一身的奇技淫巧深得端王欢心，随即平步青云。待端王继位为徽宗，高俅更到了不可一世的地步。君臣二人一心玩乐，荒废朝纲，致使举国上下怨声载道，强梁四起。以及时雨宋江（李雪健 饰）为首的一八零八位好汉相继登上梁山，一众好汉闹江州、三打祝家庄、战青州……搅得大宋江山沸沸扬扬…… 本片根据中国古典四大名著之一《水浒传》改编。",
+      "fullList": [
+        {
+          "flag": "mahua",
+          "list": [
+            "第01集$https://mhqiyi.com/20200811/cDPV6X9Z/index.m3u8$mahua",
+            "第02集$https://mhqiyi.com/20200811/pQvGhJKh/index.m3u8$mahua",
+            "第03集$https://mhqiyi.com/20200811/4IGHfz4a/index.m3u8$mahua",
+            "第04集$https://mhqiyi.com/20200811/jksFhuSa/index.m3u8$mahua",
+            "第05集$https://mhqiyi.com/20200811/dVa6XlYu/index.m3u8$mahua",
+            "第06集$https://mhqiyi.com/20200811/QMiRHnEw/index.m3u8$mahua",
+            "第07集$https://mhqiyi.com/20200811/gq1AcnC7/index.m3u8$mahua",
+            "第08集$https://mhqiyi.com/20200811/18qSceZP/index.m3u8$mahua",
+            "第09集$https://mhqiyi.com/20200811/z32dSdW0/index.m3u8$mahua",
+            "第10集$https://mhqiyi.com/20200811/9B0eOKvP/index.m3u8$mahua",
+            "第11集$https://mhqiyi.com/20200811/vaDxlatn/index.m3u8$mahua",
+            "第12集$https://mhqiyi.com/20200811/uvWMb1id/index.m3u8$mahua",
+            "第13集$https://mhqiyi.com/20200811/gWpZOKaD/index.m3u8$mahua",
+            "第14集$https://mhqiyi.com/20200811/ZZa91z3l/index.m3u8$mahua",
+            "第15集$https://mhqiyi.com/20200811/i7H5Jq0C/index.m3u8$mahua",
+            "第16集$https://mhqiyi.com/20200811/1vb0EYG7/index.m3u8$mahua",
+            "第17集$https://mhqiyi.com/20200811/2s8ncndv/index.m3u8$mahua",
+            "第18集$https://mhqiyi.com/20200811/yqTA97xD/index.m3u8$mahua",
+            "第19集$https://mhqiyi.com/20200811/gR2LsiuC/index.m3u8$mahua",
+            "第20集$https://mhqiyi.com/20200811/ZKlWS4w1/index.m3u8$mahua",
+            "第21集$https://mhqiyi.com/20200811/t67H5onZ/index.m3u8$mahua",
+            "第22集$https://mhqiyi.com/20200811/1QuWCKcx/index.m3u8$mahua",
+            "第23集$https://mhqiyi.com/20200811/ZiWJpLNF/index.m3u8$mahua",
+            "第24集$https://mhqiyi.com/20200811/Vvi8GjyZ/index.m3u8$mahua",
+            "第25集$https://mhqiyi.com/20200811/ZCvSAwKl/index.m3u8$mahua",
+            "第26集$https://mhqiyi.com/20200811/pbWCQ13u/index.m3u8$mahua",
+            "第27集$https://mhqiyi.com/20200811/ylrPBw1N/index.m3u8$mahua",
+            "第28集$https://mhqiyi.com/20200811/r9uIfuNa/index.m3u8$mahua",
+            "第29集$https://mhqiyi.com/20200811/dVHqXvOS/index.m3u8$mahua",
+            "第30集$https://mhqiyi.com/20200811/uF6zQwB4/index.m3u8$mahua",
+            "第31集$https://mhqiyi.com/20200811/fz9smKT1/index.m3u8$mahua",
+            "第32集$https://mhqiyi.com/20200811/l9QCUtex/index.m3u8$mahua",
+            "第33集$https://mhqiyi.com/20200811/fwhvl8rJ/index.m3u8$mahua",
+            "第34集$https://mhqiyi.com/20200811/i1QWKrL8/index.m3u8$mahua",
+            "第35集$https://mhqiyi.com/20200811/ezICb03y/index.m3u8$mahua",
+            "第36集$https://mhqiyi.com/20200811/cDxt9rpy/index.m3u8$mahua",
+            "第37集$https://mhqiyi.com/20200811/OQ9kTZ3o/index.m3u8$mahua",
+            "第38集$https://mhqiyi.com/20200811/cCN0p9rp/index.m3u8$mahua",
+            "第39集$https://mhqiyi.com/20200811/Kr6TGMqx/index.m3u8$mahua",
+            "第40集$https://mhqiyi.com/20200811/AeFtd2Lq/index.m3u8$mahua",
+            "第41集$https://mhqiyi.com/20200811/dHJADHwU/index.m3u8$mahua",
+            "第42集$https://mhqiyi.com/20200811/ts0CXJ1J/index.m3u8$mahua",
+            "第43集$https://mhqiyi.com/20200811/DXmGnpE8/index.m3u8$mahua"
+          ]
+        }
+      ],
+      "rate": "8.9"
+    },
+    "rate": "8.9",
+    "id": 280
+  },
+  {
+    "key": "mahuazy",
     "ids": 54318,
     "site": {
       "id": 1,
@@ -42,11 +497,11 @@
             "HD$https://d.mhqiyi.com/20201230/hSLhcUax/index.m3u8$mahua"
           ]
         }
-      ],
-      "rate": "9.3"
+      ]
     },
     "rate": "9.3",
-    "id": 279
+    "id": 279,
+    "index": 0
   },
   {
     "key": "mahuazy",
@@ -105,7 +560,8 @@
       ]
     },
     "rate": "8.6",
-    "id": 278
+    "id": 278,
+    "index": 0
   },
   {
     "id": 277,
@@ -715,7 +1171,7 @@
     "hasUpdate": true,
     "rate": "9.1",
     "detail": {
-      "last": "2020-12-27 19:34:35",
+      "last": "2021-01-01 22:25:18",
       "id": 53015,
       "tid": 15,
       "name": "法官大人第一季",
@@ -725,12 +1181,12 @@
       "area": "美国",
       "year": 2020,
       "state": 0,
-      "note": "更新至04集",
+      "note": "更新至05集",
       "actor": "布莱恩·科兰斯顿,亨特·杜汉,迈克尔·斯图巴,霍普·戴维斯,索菲亚·布莱克-德埃利亚,托尼·库兰,莉莉·凯,Brittney Tamberg,小伊塞亚·维特洛克,Jock McKissic,大卫·马尔登那多,吉米·坦顿,杰拉尔丁·休斯,Keith Machekanyanga,加勒特·克鲁特霍夫,艾米·兰德克,布兰登·斯特西,拉马尔·约翰逊,梅兰妮尼科尔斯金,弗兰克·迪尔,约翰·皮鲁切洛,杰拉德·班肯斯,小本杰明·弗洛雷斯,托尼亚·马尔多纳多,玛格·马丁戴尔,T·C·马特恩,贾伦·米切尔,库伦·莫斯,吉布瑞",
       "director": "爱德华·贝尔格",
       "dl": {
         "dd": {
-          "_t": "第01集$https://b.mhqiyi.com/20201206/QuqcU8aP/index.m3u8$mahua#第02集$https://c.mhqiyi.com/20201213/WiwnM2XT/index.m3u8$mahua#第03集$https://c.mhqiyi.com/20201220/CLuXd1ZR/index.m3u8$mahua#第04集$https://b.mhqiyi.com/20201227/7GC05Fdz/index.m3u8$mahua",
+          "_t": "第01集$https://b.mhqiyi.com/20201206/QuqcU8aP/index.m3u8$mahua#第02集$https://c.mhqiyi.com/20201213/WiwnM2XT/index.m3u8$mahua#第03集$https://c.mhqiyi.com/20201220/CLuXd1ZR/index.m3u8$mahua#第04集$https://b.mhqiyi.com/20201227/7GC05Fdz/index.m3u8$mahua#第05集$https://d.mhqiyi.com/20210101/0s8E8O9o/index.m3u8$mahua",
           "_flag": "mahua"
         }
       },
@@ -742,7 +1198,8 @@
             "第01集$https://b.mhqiyi.com/20201206/QuqcU8aP/index.m3u8$mahua",
             "第02集$https://c.mhqiyi.com/20201213/WiwnM2XT/index.m3u8$mahua",
             "第03集$https://c.mhqiyi.com/20201220/CLuXd1ZR/index.m3u8$mahua",
-            "第04集$https://b.mhqiyi.com/20201227/7GC05Fdz/index.m3u8$mahua"
+            "第04集$https://b.mhqiyi.com/20201227/7GC05Fdz/index.m3u8$mahua",
+            "第05集$https://d.mhqiyi.com/20210101/0s8E8O9o/index.m3u8$mahua"
           ]
         }
       ]
@@ -9827,7 +10284,7 @@
         "dd": [
           {
             "_t": "第01集$https://www.xabdht.com:65/20191104/hvbdkX2h/index.m3u8#第02集$https://www.xabdht.com:65/20191104/iIONEPEL/index.m3u8#第03集$https://www.xabdht.com:65/20191104/nzkkoM0s/index.m3u8#第04集$https://www.xabdht.com:65/20191104/v1KFU6zK/index.m3u8#第05集$https://www.xabdht.com:65/20191104/YDo4KacU/index.m3u8#第06集$https://www.xabdht.com:65/20191104/wtAElGgE/index.m3u8#第07集$https://www.xabdht.com:65/20191104/hHMVqcRT/index.m3u8#第08集$https://www.xabdht.com:65/20191104/sPxsaxIR/index.m3u8#第09集$https://www.xabdht.com:65/20191104/4Ji91dUp/index.m3u8#第10集$https://www.xabdht.com:65/20191104/qAPsD0Ni/index.m3u8#第11集$https://www.xabdht.com:65/20191104/l3xEuZsj/index.m3u8#第12集$https://www.xabdht.com:65/20191104/xpzF3ZtA/index.m3u8",
-            "_flag": "123kum3u8"
+            "_flag": "m3u8"
           },
           {
             "_t": "第01集$https://www.xabdht.com:65/share/MRb5JIGsVC7Y9plA#第02集$https://www.xabdht.com:65/share/ekAgY0QXH87FzEkk#第03集$https://www.xabdht.com:65/share/TMYNmMeVtERPkTRl#第04集$https://www.xabdht.com:65/share/GQ8uaFkwvzDo3M93#第05集$https://www.xabdht.com:65/share/cLYpa3Es9qxk1zlC#第06集$https://www.xabdht.com:65/share/dztpoBTNgYd34mNI#第07集$https://www.xabdht.com:65/share/SouEcw3YB0dcZeu1#第08集$https://www.xabdht.com:65/share/jZz0k3ahzpGw2uYM#第09集$https://www.xabdht.com:65/share/MyyfIrG254Rcy9Xz#第10集$https://www.xabdht.com:65/share/jr4YSMDxhQtGXSHd#第11集$https://www.xabdht.com:65/share/rwj58UC5kGtRd1Bd#第12集$https://www.xabdht.com:65/share/iTvUSKpnyWC2EkuD",
@@ -9835,7 +10292,43 @@
           }
         ]
       },
-      "des": "本动画由《座敷童子》《海坊主》《无脸怪》《鵺》《化猫》五个故事组成，背着一个大药箱、持着一把退魔之剑的卖药郎（樱井孝宏 配音）是每一个故事的联结者。妖怪的形成，是由人类的种种因缘引起的；要想拔出退魔之剑，就必须要凑齐“形、真、理”。“形”即由人的因缘所引起的妖怪的形态；“真”即事件的真相；“理”即当事人心里真实的想法。&nbsp;"
+      "des": "本动画由《座敷童子》《海坊主》《无脸怪》《鵺》《化猫》五个故事组成，背着一个大药箱、持着一把退魔之剑的卖药郎（樱井孝宏 配音）是每一个故事的联结者。妖怪的形成，是由人类的种种因缘引起的；要想拔出退魔之剑，就必须要凑齐“形、真、理”。“形”即由人的因缘所引起的妖怪的形态；“真”即事件的真相；“理”即当事人心里真实的想法。&nbsp;",
+      "fullList": [
+        {
+          "flag": "m3u8",
+          "list": [
+            "第01集$https://www.xabdht.com:65/20191104/hvbdkX2h/index.m3u8",
+            "第02集$https://www.xabdht.com:65/20191104/iIONEPEL/index.m3u8",
+            "第03集$https://www.xabdht.com:65/20191104/nzkkoM0s/index.m3u8",
+            "第04集$https://www.xabdht.com:65/20191104/v1KFU6zK/index.m3u8",
+            "第05集$https://www.xabdht.com:65/20191104/YDo4KacU/index.m3u8",
+            "第06集$https://www.xabdht.com:65/20191104/wtAElGgE/index.m3u8",
+            "第07集$https://www.xabdht.com:65/20191104/hHMVqcRT/index.m3u8",
+            "第08集$https://www.xabdht.com:65/20191104/sPxsaxIR/index.m3u8",
+            "第09集$https://www.xabdht.com:65/20191104/4Ji91dUp/index.m3u8",
+            "第10集$https://www.xabdht.com:65/20191104/qAPsD0Ni/index.m3u8",
+            "第11集$https://www.xabdht.com:65/20191104/l3xEuZsj/index.m3u8",
+            "第12集$https://www.xabdht.com:65/20191104/xpzF3ZtA/index.m3u8"
+          ]
+        },
+        {
+          "flag": "123kuyun",
+          "list": [
+            "第01集$https://www.xabdht.com:65/share/MRb5JIGsVC7Y9plA",
+            "第02集$https://www.xabdht.com:65/share/ekAgY0QXH87FzEkk",
+            "第03集$https://www.xabdht.com:65/share/TMYNmMeVtERPkTRl",
+            "第04集$https://www.xabdht.com:65/share/GQ8uaFkwvzDo3M93",
+            "第05集$https://www.xabdht.com:65/share/cLYpa3Es9qxk1zlC",
+            "第06集$https://www.xabdht.com:65/share/dztpoBTNgYd34mNI",
+            "第07集$https://www.xabdht.com:65/share/SouEcw3YB0dcZeu1",
+            "第08集$https://www.xabdht.com:65/share/jZz0k3ahzpGw2uYM",
+            "第09集$https://www.xabdht.com:65/share/MyyfIrG254Rcy9Xz",
+            "第10集$https://www.xabdht.com:65/share/jr4YSMDxhQtGXSHd",
+            "第11集$https://www.xabdht.com:65/share/rwj58UC5kGtRd1Bd",
+            "第12集$https://www.xabdht.com:65/share/iTvUSKpnyWC2EkuD"
+          ]
+        }
+      ]
     }
   },
   {
@@ -11759,7 +12252,7 @@
       "tid": 10,
       "name": "一一",
       "type": "剧情片",
-      "pic": "https://images.cnblogsc.com/pic/upload/vod/2018-09/15370058731.jpg",
+      "pic": "http://images.cnblogsc.com/pic/upload/vod/2018-09/15370058731.jpg",
       "lang": "国语",
       "area": "台湾",
       "year": 2000,
@@ -11770,11 +12263,11 @@
       "dl": {
         "dd": [
           {
-            "_t": "HD高清$https://bilibili.com-l-163.com/20180915/1832_f1b34c9a/index.m3u8",
+            "_t": "HD高清$http://bilibili.com-l-163.com/20180915/1832_f1b34c9a/index.m3u8",
             "_flag": "m3u8"
           },
           {
-            "_t": "HD高清$https://bilibili.com-l-163.com/share/61b1fb3f59e28c67f3925f3c79be81a1",
+            "_t": "HD高清$http://bilibili.com-l-163.com/share/61b1fb3f59e28c67f3925f3c79be81a1",
             "_flag": "kuyun"
           }
         ]
@@ -11784,13 +12277,13 @@
         {
           "flag": "m3u8",
           "list": [
-            "HD高清$https://bilibili.com-l-163.com/20180915/1832_f1b34c9a/index.m3u8"
+            "HD高清$http://bilibili.com-l-163.com/20180915/1832_f1b34c9a/index.m3u8"
           ]
         },
         {
           "flag": "kuyun",
           "list": [
-            "HD高清$https://bilibili.com-l-163.com/share/61b1fb3f59e28c67f3925f3c79be81a1"
+            "HD高清$http://bilibili.com-l-163.com/share/61b1fb3f59e28c67f3925f3c79be81a1"
           ]
         }
       ]
