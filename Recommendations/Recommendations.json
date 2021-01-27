@@ -1,6 +1,139 @@
 [
   {
     "key": "mahuazy",
+    "ids": 54915,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "山海情原声版",
+    "detail": {
+      "last": "2021-01-24 22:19:53",
+      "id": 54915,
+      "tid": 12,
+      "name": "山海情原声版",
+      "type": "国产剧",
+      "pic": "https://mahuapic.com/upload/vod/2021-01-12/202101121610460934.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2021,
+      "state": 0,
+      "note": "完结",
+      "actor": "黄轩,张嘉益,闫妮,黄觉,姚晨,陶红,王凯,热依扎,黄尧,白宇帆,尤勇智,胡明,姜冠南,王莎莎,郭京飞,祖峰,白宇,郎月婷",
+      "director": "孔笙,孙墨龙",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://b.mhqiyi.com/20210117/FHfADpe2/index.m3u8$mahua#第02集$https://b.mhqiyi.com/20210117/s2w8CFoU/index.m3u8$mahua#第03集$https://b.mhqiyi.com/20210117/VPkGPOLF/index.m3u8$mahua#第04集$https://b.mhqiyi.com/20210117/DfBdUGtQ/index.m3u8$mahua#第05集$https://b.mhqiyi.com/20210117/Qku6fL5i/index.m3u8$mahua#第06集$https://b.mhqiyi.com/20210117/PIMf8MAW/index.m3u8$mahua#第07集$https://b.mhqiyi.com/20210117/RGV2GlAb/index.m3u8$mahua#第08集$https://b.mhqiyi.com/20210117/lVeybkAZ/index.m3u8$mahua#第09集$https://b.mhqiyi.com/20210117/YTMPrJZH/index.m3u8$mahua#第10集$https://b.mhqiyi.com/20210117/ukFaYe3Y/index.m3u8$mahua#第11集$https://b.mhqiyi.com/20210117/lONWRuFQ/index.m3u8$mahua#第12集$https://d.mhqiyi.com/20210118/RaYVyRag/index.m3u8$mahua#第13集$https://d.mhqiyi.com/20210118/FGAb9CNv/index.m3u8$mahua#第14集$https://d.mhqiyi.com/20210119/acnRozgX/index.m3u8$mahua#第15集$https://d.mhqiyi.com/20210119/tGuwRZf3/index.m3u8$mahua#第16集$https://d.mhqiyi.com/20210120/DmjVYdaw/index.m3u8$mahua#第17集$https://d.mhqiyi.com/20210120/R90SYpYH/index.m3u8$mahua#第18集$https://d.mhqiyi.com/20210121/dtYwiG83/index.m3u8$mahua#第19集$https://d.mhqiyi.com/20210121/PIcW599C/index.m3u8$mahua#第20集$https://d.mhqiyi.com/20210122/VYNBmlVu/index.m3u8$mahua#第21集$https://d.mhqiyi.com/20210122/4t1sSy2E/index.m3u8$mahua#第22集$https://d.mhqiyi.com/20210123/nUerbLAA/index.m3u8$mahua#第23集$https://d.mhqiyi.com/20210124/Pu7lVhhT/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "　　上世纪90年代，从宁夏贫瘠甲天下的西海固地区搬迁到玉泉营地区的移民们，从无到有地建设着他们的新家园，村干部马得福（黄轩 饰）操心着通电、灌溉用水等桩桩件件的问题，他足够努力，却不自信未来什么时候来。直到国家新的扶贫政策出台，福建对宁夏的扶贫事业进行对口援助，并建立了合作样板闽宁村，陈金山（郭京飞 饰）、凌一农（黄觉 饰）等一批优秀的福建干部、技术人员为闽宁镇洒下奋斗的汗水，帮助得福找到了未来的方向，白麦苗（黄尧 饰）、马得宝（白宇帆 饰）、李水花（热依扎 饰）等村里的年轻人也通过劳务输入、发展庭院经济等收获了自信。在发展的过程中，传统与现代，物质文明与精神文明，寻根与断根等问题不断突显，对于马喊水（张嘉益 饰）、白校长（祖峰 饰）、李大有（尤勇智 饰）这些上一辈的人们而言，挑战和转变也在不断发生着。从西海固走出的人们没有忘记他们的初心，他们没有断根，而是把根扎在了这片更肥沃的地方，互相扶持着走上了康庄大道。",
+      "fullList": [
+        {
+          "flag": "mahua",
+          "list": [
+            "第01集$https://b.mhqiyi.com/20210117/FHfADpe2/index.m3u8$mahua",
+            "第02集$https://b.mhqiyi.com/20210117/s2w8CFoU/index.m3u8$mahua",
+            "第03集$https://b.mhqiyi.com/20210117/VPkGPOLF/index.m3u8$mahua",
+            "第04集$https://b.mhqiyi.com/20210117/DfBdUGtQ/index.m3u8$mahua",
+            "第05集$https://b.mhqiyi.com/20210117/Qku6fL5i/index.m3u8$mahua",
+            "第06集$https://b.mhqiyi.com/20210117/PIMf8MAW/index.m3u8$mahua",
+            "第07集$https://b.mhqiyi.com/20210117/RGV2GlAb/index.m3u8$mahua",
+            "第08集$https://b.mhqiyi.com/20210117/lVeybkAZ/index.m3u8$mahua",
+            "第09集$https://b.mhqiyi.com/20210117/YTMPrJZH/index.m3u8$mahua",
+            "第10集$https://b.mhqiyi.com/20210117/ukFaYe3Y/index.m3u8$mahua",
+            "第11集$https://b.mhqiyi.com/20210117/lONWRuFQ/index.m3u8$mahua",
+            "第12集$https://d.mhqiyi.com/20210118/RaYVyRag/index.m3u8$mahua",
+            "第13集$https://d.mhqiyi.com/20210118/FGAb9CNv/index.m3u8$mahua",
+            "第14集$https://d.mhqiyi.com/20210119/acnRozgX/index.m3u8$mahua",
+            "第15集$https://d.mhqiyi.com/20210119/tGuwRZf3/index.m3u8$mahua",
+            "第16集$https://d.mhqiyi.com/20210120/DmjVYdaw/index.m3u8$mahua",
+            "第17集$https://d.mhqiyi.com/20210120/R90SYpYH/index.m3u8$mahua",
+            "第18集$https://d.mhqiyi.com/20210121/dtYwiG83/index.m3u8$mahua",
+            "第19集$https://d.mhqiyi.com/20210121/PIcW599C/index.m3u8$mahua",
+            "第20集$https://d.mhqiyi.com/20210122/VYNBmlVu/index.m3u8$mahua",
+            "第21集$https://d.mhqiyi.com/20210122/4t1sSy2E/index.m3u8$mahua",
+            "第22集$https://d.mhqiyi.com/20210123/nUerbLAA/index.m3u8$mahua",
+            "第23集$https://d.mhqiyi.com/20210124/Pu7lVhhT/index.m3u8$mahua"
+          ]
+        }
+      ],
+      "rate": "9.4"
+    },
+    "rate": "9.4",
+    "id": 285
+  },
+  {
+    "key": "88zyw",
+    "ids": 51038,
+    "site": {
+      "id": 8,
+      "key": "88zyw",
+      "name": "88 影视资源站",
+      "api": "http://www.88zyw.net/inc/api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "可用"
+    },
+    "name": "痴迷坚果：松鼠世界传奇",
+    "detail": {
+      "last": "2021-01-16 21:28:23",
+      "id": 51038,
+      "tid": 23,
+      "name": "痴迷坚果：松鼠世界传奇",
+      "type": "欧美动漫",
+      "pic": "https://www.88zyw.net/upload/vod/2021-01-16/202101161610803654.jpg",
+      "lang": "德语",
+      "area": "欧美",
+      "year": 0,
+      "state": 0,
+      "note": "",
+      "actor": "Dan Wesker",
+      "director": "Yann Sochaczewski",
+      "dl": {
+        "dd": [
+          {
+            "_t": "https://v.js4177.org/share/cyldNrutfgyOudsB",
+            "_flag": "88zy"
+          },
+          {
+            "_t": "https://v.js4177.org/20210115/5CiRyAiD/index.m3u8",
+            "_flag": "m3u8"
+          }
+        ]
+      },
+      "des": "松鼠生活在广阔的地域范围。为适应生存环境，松鼠表现出迥异的习性，滑翔、游泳、钻地。德国Altayfilm关于松鼠的纪录片《痴迷坚果：松鼠世界传奇 Going Nuts Tales from Squirrel World 2019》讲述世界各地不同种类松鼠的故事。&nbsp;　　松鼠成员遍及除澳洲、南极洲外的各大陆， 本纪录片对其中部分成员进行了介绍，画质精美、故事动人，属于填补空白的精品纪录片。看点如下：&nbsp;　　1. 欧亚红松鼠的生境、习性；&nbsp;　　2. 著名的西伯利亚花鼠的近亲、形似种——喜欢单打独斗的北美的东部花栗鼠的越冬储备及种内竞争；&nbsp;　　3. 生活在北美大草原上的黑尾草原犬鼠（俗称土拨鼠）的族群合作；&nbsp;　　4. 北美草原的野生动物秀——叉角羚、穴小鸮、郊狼；&nbsp;　　5. 波罗蜜原产地——印度西高止山脉的特色动物展：鼯鼠、大金背啄木鸟、褐渔鸮、及珍稀的狮尾猴；&nbsp;　　6. 松鼠家庭中的巨无霸——印度巨松鼠的习性，与狮尾猴的暗战；&nbsp;　　7. 能在黑夜中滑翔80米的北美飞鼠；&nbsp;　　8. 美国亚利桑那州索诺拉沙漠的特色植物——巨人柱、圆柱掌；特色动物——领西貒、黑腹翎鹑、(加州)走鹃、沙漠棉尾兔；&nbsp;　　9. 沙漠生境中的哈氏羚松鼠与圆尾地松鼠的故事；&nbsp;　　10. 卡拉哈里稀树草原特色动物展——伊兰大羚羊、南黄弯嘴犀鸟；&nbsp;　　11. 南非地松鼠 Pk 黄金眼镜蛇；&nbsp;　　12. 欧亚红松鼠水中捞果的故事；&nbsp;　　13. 北极地松鼠吃鲑鱼的趣事；&nbsp;　　14. 令人捧腹的、堪称神奇的、绝对精彩经典的加州地松鼠PK橡树啄木鸟之战，Otospermophilus属又是一个中国无人问津的领域；&nbsp;　　15. 阿尔卑斯山秀美草甸上，懒散的、爱吃花的、无事生非的阿尔卑斯旱獭；&nbsp;　　16. 欧亚红松鼠“入侵”城市，适者生存的案例分析。",
+      "fullList": [
+        {
+          "flag": "m3u8",
+          "list": [
+            "https://v.js4177.org/20210115/5CiRyAiD/index.m3u8"
+          ]
+        },
+        {
+          "flag": "88zy",
+          "list": [
+            "https://v.js4177.org/share/cyldNrutfgyOudsB"
+          ]
+        }
+      ],
+      "rate": "暂无评分"
+    },
+    "rate": "暂无评分",
+    "id": 284
+  },
+  {
+    "id": 283,
+    "key": "mahuazy",
     "ids": 32021,
     "site": {
       "id": 1,
@@ -14,6 +147,7 @@
       "status": "可用"
     },
     "name": "三国演义1994",
+    "rate": "9.5",
     "detail": {
       "last": "2020-04-29 17:52:31",
       "id": 32021,
@@ -127,11 +261,10 @@
         }
       ],
       "rate": "9.5"
-    },
-    "rate": "9.5",
-    "id": 283
+    }
   },
   {
+    "id": 282,
     "key": "mahuazy",
     "ids": 24133,
     "site": {
@@ -146,6 +279,7 @@
       "status": "可用"
     },
     "name": "西游记1986",
+    "rate": "9.6",
     "detail": {
       "last": "2020-01-13 14:55:44",
       "id": 24133,
@@ -200,11 +334,10 @@
         }
       ],
       "rate": "9.6"
-    },
-    "rate": "9.6",
-    "id": 282
+    }
   },
   {
+    "id": 281,
     "key": "subo988",
     "ids": 36668,
     "site": {
@@ -219,6 +352,7 @@
       "status": "可用"
     },
     "name": "红楼梦1987版",
+    "rate": "9.6",
     "detail": {
       "last": "2020-09-25 18:06:30",
       "id": 36668,
@@ -359,11 +493,10 @@
         }
       ],
       "rate": "9.6"
-    },
-    "rate": "9.6",
-    "id": 281
+    }
   },
   {
+    "id": 280,
     "key": "mahuazy",
     "ids": 48233,
     "site": {
@@ -378,6 +511,7 @@
       "status": "可用"
     },
     "name": "水浒传",
+    "rate": "8.9",
     "detail": {
       "last": "2020-09-24 19:59:35",
       "id": 48233,
@@ -450,11 +584,10 @@
         }
       ],
       "rate": "8.9"
-    },
-    "rate": "8.9",
-    "id": 280
+    }
   },
   {
+    "id": 279,
     "key": "mahuazy",
     "ids": 54318,
     "site": {
@@ -469,6 +602,8 @@
       "status": "可用"
     },
     "name": "王朝：狐獴特辑",
+    "index": 0,
+    "rate": "9.3",
     "detail": {
       "last": "2020-12-30 15:41:14",
       "id": 54318,
@@ -498,12 +633,10 @@
           ]
         }
       ]
-    },
-    "rate": "9.3",
-    "id": 279,
-    "index": 0
+    }
   },
   {
+    "id": 278,
     "key": "mahuazy",
     "ids": 53051,
     "site": {
@@ -518,6 +651,8 @@
       "status": "可用"
     },
     "name": "中国",
+    "index": 0,
+    "rate": "8.6",
     "detail": {
       "last": "2020-12-24 20:05:05",
       "id": 53051,
@@ -558,10 +693,7 @@
           ]
         }
       ]
-    },
-    "rate": "8.6",
-    "id": 278,
-    "index": 0
+    }
   },
   {
     "id": 277,
