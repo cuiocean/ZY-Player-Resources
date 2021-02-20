@@ -218,5 +218,15 @@
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true
+  },
+  {
+    "key": "宅看(蓝光高清)",
+    "id": 24,
+    "name": "宅看(蓝光高清)",
+    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "isActive": true
   }
 ]
