@@ -20,7 +20,17 @@
     "isActive": true
   },
   {
+    "key": "快播云",
     "id": 3,
+    "name": "快播云",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true
+  },
+  {
+    "id": 4,
     "key": "1886zy",
     "name": "1886 资源",
     "api": "http://cj.1886zy.co/inc/api.php",
@@ -30,7 +40,7 @@
     "isActive": true
   },
   {
-    "id": 4,
+    "id": 5,
     "key": "123ku",
     "name": "123 资源",
     "api": "http://cj.123ku2.com:12315/inc/api.php",
@@ -41,7 +51,7 @@
   },
   {
     "key": "7K资源",
-    "id": 5,
+    "id": 6,
     "name": "7K资源",
     "api": "https://zy.7kjx.com/cjapi.php",
     "download": "",
@@ -51,8 +61,8 @@
   },
   {
     "key": "1717云资源网",
-    "id": 6,
-    "name": "1717云资源网",
+    "id": 7,
+    "name": "1717云",
     "api": "http://zy.itono.cn/inc/api.php",
     "download": "",
     "jiexiUrl": "https://www.1717yun.com/jiexi/?url=",
@@ -61,7 +71,7 @@
   },
   {
     "key": "天空云",
-    "id": 7,
+    "id": 8,
     "name": "天空云",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
@@ -71,7 +81,7 @@
   },
   {
     "key": "聚合云",
-    "id": 8,
+    "id": 9,
     "name": "聚合云",
     "api": "https://cj.cbi88.com/inc/api_juhem3u8s.php",
     "download": "",
@@ -81,7 +91,7 @@
   },
   {
     "key": "八戒云",
-    "id": 9,
+    "id": 10,
     "name": "八戒云",
     "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
     "download": "",
@@ -90,9 +100,9 @@
     "isActive": true
   },
   {
-    "id": 10,
     "key": "subo988",
-    "name": "速播资源站",
+    "id": 11,
+    "name": "速播资源",
     "api": "https://www.subo988.com/inc/api.php",
     "download": "",
     "jiexiUrl": "",
@@ -100,19 +110,9 @@
     "isActive": true
   },
   {
-    "key": "快播云",
-    "id": 12,
-    "name": "快播云",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true
-  },
-  {
-    "id": 13,
     "key": "88zyw",
-    "name": "88 影视资源站",
+    "id": 12,
+    "name": "88 影视",
     "api": "http://www.88zyw.net/inc/api.php",
     "download": "",
     "jiexiUrl": "",
@@ -121,8 +121,8 @@
   },
   {
     "key": "zuidazy",
-    "id": 14,
-    "name": "最大资源网",
+    "id": 13,
+    "name": "最大资源",
     "api": "http://www.zdziyuan.com/inc/ldg_sea.php",
     "download": "http://www.zdziyuan.com/inc/apidown.php",
     "jiexiUrl": "",
@@ -131,7 +131,7 @@
   },
   {
     "key": "mbo",
-    "id": 15,
+    "id": 14,
     "name": "秒播资源",
     "api": "http://caiji.mb77.vip/inc/seacmsapi.php",
     "download": "",
@@ -140,9 +140,9 @@
     "isActive": true
   },
   {
-    "id": 16,
     "key": "okzy",
-    "name": "OK 资源网",
+    "id": 15,
+    "name": "OK 资源",
     "api": "http://cj.okzy.tv/inc/api.php",
     "download": "http://cj.okzy.tv/inc/apidown.php",
     "jiexiUrl": "",
@@ -150,7 +150,7 @@
     "isActive": true
   },
   {
-    "id": 17,
+    "id": 16,
     "key": "kuyunzy",
     "name": "酷云资源",
     "api": "http://caiji.kuyun98.com/inc/ldg_api.php",
@@ -160,7 +160,7 @@
     "isActive": true
   },
   {
-    "id": 18,
+    "id": 17,
     "key": "kubozy",
     "name": "酷播资源",
     "api": "http://api.kbzyapi.com/inc/api.php",
@@ -170,7 +170,7 @@
     "isActive": true
   },
   {
-    "id": 19,
+    "id": 18,
     "key": "yongjiuzy",
     "name": "永久资源",
     "api": "http://cj.yongjiuzyw.com/inc/api.php",
@@ -180,7 +180,7 @@
     "isActive": true
   },
   {
-    "id": 20,
+    "id": 19,
     "key": "rrzy",
     "name": "人人资源",
     "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
@@ -190,17 +190,7 @@
     "isActive": true
   },
   {
-    "id": 21,
-    "key": "bbkdj",
-    "name": "步步高顶尖资源网",
-    "api": "http://api.bbkdj.com/api",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true
-  },
-  {
-    "id": 22,
+    "id": 20,
     "key": "zuixinzy",
     "name": "最新资源",
     "api": "http://api.zuixinapi.com/inc/api.php",
@@ -210,20 +200,10 @@
     "isActive": true
   },
   {
-    "id": 23,
+    "id": 21,
     "key": "209zy",
     "name": "209 资源",
     "api": "http://cj.1156zy.com/inc/api.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true
-  },
-  {
-    "key": "宅看(蓝光高清)",
-    "id": 24,
-    "name": "宅看(蓝光高清)",
-    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
