@@ -1,5 +1,66 @@
 [
   {
+    "key": "zuidazy",
+    "ids": 102473,
+    "site": {
+      "key": "zuidazy",
+      "id": 13,
+      "name": "最大资源",
+      "api": "http://www.zdziyuan.com/inc/ldg_sea.php",
+      "download": "http://www.zdziyuan.com/inc/apidown.php",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true
+    },
+    "name": "企鹅小萌萌",
+    "detail": {
+      "last": "2021-02-04 17:07:38",
+      "id": 102473,
+      "tid": 22,
+      "name": "企鹅小萌萌",
+      "type": "记录片",
+      "pic": "https://tu.tianzuida.com/pic/upload/vod/2021-02-04/202102041612426751.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2019,
+      "state": 0,
+      "note": "BD1280高清中英双字版",
+      "actor": "艾德·赫尔姆斯",
+      "director": "艾雷斯泰·法瑟吉尔",
+      "dl": {
+        "dd": [
+          {
+            "_t": "BD1280高清中英双字版$http://meinv.jingyu-zuida.com/20210204/14040_8790f86a/index.m3u8$zuidam3u8",
+            "_flag": "m3u8"
+          },
+          {
+            "_t": "BD1280高清中英双字版$http://meinv.jingyu-zuida.com/share/8cde262fa88618f09747e11735d0bc09$zuidall",
+            "_flag": "zuidall"
+          }
+        ]
+      },
+      "des": "　　迪士尼自然（Disneynature）出品的全新纪录片《企鹅小萌萌》（Penguins）曝光首款预告。该片由埃雷斯泰·法瑟吉尔（《蓝色星球》）执导。故事围绕一只名为史蒂夫的小企鹅展开。该片将于2019年4月19号上映！",
+      "fullList": [
+        {
+          "flag": "m3u8",
+          "list": [
+            "BD1280高清中英双字版$http://meinv.jingyu-zuida.com/20210204/14040_8790f86a/index.m3u8$zuidam3u8"
+          ]
+        },
+        {
+          "flag": "zuidall",
+          "list": [
+            "BD1280高清中英双字版$http://meinv.jingyu-zuida.com/share/8cde262fa88618f09747e11735d0bc09$zuidall"
+          ]
+        }
+      ],
+      "rate": "暂无评分"
+    },
+    "rate": "暂无评分",
+    "id": 287
+  },
+  {
+    "id": 286,
     "key": "mahuazy",
     "ids": 16666,
     "site": {
@@ -14,6 +75,8 @@
       "status": "可用"
     },
     "name": "明日边缘",
+    "index": 0,
+    "rate": "8.1",
     "detail": {
       "last": "2019-10-23 09:44:13",
       "id": 16666,
@@ -44,10 +107,7 @@
         }
       ],
       "rate": "8.1"
-    },
-    "rate": "8.1",
-    "id": 286,
-    "index": 0
+    }
   },
   {
     "id": 285,
