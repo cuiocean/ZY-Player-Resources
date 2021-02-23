@@ -30,12 +30,12 @@
     "isActive": true
   },
   {
-    "id": 4,
     "key": "1886zy",
+    "id": 4,
     "name": "1886 资源",
     "api": "http://cj.1886zy.co/inc/api.php",
     "download": "",
-    "jiexiUrl": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
     "isActive": true
   },
@@ -130,16 +130,6 @@
     "isActive": true
   },
   {
-    "key": "mbo",
-    "id": 14,
-    "name": "秒播资源",
-    "api": "http://caiji.mb77.vip/inc/seacmsapi.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true
-  },
-  {
     "key": "okzy",
     "id": 15,
     "name": "OK 资源",
@@ -160,8 +150,8 @@
     "isActive": true
   },
   {
-    "id": 17,
     "key": "kubozy",
+    "id": 17,
     "name": "酷播资源",
     "api": "http://api.kbzyapi.com/inc/api.php",
     "download": "",
@@ -180,12 +170,12 @@
     "isActive": true
   },
   {
-    "id": 19,
     "key": "rrzy",
+    "id": 19,
     "name": "人人资源",
     "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
     "download": "",
-    "jiexiUrl": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
     "isActive": true
   },
