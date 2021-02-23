@@ -1,5 +1,54 @@
 [
   {
+    "key": "快播云",
+    "ids": 26733,
+    "site": {
+      "key": "快播云",
+      "id": 3,
+      "name": "快播云",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+      "download": "",
+      "jiexiUrl": "https://jx.7kjx.com/?url=",
+      "group": "默认",
+      "isActive": true
+    },
+    "name": "棒！少年",
+    "detail": {
+      "last": "2021-01-15 17:49:49",
+      "id": 26733,
+      "tid": 21,
+      "name": "棒！少年",
+      "type": "纪录片",
+      "pic": "http://img.kuaibozy.net/upload/vod/20210115-1/7b27a7590d5a675dbe88b52105aaf9cb.jpg",
+      "lang": "国语",
+      "area": "大陆",
+      "year": 2020,
+      "state": 0,
+      "note": "1080P",
+      "actor": "马虎,梁正双,张锦新,孙岭峰,郭忠健",
+      "director": "许慧晶",
+      "dl": {
+        "dd": {
+          "_t": "1080P$https://vod.bunediy.com/20210115/sGYjlCw9/index.m3u8",
+          "_flag": "kbm3u8"
+        }
+      },
+      "des": "<p>　　一群来自全国各地的困境少年，被选进北京市郊一个爱心棒球基地，组成了一支特殊的棒球队，跟着70岁传奇教练“师爷”从零开始学习打棒球。 少年马虎以“刺头”状态闯进了基地，天天打架干仗；而“元老球员”小双心思细腻敏感，对未来满是怀疑和不确定。不同家庭背景和心性习惯的少年在一起训练、生活，一支棒球棍，把他们带进无尽的冲突和欢乐，也带给他们久违的热血与梦想。 几个月后，他们将飞往美国，代表中国登上世界少棒的顶级赛场，但基地的球场和宿舍却面临拆迁…… 少年们能否逆风挥棒，叫板自己的命运？</p>",
+      "fullList": [
+        {
+          "flag": "kbm3u8",
+          "list": [
+            "1080P$https://vod.bunediy.com/20210115/sGYjlCw9/index.m3u8"
+          ]
+        }
+      ],
+      "rate": "8.7"
+    },
+    "rate": "8.7",
+    "id": 288
+  },
+  {
+    "id": 287,
     "key": "zuidazy",
     "ids": 102473,
     "site": {
@@ -13,6 +62,7 @@
       "isActive": true
     },
     "name": "企鹅小萌萌",
+    "rate": "暂无评分",
     "detail": {
       "last": "2021-02-04 17:07:38",
       "id": 102473,
@@ -55,9 +105,7 @@
         }
       ],
       "rate": "暂无评分"
-    },
-    "rate": "暂无评分",
-    "id": 287
+    }
   },
   {
     "id": 286,
