@@ -30,8 +30,18 @@
     "isActive": true
   },
   {
-    "key": "1886zy",
+    "key": "宅看(蓝光高清)",
     "id": 4,
+    "name": "宅看(蓝光高清)",
+    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true
+  },
+  {
+    "key": "1886zy",
+    "id": 5,
     "name": "1886 资源",
     "api": "http://cj.1886zy.co/inc/api.php",
     "download": "",
@@ -40,7 +50,7 @@
     "isActive": true
   },
   {
-    "id": 5,
+    "id": 6,
     "key": "123ku",
     "name": "123 资源",
     "api": "http://cj.123ku2.com:12315/inc/api.php",
@@ -51,7 +61,7 @@
   },
   {
     "key": "7K资源",
-    "id": 6,
+    "id": 7,
     "name": "7K资源",
     "api": "https://zy.7kjx.com/cjapi.php",
     "download": "",
@@ -61,7 +71,7 @@
   },
   {
     "key": "1717云资源网",
-    "id": 7,
+    "id": 8,
     "name": "1717云",
     "api": "http://zy.itono.cn/inc/api.php",
     "download": "",
@@ -71,7 +81,7 @@
   },
   {
     "key": "天空云",
-    "id": 8,
+    "id": 9,
     "name": "天空云",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
@@ -81,7 +91,7 @@
   },
   {
     "key": "聚合云",
-    "id": 9,
+    "id": 10,
     "name": "聚合云",
     "api": "https://cj.cbi88.com/inc/api_juhem3u8s.php",
     "download": "",
@@ -91,7 +101,7 @@
   },
   {
     "key": "八戒云",
-    "id": 10,
+    "id": 11,
     "name": "八戒云",
     "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
     "download": "",
@@ -101,7 +111,7 @@
   },
   {
     "key": "subo988",
-    "id": 11,
+    "id": 12,
     "name": "速播资源",
     "api": "https://www.subo988.com/inc/api.php",
     "download": "",
@@ -111,7 +121,7 @@
   },
   {
     "key": "88zyw",
-    "id": 12,
+    "id": 13,
     "name": "88 影视",
     "api": "http://www.88zyw.net/inc/api.php",
     "download": "",
@@ -121,7 +131,7 @@
   },
   {
     "key": "zuidazy",
-    "id": 13,
+    "id": 14,
     "name": "最大资源",
     "api": "http://www.zdziyuan.com/inc/ldg_sea.php",
     "download": "http://www.zdziyuan.com/inc/apidown.php",
