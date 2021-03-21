@@ -1,5 +1,106 @@
 [
   {
+    "key": "mahuazy",
+    "ids": 17080,
+    "site": {
+      "id": 1,
+      "key": "mahuazy",
+      "name": "麻花资源",
+      "api": "http://www.mhapi123.com/inc/ldg_api.php",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true
+    },
+    "name": "水深火热的星球第一季",
+    "detail": {
+      "last": "2019-10-27 09:27:22",
+      "id": 17080,
+      "tid": 20,
+      "name": "水深火热的星球第一季",
+      "type": "记录片",
+      "pic": "https://cdn1.mh-pic.com/upload/vod/2019-10-27/15721398620.jpg",
+      "lang": "英语",
+      "area": "美国",
+      "year": 2019,
+      "state": 0,
+      "note": "完结",
+      "actor": "贝尔·格里尔斯",
+      "director": "马泰奥·威利斯",
+      "dl": {
+        "dd": {
+          "_t": "第01集$https://qiyi.mhyunbo.com/20191026/lxtT1Eao/index.m3u8$mahua#第02集$https://qiyi.mhyunbo.com/20191026/jxPat24I/index.m3u8$mahua#第03集$https://qiyi.mhyunbo.com/20191026/Zz9HxO6e/index.m3u8$mahua#第04集$https://qiyi.mhyunbo.com/20191026/9T9Azwwj/index.m3u8$mahua#第05集$https://qiyi.mhyunbo.com/20191026/c4CnFYMT/index.m3u8$mahua#第06集$https://qiyi.mhyunbo.com/20191026/vda4EpRA/index.m3u8$mahua",
+          "_flag": "mahua"
+        }
+      },
+      "des": "野生动物主题纪录片《水深火热的星球》从一个全新的角度探索地球最恶劣的生存环境。这部纪录片分为六集，观众将分别走进地球最深、最高、最冷、最热、最潮湿和最干旱的自然栖息地，了解那里的动物们是如何克服不利的环境因素生存繁衍的。自然界中危机四伏，在过去的40年里，野生动物面临的挑战比过去6500万年间还要艰巨。因此在这些极端环境下生活的动物必须随着环境的变化不断进化，才能直面水深火热的栖息地、严峻的气候、冷酷无情的掠食者并和同类争夺有限的自然资源。它们的挑战很简单：适应或死亡。",
+      "fullList": [
+        {
+          "flag": "mahua",
+          "list": [
+            "第01集$https://qiyi.mhyunbo.com/20191026/lxtT1Eao/index.m3u8$mahua",
+            "第02集$https://qiyi.mhyunbo.com/20191026/jxPat24I/index.m3u8$mahua",
+            "第03集$https://qiyi.mhyunbo.com/20191026/Zz9HxO6e/index.m3u8$mahua",
+            "第04集$https://qiyi.mhyunbo.com/20191026/9T9Azwwj/index.m3u8$mahua",
+            "第05集$https://qiyi.mhyunbo.com/20191026/c4CnFYMT/index.m3u8$mahua",
+            "第06集$https://qiyi.mhyunbo.com/20191026/vda4EpRA/index.m3u8$mahua"
+          ]
+        }
+      ],
+      "rate": "9.4"
+    },
+    "rate": "9.4",
+    "id": 290
+  },
+  {
+    "key": "apibdzy",
+    "ids": 63992,
+    "site": {
+      "key": "apibdzy",
+      "id": 2,
+      "name": "百度云资源",
+      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+      "download": "",
+      "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
+      "group": "默认",
+      "isActive": true
+    },
+    "name": "反叛的童谣",
+    "detail": {
+      "last": "2021-01-09 00:52:22",
+      "id": 63992,
+      "tid": 28,
+      "name": "反叛的童谣",
+      "type": "动画电影",
+      "pic": "https://img.52swat.cn/upload/vod/20210109-1/a041db32c0e3cafbd91f7543a871d58d.jpg",
+      "lang": "英语",
+      "area": "英国",
+      "year": 2016,
+      "state": 0,
+      "note": "超清",
+      "actor": "罗伯·布莱顿,露丝·莱斯利,嘉玛·陈,伊萨克·亨普斯特德-怀特,蓓尔·波利,博迪·卡维尔,塔姆辛·格雷格,丹尼斯·史托霍伊,大卫·威廉姆斯,多米尼克·韦斯特,艾蜜莉·福雷斯特-埃文斯,迪伦·伊斯贝内,多莉·希维,伊登·马克尔",
+      "director": "扬·拉豪尔,雅各布·舒,宾-汉·图",
+      "dl": {
+        "dd": {
+          "_t": "HD$https://vod3.buycar5.cn/20210108/CwzWReLg/index.m3u8",
+          "_flag": "dbm3u8"
+        }
+      },
+      "des": "<p>童话新编，将多个儿时的童话故事杂糅在一起，形成了一段崭新的童话故事，想法大胆，别具一格，当小红帽、白雪公主、灰姑娘、三只小猪、杰克与豌豆等出现在同一个故事，该是多么精彩呢？\n本片提名2018年奥斯卡最佳动画短片。\n该短片IMDb分为Part1、Part2，豆瓣电影将二者合并收录为一个条目，标记前请知悉。</p>",
+      "fullList": [
+        {
+          "flag": "dbm3u8",
+          "list": [
+            "HD$https://vod3.buycar5.cn/20210108/CwzWReLg/index.m3u8"
+          ]
+        }
+      ],
+      "rate": "8.7"
+    },
+    "rate": "8.7",
+    "id": 289
+  },
+  {
     "key": "快播云",
     "ids": 26733,
     "site": {
