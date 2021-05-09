@@ -33,30 +33,18 @@
     "status": "可用"
   },
   {
-    "key": "1717云资源网",
-    "id": 4,
-    "name": "1717云",
-    "api": "http://zy.itono.cn/inc/api.php",
-    "download": "",
-    "jiexiUrl": "https://jx.bpba.cc/?v=",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
     "key": "1186资源",
-    "id": 5,
+    "id": 4,
     "name": "1186资源",
     "api": "http://cj.1886zy.co/inc/api.php",
     "download": "",
     "jiexiUrl": "",
-    "group": "",
-    "isActive": true,
-    "status": "可用"
+    "group": "默认",
+    "isActive": true
   },
   {
     "key": "1886zy",
-    "id": 6,
+    "id": 5,
     "name": "1886 资源",
     "api": "http://cj.1886zy.co/inc/api.php",
     "download": "",
@@ -66,30 +54,8 @@
     "status": "可用"
   },
   {
-    "key": "okzy",
-    "id": 7,
-    "name": "OK 资源",
-    "api": "http://cj.okzy.tv/inc/api.php",
-    "download": "http://cj.okzy.tv/inc/apidown.php",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": false,
-    "status": "失效"
-  },
-  {
-    "key": "7K资源",
-    "id": 8,
-    "name": "7K资源",
-    "api": "https://zy.7kjx.com/cjapi.php",
-    "download": "",
-    "jiexiUrl": "default",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
     "key": "天空云",
-    "id": 9,
+    "id": 6,
     "name": "天空云",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
@@ -100,7 +66,7 @@
   },
   {
     "key": "聚合云",
-    "id": 10,
+    "id": 7,
     "name": "聚合云",
     "api": "https://cj.cbi88.com/inc/api_juhem3u8s.php",
     "download": "",
@@ -111,7 +77,7 @@
   },
   {
     "key": "八戒云",
-    "id": 11,
+    "id": 8,
     "name": "八戒云",
     "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
     "download": "",
@@ -121,8 +87,19 @@
     "status": "可用"
   },
   {
+    "key": "宅看(蓝光高清)",
+    "id": 9,
+    "name": "宅看(蓝光高清)",
+    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
     "key": "88zyw",
-    "id": 12,
+    "id": 10,
     "name": "88 影视",
     "api": "http://www.88zyw.net/inc/api.php",
     "download": "",
@@ -132,7 +109,7 @@
     "status": "可用"
   },
   {
-    "id": 13,
+    "id": 11,
     "key": "209zy",
     "name": "209 资源",
     "api": "http://cj.1156zy.com/inc/api.php",
@@ -143,19 +120,8 @@
     "status": "可用"
   },
   {
-    "key": "宅看(蓝光高清)",
-    "id": 14,
-    "name": "宅看(蓝光高清)",
-    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
     "key": "rrzy",
-    "id": 15,
+    "id": 12,
     "name": "人人资源",
     "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
     "download": "",
@@ -166,50 +132,57 @@
   },
   {
     "key": "萝卜资源",
-    "id": 16,
+    "id": 13,
     "name": "萝卜资源",
     "api": "https://cj.lby.pet/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
-    "group": "",
-    "isActive": true,
-    "status": "可用"
+    "group": "默认",
+    "isActive": true
   },
   {
     "key": "穿梭资源",
-    "id": 17,
+    "id": 14,
     "name": "穿梭资源",
     "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
-    "group": "",
-    "isActive": true,
-    "status": "可用"
+    "group": "默认",
+    "isActive": true
   },
   {
     "key": "39影视",
-    "id": 18,
+    "id": 15,
     "name": "39影视",
     "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
-    "group": "",
-    "isActive": true,
-    "status": "可用"
+    "group": "默认",
+    "isActive": true
   },
   {
     "key": "影派资源",
-    "id": 19,
+    "id": 16,
     "name": "影派资源",
     "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
-    "group": "",
+    "group": "默认",
+    "isActive": true
+  },
+  {
+    "key": "1717云资源网",
+    "id": 17,
+    "name": "1717云(需解析)",
+    "api": "http://zy.itono.cn/inc/api.php",
+    "download": "",
+    "jiexiUrl": "https://jx.bpba.cc/?v=",
+    "group": "需解析",
     "isActive": true
   },
   {
     "key": "麻瓜资源",
-    "id": 20,
+    "id": 18,
     "name": "麻瓜资源(需解析)",
     "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
     "download": "",
@@ -220,7 +193,7 @@
   },
   {
     "key": "零度资源",
-    "id": 21,
+    "id": 19,
     "name": "零度资源(需解析)",
     "api": "https://zy.kuluni.cn/api.php/provide/vod/at/xml",
     "download": "",
@@ -231,7 +204,7 @@
   },
   {
     "key": "蘑菇资源",
-    "id": 22,
+    "id": 20,
     "name": "蘑菇资源(需解析)",
     "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
     "download": "",
@@ -242,7 +215,7 @@
   },
   {
     "key": "十点影视",
-    "id": 23,
+    "id": 21,
     "name": "十点影视(需解析)",
     "api": "http://shidian.vip/api.php/provide/vod/at/xml",
     "download": "",
@@ -253,7 +226,7 @@
   },
   {
     "key": "明日资源",
-    "id": 24,
+    "id": 22,
     "name": "明日资源(需解析)",
     "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -263,7 +236,7 @@
   },
   {
     "key": "4k姨妈",
-    "id": 25,
+    "id": 23,
     "name": "4k姨妈(需解析)",
     "api": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
     "download": "",
