@@ -8,18 +8,8 @@
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 2,
-    "key": "mahuazy",
-    "name": "麻花资源",
-    "api": "http://www.mhapi123.com/inc/ldg_api.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": true
   },
   {
     "key": "apibdzy",
@@ -30,7 +20,8 @@
     "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": true
   },
   {
     "key": "1186资源",
@@ -40,7 +31,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": false
   },
   {
     "key": "1886zy",
@@ -51,7 +43,8 @@
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "key": "天空云",
@@ -62,7 +55,8 @@
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "key": "聚合云",
@@ -73,7 +67,8 @@
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "key": "八戒云",
@@ -84,18 +79,8 @@
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
-  },
-  {
-    "key": "宅看(蓝光高清)",
-    "id": 9,
-    "name": "宅看(蓝光高清)",
-    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "key": "88zyw",
@@ -106,7 +91,8 @@
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "id": 11,
@@ -117,7 +103,8 @@
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "key": "rrzy",
@@ -128,7 +115,8 @@
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": false
   },
   {
     "key": "萝卜资源",
@@ -138,7 +126,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": false
   },
   {
     "key": "穿梭资源",
@@ -148,7 +137,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": true
   },
   {
     "key": "39影视",
@@ -158,7 +148,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": true
   },
   {
     "key": "影派资源",
@@ -168,7 +159,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": false
   },
   {
     "key": "1717云资源网",
@@ -178,7 +170,8 @@
     "download": "",
     "jiexiUrl": "https://jx.bpba.cc/?v=",
     "group": "需解析",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": true
   },
   {
     "key": "麻瓜资源",
@@ -189,7 +182,8 @@
     "jiexiUrl": "",
     "group": "需解析",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": true
   },
   {
     "key": "零度资源",
@@ -200,7 +194,8 @@
     "jiexiUrl": "",
     "group": "需解析",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": true
   },
   {
     "key": "蘑菇资源",
@@ -211,7 +206,8 @@
     "jiexiUrl": "",
     "group": "需解析",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": true
   },
   {
     "key": "十点影视",
@@ -222,7 +218,8 @@
     "jiexiUrl": "",
     "group": "需解析",
     "isActive": true,
-    "status": "可用"
+    "status": "可用",
+    "reverseOrder": true
   },
   {
     "key": "明日资源",
@@ -232,16 +229,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "需解析",
-    "isActive": true
-  },
-  {
-    "key": "4k姨妈",
-    "id": 23,
-    "name": "4k姨妈(需解析)",
-    "api": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "需解析",
-    "isActive": true
+    "isActive": true,
+    "reverseOrder": true
   }
 ]
